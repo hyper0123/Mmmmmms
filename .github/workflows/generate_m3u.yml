@@ -1,6 +1,7 @@
 # .github/workflows/generate_m3u.yml
 name: Generar M3U desde VODS
-
+permissions:
+  contents: write
 on:
   workflow_dispatch:
 

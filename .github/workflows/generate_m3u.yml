@@ -40,8 +40,9 @@ jobs:
             if href.lower().endswith('.mkv'):
                 # URL completa
                 video_url = base_url + href
-                # Nombre sin extensión
-                title = href.rsplit('/', 1)[-1].rsplit('.', 1)[0]
+                # Nombre sin extensión y con espacios normales
+                 raw = href.rsplit('/', 1)[-1].rsplit('.', 1)[0]
+                 title = unquote(raw)
                 lines.append(f'#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",{title}')
                 lines.append(video_url)
 

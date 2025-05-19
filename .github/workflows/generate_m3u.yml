@@ -50,8 +50,12 @@ jobs:
                   video_url = base_url + href
                   raw = href.rsplit('/', 1)[-1].rsplit('.', 1)[0]
                   title = unquote(raw)
+
+                  # M3U
                   m3u_lines.append(f'#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",{title}')
                   m3u_lines.append(video_url)
+
+                  # JSON: sólo samples.name y samples.url
                   record = {
                       "name": "",
                       "samples": [{
@@ -69,6 +73,7 @@ jobs:
                   }
                   records.append(record)
 
+          # Escribir archivos
           with open('playlist.m3u', 'w') as f:
               f.write("\n".join(m3u_lines))
           with open('playlist.json', 'w') as f:

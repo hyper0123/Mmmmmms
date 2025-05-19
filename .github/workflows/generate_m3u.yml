@@ -53,7 +53,7 @@ jobs:
                   m3u_lines.append(f'#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",{title}')
                   m3u_lines.append(video_url)
                   record = {
-                      "name": title,
+                      "name": "",
                       "samples": [{
                           "name": title,
                           "url": video_url,

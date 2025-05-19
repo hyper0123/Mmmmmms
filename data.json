@@ -1,0 +1,8 @@
+{
+  "movies": [
+    "https://raw.githubusercontent.com/elvioladordemark/cijefcji/refs/heads/main/peliseries.json"
+  ],
+  "series": [
+    "https://raw.githubusercontent.com/elvioladordemark/cijefcji/refs/heads/main/series.json"
+  ]
+}

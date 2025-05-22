@@ -35,7 +35,7 @@ jobs:
           python <<EOF
           import os, json, requests
 
-          api_key    = os.environ['TMDB_API_KEY']
+          api_key     = os.environ['TMDB_API_KEY']
           base_search = 'https://api.themoviedb.org/3/search/movie'
           base_movie  = 'https://api.themoviedb.org/3/movie'
 
@@ -45,74 +45,75 @@ jobs:
           enriched = []
           for item in data:
               sample = item['samples'][0]
-              original_title = sample['name']
-              year  = sample.get('anio','').strip()
+              orig_title = sample['name']
+              year = sample.get('anio','').strip()
 
-              # Intento 1: búsqueda con año
-              params = {'api_key': api_key, 'language': 'es-MX', 'query': original_title}
+              # 1) Buscar en inglés (en-US) para asegurar coincidencia exacta
+              params = {
+                  'api_key': api_key,
+                  'language': 'en-US',
+                  'query': orig_title
+              }
               if year:
                   params['year'] = year
-              resp = requests.get(base_search, params=params).json()
-              results = resp.get('results',[])
+              results = requests.get(base_search, params=params).json().get('results',[])
 
-              # Si no hay resultados y usamos año, reintentar sin año
+              # 2) Si no hay resultados con año, reintentar sin año
               if year and not results:
                   params.pop('year')
-                  resp = requests.get(base_search, params=params).json()
-                  results = resp.get('results',[])
+                  results = requests.get(base_search, params=params).json().get('results',[])
 
-              # Si sigue vacío, dejamos registro original
               if not results:
+                  # No se encontró, mantener original
                   enriched.append(item)
                   continue
 
               movie = results[0]
               movie_id = movie['id']
 
-              # Detalles en español
+              # Obtener detalles **en español** para título y descripción localizados
               det = requests.get(f"{base_movie}/{movie_id}", params={
                   'api_key': api_key,
                   'language': 'es-MX'
               }).json()
 
-              # Imágenes
+              # Obtener imágenes y logos
               imgs = requests.get(f"{base_movie}/{movie_id}/images", params={
                   'api_key': api_key
               }).json()
 
-              # Campos TMDB
-              spanish_title = det.get('title') or original_title
-              all_genres     = [g['name'] for g in det.get('genres',[])]
-              desc           = det.get('overview','').strip()
-              release_date   = det.get('release_date','')
-              release_year   = release_date[:4] if release_date else year
-              duration       = det.get('runtime',0)
+              # Campos de TMDB
+              title_es      = det.get('title') or orig_title
+              genres        = [g['name'] for g in det.get('genres',[])]
+              overview_es   = det.get('overview','').strip()
+              release_date  = det.get('release_date','')
+              release_year  = release_date[:4] if release_date else year
+              runtime       = det.get('runtime',0)
 
               poster_path   = det.get('poster_path')
               backdrop_path = det.get('backdrop_path')
-              poster        = f"https://image.tmdb.org/t/p/original{poster_path}"    if poster_path    else ""
-              backdrop      = f"https://image.tmdb.org/t/p/original{backdrop_path}"  if backdrop_path  else ""
+              poster_url    = f"https://image.tmdb.org/t/p/original{poster_path}"   if poster_path   else ""
+              backdrop_url  = f"https://image.tmdb.org/t/p/original{backdrop_path}" if backdrop_path else ""
 
-              logos         = imgs.get('logos',[])
-              logo_url      = f"https://image.tmdb.org/t/p/original{logos[0]['file_path']}" if logos else ""
+              logos = imgs.get('logos',[])
+              logo_url = f"https://image.tmdb.org/t/p/original{logos[0]['file_path']}" if logos else ""
 
               # Reconstruir registro enriquecido
-              new_item = {
-                  "name": all_genres[0] if all_genres else "",
+              enriched.append({
+                  "name": genres[0] if genres else "",
                   "samples": [{
-                      "name": spanish_title,
+                      "name": title_es,
                       "url": sample['url'],
-                      "icono": poster,
-                      "iconoHorizontal": backdrop,
+                      "icono": poster_url,
+                      "iconoHorizontal": backdrop_url,
                       "iconpng": logo_url,
                       "type": "PELICULA",
-                      "descripcion": desc,
+                      "descripcion": overview_es,
                       "anio": release_year,
-                      "genero": all_genres,
-                      "duracion": f"{duration} min"
+                      "genero": genres,
+                      "duracion": f"{runtime} min"
                   }]
-              }
-              enriched.append(new_item)
+              })
 
           # Guardar JSON enriquecido
           with open('playlist.enriched.json','w',encoding='utf-8') as f:

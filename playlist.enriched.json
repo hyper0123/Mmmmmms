@@ -733,7 +733,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "100x100 Wolf",
@@ -744,13 +744,13 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2020",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "101 Dalmatians (1961)",
@@ -761,7 +761,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "1961",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -932,7 +932,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "1917 (2019)",
@@ -943,7 +943,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2019",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -1826,7 +1826,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "A Nightmare on Elm Street 8",
@@ -1837,7 +1837,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2010",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -5443,7 +5443,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Attraction 2017 (ENG)",
@@ -5454,13 +5454,13 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2017",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Attraction 2017 (SPA)",
@@ -5471,7 +5471,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2017",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -5898,7 +5898,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Bad Ass 2 Bad Assess",
@@ -5909,7 +5909,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2014",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -8052,7 +8052,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Blade of the 47 Revenge of the Onna Bugeisha",
@@ -8063,7 +8063,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2022",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -12806,7 +12806,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Cuba and the Cameraman SPA",
@@ -12817,7 +12817,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2017",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -12886,7 +12886,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Cucuy The Boogeyman (2018)",
@@ -12897,7 +12897,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2018",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -13288,7 +13288,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Daphne and velma",
@@ -13299,7 +13299,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2018",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -13552,7 +13552,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Dawn of the Dead 2004 Unrated",
@@ -13563,7 +13563,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2004",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -15878,7 +15878,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Dragon Ball Z Lord Slug1991LAN5",
@@ -15889,7 +15889,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "1991",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -19319,7 +19319,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "First kill 2017LAN5",
@@ -19330,7 +19330,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2017",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -24231,7 +24231,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Hostel Part 1",
@@ -24242,7 +24242,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2005",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -28684,7 +28684,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Kingdom Ashin of the North (Kingdom Ashin-jeon)",
@@ -28695,7 +28695,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2021",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -29668,7 +29668,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Left Behind The Movie",
@@ -29679,7 +29679,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2000",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -30966,7 +30966,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Lowriders 2016LAN5",
@@ -30977,7 +30977,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2016",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -31106,7 +31106,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "M3GAN 2022 UNRATED",
@@ -31117,7 +31117,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2022",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -35145,7 +35145,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Ninja 1-Enter the Ninja",
@@ -35156,7 +35156,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "1981",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -38553,7 +38553,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Planet 51 (2009)",
@@ -38564,7 +38564,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2009",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -41412,7 +41412,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Roald and Beatrix The Tail of the Curious Mouse",
@@ -41423,7 +41423,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2020",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -43085,7 +43085,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Sense8 Together Until the End (Sense8 Amor Vincit Omnia)",
@@ -43096,7 +43096,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -55979,7 +55979,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "The Open House 2018LAN5",
@@ -55990,7 +55990,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2018",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -57501,7 +57501,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "The Scary House 2020 (Das schaurige Haus)",
@@ -57512,7 +57512,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2020",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -60821,7 +60821,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "The son of Bigfoot 2017LAN5",
@@ -60832,7 +60832,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2017",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -65505,7 +65505,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Wolf Creek 2 -CAST-",
@@ -65516,7 +65516,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2013",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]
@@ -65623,7 +65623,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "Variado",
     "samples": [
       {
         "name": "Wonder 2017LAN5",
@@ -65634,7 +65634,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2017",
-        "genero": "",
+        "genero": [],
         "duracion": ""
       }
     ]

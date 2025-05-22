@@ -38,7 +38,7 @@ jobs:
           import json
 
           # rango de años válido: 1900–2025
-          year_pattern = re.compile(r'(19\\d{2}|20[0-2]\\d|2025)')
+          year_pattern = re.compile(r'(19\\d{2}|20[0-2]\\d|2025)$')
 
           base_url = 'http://144.217.70.79/VODS-M/1080P/'
           resp = requests.get(base_url)
@@ -56,22 +56,22 @@ jobs:
               video_url = base_url + href
               raw = unquote(href.rsplit('/', 1)[-1].rsplit('.', 1)[0])
 
-              # Buscar todos los años válidos
-              years = year_pattern.findall(raw)
-              anio = years[-1] if years else ""
-              name = raw
-              if anio:
-                  # Eliminar el año al final, con o sin paréntesis, y limpiar espacios
-                  # Ejemplos que cubre: "Titulo 2021", "Titulo (2021)", "Titulo (2021)"
-                  pattern = rf'\s*?{re.escape(anio)}?\s*$'
-                  name = re.sub(pattern, '', raw).strip()
+              # separar año si está al final (naked o entre paréntesis)
+              match = re.search(r'(?:\|\\s)?(19\\d{2}|20[0-2]\\d|2025)(?:\)?$', raw)
+              if match:
+                  anio = match.group(1)
+                  # eliminar el año (y paréntesis) del final
+                  name = re.sub(r'(?:\\s*\?)' + re.escape(anio) + r'(?:\?)$', '', raw).strip()
+              else:
+                  anio = ""
+                  name = raw
 
               # M3U entry
               m3u_lines.append(f'#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",{raw}')
               m3u_lines.append(video_url)
 
-              # JSON record
-              record = {
+              # JSON record (solo samples.name, samples.url y anio)
+              records.append({
                   "name": "",
                   "samples": [{
                       "name": name,
@@ -85,12 +85,12 @@ jobs:
                       "genero": "",
                       "duracion": ""
                   }]
-              }
-              records.append(record)
+              })
 
-          # Escribir archivos
+          # escribir archivos
           with open('playlist.m3u', 'w') as f:
               f.write("\\n".join(m3u_lines))
+
           with open('playlist.json', 'w', encoding='utf-8') as f:
               json.dump(records, f, indent=4, ensure_ascii=False)
           EOF

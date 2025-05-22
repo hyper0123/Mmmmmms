@@ -62,33 +62,31 @@ jobs:
                   enriched.append(item)
                   continue
 
-              m = results[0]  # tomar el más relevante
-
-              # Detalles completos e imágenes
+              m = results[0]  # el más relevante
               details = movie_api.details(m.id)
-              images = movie_api.images(m.id)
 
-              # Géneros
-              all_genres = [g['name'] for g in details.genres]
-              # Descripción
-              desc = details.overview or ""
-              # Póster y backdrop
+              # Obtener imágenes e icono TMDB vía API REST
+              resp_imgs = requests.get(
+                  f"https://api.themoviedb.org/3/movie/{m.id}/images",
+                  params={"api_key": TMDB_API_KEY}
+              ).json()
+              logos = resp_imgs.get('logos') or []
+              logo_url = ""
+              if logos:
+                  # tomar el primer logo disponible
+                  logo_url = f"https://image.tmdb.org/t/p/original{logos[0].get('file_path','')}"
+
+              # Construir URLs de póster y backdrop
               poster = f"https://image.tmdb.org/t/p/original{details.poster_path}" if details.poster_path else ""
               backdrop = f"https://image.tmdb.org/t/p/original{details.backdrop_path}" if details.backdrop_path else ""
-              # Iconpng: logo oficial si existe
-              logo_path = ""
-              if getattr(images, 'logos', None):
-                  logos = [l for l in images.logos if l.get('file_path')]
-                  if logos:
-                      logo_path = f"https://image.tmdb.org/t/p/original{logos[0]['file_path']}"
 
-              # Duración en minutos
+              # Géneros y descripción
+              all_genres = [g['name'] for g in details.genres]
+              desc = details.overview or ""
               duration = details.runtime or 0
-
-              # Corregir año de lanzamiento
               release_year = details.release_date[:4] if details.release_date else year
 
-              # Construir elemento enriquecido
+              # Rellenar nuevo registro
               new_item = {
                   "name": all_genres[0] if all_genres else "",
                   "samples": [{
@@ -96,7 +94,7 @@ jobs:
                       "url": sample['url'],
                       "icono": poster,
                       "iconoHorizontal": backdrop,
-                      "iconpng": logo_path,
+                      "iconpng": logo_url,
                       "type": "PELICULA",
                       "descripcion": desc,
                       "anio": release_year,

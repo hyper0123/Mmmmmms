@@ -29,11 +29,11 @@ jobs:
         run: |
           python scripts/enrich.py
 
-      - name: Listar y subir artifact
-        run: |
-          ls -lh .
-        continue-on-error: true
-      - uses: actions/upload-artifact@v3
+      - name: Listar archivos generados
+        run: ls -R .
+
+      - name: Subir playlist.enriched.json como artifact
+        uses: actions/upload-artifact@v3
         with:
           name: enriched-playlist
           path: playlist.enriched.json

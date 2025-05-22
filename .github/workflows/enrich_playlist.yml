@@ -35,7 +35,7 @@ jobs:
           python <<EOF
           import os, json, requests
 
-          api_key = os.environ['TMDB_API_KEY']
+          api_key    = os.environ['TMDB_API_KEY']
           base_search = 'https://api.themoviedb.org/3/search/movie'
           base_movie  = 'https://api.themoviedb.org/3/movie'
 
@@ -48,15 +48,20 @@ jobs:
               original_title = sample['name']
               year  = sample.get('anio','').strip()
 
-              # Buscar en TMDB con idioma español
-              params = {
-                  'api_key': api_key,
-                  'language': 'es-MX',
-                  'query': original_title,
-                  'year': year
-              }
-              resp_search = requests.get(base_search, params=params).json()
-              results = resp_search.get('results',[])
+              # Intento 1: búsqueda con año
+              params = {'api_key': api_key, 'language': 'es-MX', 'query': original_title}
+              if year:
+                  params['year'] = year
+              resp = requests.get(base_search, params=params).json()
+              results = resp.get('results',[])
+
+              # Si no hay resultados y usamos año, reintentar sin año
+              if year and not results:
+                  params.pop('year')
+                  resp = requests.get(base_search, params=params).json()
+                  results = resp.get('results',[])
+
+              # Si sigue vacío, dejamos registro original
               if not results:
                   enriched.append(item)
                   continue
@@ -65,31 +70,33 @@ jobs:
               movie_id = movie['id']
 
               # Detalles en español
-              resp_det = requests.get(f"{base_movie}/{movie_id}", params={
+              det = requests.get(f"{base_movie}/{movie_id}", params={
                   'api_key': api_key,
                   'language': 'es-MX'
               }).json()
 
               # Imágenes
-              resp_imgs = requests.get(f"{base_movie}/{movie_id}/images", params={
+              imgs = requests.get(f"{base_movie}/{movie_id}/images", params={
                   'api_key': api_key
               }).json()
 
               # Campos TMDB
-              spanish_title = resp_det.get('title') or original_title
-              all_genres     = [g['name'] for g in resp_det.get('genres',[])]
-              desc           = resp_det.get('overview','').strip()
-              release_date   = resp_det.get('release_date','')
+              spanish_title = det.get('title') or original_title
+              all_genres     = [g['name'] for g in det.get('genres',[])]
+              desc           = det.get('overview','').strip()
+              release_date   = det.get('release_date','')
               release_year   = release_date[:4] if release_date else year
-              duration       = resp_det.get('runtime',0)
-              poster_path    = resp_det.get('poster_path')
-              backdrop_path  = resp_det.get('backdrop_path')
-              poster         = f"https://image.tmdb.org/t/p/original{poster_path}"   if poster_path   else ""
-              backdrop       = f"https://image.tmdb.org/t/p/original{backdrop_path}" if backdrop_path else ""
-              logos          = resp_imgs.get('logos',[])
-              logo_url       = f"https://image.tmdb.org/t/p/original{logos[0]['file_path']}" if logos else ""
+              duration       = det.get('runtime',0)
 
-              # Construir registro enriquecido
+              poster_path   = det.get('poster_path')
+              backdrop_path = det.get('backdrop_path')
+              poster        = f"https://image.tmdb.org/t/p/original{poster_path}"    if poster_path    else ""
+              backdrop      = f"https://image.tmdb.org/t/p/original{backdrop_path}"  if backdrop_path  else ""
+
+              logos         = imgs.get('logos',[])
+              logo_url      = f"https://image.tmdb.org/t/p/original{logos[0]['file_path']}" if logos else ""
+
+              # Reconstruir registro enriquecido
               new_item = {
                   "name": all_genres[0] if all_genres else "",
                   "samples": [{

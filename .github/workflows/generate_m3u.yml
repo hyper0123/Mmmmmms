@@ -37,8 +37,8 @@ jobs:
           from urllib.parse import unquote
           import json
 
-          # Rango de años válido: 1900–2015
-          year_pattern = re.compile(r'\b(19\d{2}|200\d|201[0-5])\b')
+          # rango de años válido: 1900–2025
+          year_pattern = re.compile(r'\b(19\\d{2}|20[0-2]\\d|2025)\\b')
 
           base_url = 'http://144.217.70.79/VODS-M/1080P/'
           resp = requests.get(base_url)
@@ -56,21 +56,19 @@ jobs:
               video_url = base_url + href
               raw = unquote(href.rsplit('/', 1)[-1].rsplit('.', 1)[0])
 
-              # Detectar todos los años válidos y tomar el último
+              # buscar todos los años y tomar el último
               years = year_pattern.findall(raw)
               anio = years[-1] if years else ""
-
-              # Limpiar el título eliminando el año (y paréntesis) al final
               name = raw
               if anio:
-                  # quita " (YYYY)" o "YYYY" del final
-                  name = re.sub(r'\s*?' + re.escape(anio) + r'?\s*$', '', raw).strip()
+                  # quitar año (con o sin paréntesis) del final
+                  name = re.sub(r'\s*\?' + re.escape(anio) + r'\?\\s*$', '', raw).strip()
 
-              # Construir entrada M3U
+              # construir M3U
               m3u_lines.append(f'#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",{raw}')
               m3u_lines.append(video_url)
 
-              # Construir registro JSON (samples.name y samples.url, y anio)
+              # construir JSON (solo samples.name, samples.url y anio)
               record = {
                   "name": "",
                   "samples": [{
@@ -88,11 +86,10 @@ jobs:
               }
               records.append(record)
 
-          # Escribir playlist.m3u
+          # escribir archivos
           with open('playlist.m3u', 'w') as f:
               f.write("\n".join(m3u_lines))
 
-          # Escribir playlist.json
           with open('playlist.json', 'w', encoding='utf-8') as f:
               json.dump(records, f, indent=4, ensure_ascii=False)
           EOF

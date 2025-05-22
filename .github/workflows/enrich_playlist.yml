@@ -45,14 +45,14 @@ jobs:
           enriched = []
           for item in data:
               sample = item['samples'][0]
-              title = sample['name']
+              original_title = sample['name']
               year  = sample.get('anio','').strip()
 
-              # Buscar en TMDB
+              # Buscar en TMDB con idioma español
               params = {
                   'api_key': api_key,
                   'language': 'es-MX',
-                  'query': title,
+                  'query': original_title,
                   'year': year
               }
               resp_search = requests.get(base_search, params=params).json()
@@ -64,7 +64,7 @@ jobs:
               movie = results[0]
               movie_id = movie['id']
 
-              # Detalles
+              # Detalles en español
               resp_det = requests.get(f"{base_movie}/{movie_id}", params={
                   'api_key': api_key,
                   'language': 'es-MX'
@@ -75,29 +75,25 @@ jobs:
                   'api_key': api_key
               }).json()
 
-              # Géneros
-              all_genres = [g['name'] for g in resp_det.get('genres',[])]
-              # Sinopsis
-              desc = resp_det.get('overview','').strip()
-              # Fechas
-              release_date = resp_det.get('release_date','')
-              release_year = release_date[:4] if release_date else year
-              # Duración
-              duration = resp_det.get('runtime',0)
-              # Póster y backdrop
-              poster   = f"https://image.tmdb.org/t/p/original{resp_det.get('poster_path','')}"   if resp_det.get('poster_path')   else ""
-              backdrop = f"https://image.tmdb.org/t/p/original{resp_det.get('backdrop_path','')}" if resp_det.get('backdrop_path') else ""
-              # Logo (iconpng)
-              logos = resp_imgs.get('logos',[])
-              logo_url = ""
-              if logos:
-                  logo_url = f"https://image.tmdb.org/t/p/original{logos[0].get('file_path','')}"
+              # Campos TMDB
+              spanish_title = resp_det.get('title') or original_title
+              all_genres     = [g['name'] for g in resp_det.get('genres',[])]
+              desc           = resp_det.get('overview','').strip()
+              release_date   = resp_det.get('release_date','')
+              release_year   = release_date[:4] if release_date else year
+              duration       = resp_det.get('runtime',0)
+              poster_path    = resp_det.get('poster_path')
+              backdrop_path  = resp_det.get('backdrop_path')
+              poster         = f"https://image.tmdb.org/t/p/original{poster_path}"   if poster_path   else ""
+              backdrop       = f"https://image.tmdb.org/t/p/original{backdrop_path}" if backdrop_path else ""
+              logos          = resp_imgs.get('logos',[])
+              logo_url       = f"https://image.tmdb.org/t/p/original{logos[0]['file_path']}" if logos else ""
 
               # Construir registro enriquecido
               new_item = {
                   "name": all_genres[0] if all_genres else "",
                   "samples": [{
-                      "name": title,
+                      "name": spanish_title,
                       "url": sample['url'],
                       "icono": poster,
                       "iconoHorizontal": backdrop,

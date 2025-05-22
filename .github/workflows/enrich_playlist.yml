@@ -1,5 +1,5 @@
 # .github/workflows/enrich_playlist.yml
-name: Enriquecer Playlist desde TMDB (REST)
+name: Enriquecer Playlist TMDB (ES y EN)
 
 permissions:
   contents: write
@@ -7,7 +7,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 3 * * *'  # corre cada día a las 3AM
 
 jobs:
   enrich:
@@ -28,7 +28,7 @@ jobs:
         run: |
           pip install --no-cache-dir requests
 
-      - name: Enriquecer playlist.json con TMDB (REST API)
+      - name: Enriquecer playlist.json en ES y EN
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
@@ -40,94 +40,99 @@ jobs:
           base_movie  = 'https://api.themoviedb.org/3/movie'
 
           with open('playlist.json', encoding='utf-8') as f:
-              data = json.load(f)
+              original = json.load(f)
 
-          enriched = []
-          for item in data:
-              sample = item['samples'][0]
-              orig_title = sample['name']
-              year = sample.get('anio','').strip()
+          def enrich(lang):
+              """Devuelve lista enriquecida en idioma lang ('es-MX' o 'en-US')."""
+              out = []
+              for item in original:
+                  sample = item['samples'][0]
+                  title_orig = sample['name']
+                  year = sample.get('anio','').strip()
 
-              # 1) Buscar en inglés (en-US) para asegurar coincidencia exacta
-              params = {
-                  'api_key': api_key,
-                  'language': 'en-US',
-                  'query': orig_title
-              }
-              if year:
-                  params['year'] = year
-              results = requests.get(base_search, params=params).json().get('results',[])
-
-              # 2) Si no hay resultados con año, reintentar sin año
-              if year and not results:
-                  params.pop('year')
+                  # búsqueda en inglés (para coincidencias) si lang='es-MX', o en EN si lang='en-US'
+                  search_lang = 'en-US' if lang == 'es-MX' else lang
+                  params = {
+                      'api_key': api_key,
+                      'language': search_lang,
+                      'query': title_orig
+                  }
+                  if year:
+                      params['year'] = year
                   results = requests.get(base_search, params=params).json().get('results',[])
 
-              if not results:
-                  # No se encontró, mantener original
-                  enriched.append(item)
-                  continue
+                  # reintentar sin año
+                  if year and not results:
+                      params.pop('year')
+                      results = requests.get(base_search, params=params).json().get('results',[])
 
-              movie = results[0]
-              movie_id = movie['id']
+                  if not results:
+                      # no encontró coincidencia, dejar item original
+                      out.append(item)
+                      continue
 
-              # Obtener detalles **en español** para título y descripción localizados
-              det = requests.get(f"{base_movie}/{movie_id}", params={
-                  'api_key': api_key,
-                  'language': 'es-MX'
-              }).json()
+                  movie = results[0]
+                  movie_id = movie['id']
 
-              # Obtener imágenes y logos
-              imgs = requests.get(f"{base_movie}/{movie_id}/images", params={
-                  'api_key': api_key
-              }).json()
+                  # obtener detalles en target lang
+                  det = requests.get(f"{base_movie}/{movie_id}", params={
+                      'api_key': api_key,
+                      'language': lang
+                  }).json()
+                  imgs = requests.get(f"{base_movie}/{movie_id}/images", params={
+                      'api_key': api_key
+                  }).json()
 
-              # Campos de TMDB
-              title_es      = det.get('title') or orig_title
-              genres        = [g['name'] for g in det.get('genres',[])]
-              overview_es   = det.get('overview','').strip()
-              release_date  = det.get('release_date','')
-              release_year  = release_date[:4] if release_date else year
-              runtime       = det.get('runtime',0)
+                  title_loc = det.get('title') or title_orig
+                  genres    = [g['name'] for g in det.get('genres',[])]
+                  overview  = det.get('overview','').strip()
+                  release_date = det.get('release_date','')
+                  release_year = release_date[:4] if release_date else year
+                  runtime   = det.get('runtime',0)
 
-              poster_path   = det.get('poster_path')
-              backdrop_path = det.get('backdrop_path')
-              poster_url    = f"https://image.tmdb.org/t/p/original{poster_path}"   if poster_path   else ""
-              backdrop_url  = f"https://image.tmdb.org/t/p/original{backdrop_path}" if backdrop_path else ""
+                  poster_path   = det.get('poster_path')
+                  backdrop_path = det.get('backdrop_path')
+                  poster_url    = f"https://image.tmdb.org/t/p/original{poster_path}"   if poster_path   else ""
+                  backdrop_url  = f"https://image.tmdb.org/t/p/original{backdrop_path}" if backdrop_path else ""
 
-              logos = imgs.get('logos',[])
-              logo_url = f"https://image.tmdb.org/t/p/original{logos[0]['file_path']}" if logos else ""
+                  logos = imgs.get('logos',[])
+                  logo_url = f"https://image.tmdb.org/t/p/original{logos[0]['file_path']}" if logos else ""
 
-              # Reconstruir registro enriquecido
-              enriched.append({
-                  "name": genres[0] if genres else "",
-                  "samples": [{
-                      "name": title_es,
-                      "url": sample['url'],
-                      "icono": poster_url,
-                      "iconoHorizontal": backdrop_url,
-                      "iconpng": logo_url,
-                      "type": "PELICULA",
-                      "descripcion": overview_es,
-                      "anio": release_year,
-                      "genero": genres,
-                      "duracion": f"{runtime} min"
-                  }]
-              })
+                  out.append({
+                      "name": genres[0] if genres else "",
+                      "samples": [{
+                          "name": title_loc,
+                          "url": sample['url'],
+                          "icono": poster_url,
+                          "iconoHorizontal": backdrop_url,
+                          "iconpng": logo_url,
+                          "type": "PELICULA",
+                          "descripcion": overview,
+                          "anio": release_year,
+                          "genero": genres,
+                          "duracion": f"{runtime} min"
+                      }]
+                  })
+              return out
 
-          # Guardar JSON enriquecido
-          with open('playlist.enriched.json','w',encoding='utf-8') as f:
-              json.dump(enriched, f, indent=2, ensure_ascii=False)
+          # generar ambos
+          es_data = enrich('es-MX')
+          en_data = enrich('en-US')
+
+          with open('playlist.enriched.es.json', 'w', encoding='utf-8') as f:
+              json.dump(es_data, f, ensure_ascii=False, indent=2)
+          with open('playlist.enriched.en.json', 'w', encoding='utf-8') as f:
+              json.dump(en_data, f, ensure_ascii=False, indent=2)
           EOF
 
-      - name: Commit and push enriched JSON
+      - name: Commit and Push enriched JSONs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.enriched.json
+          git add playlist.enriched.es.json playlist.enriched.en.json
           if ! git diff --cached --exit-code; then
-            git commit -m "Agregar datos TMDB a playlist"
+            git commit -m "Actualizar playlists enriquecidas ES y EN"
             git push
           else
-            echo "No hay cambios en playlist.enriched.json"
+            echo "No hay cambios en los JSON enriquecidos"
           fi

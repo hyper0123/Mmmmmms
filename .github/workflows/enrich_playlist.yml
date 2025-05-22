@@ -29,11 +29,8 @@ jobs:
         run: |
           python scripts/enrich.py
 
-      - name: Listar archivos generados
-        run: ls -R .
-
       - name: Subir playlist.enriched.json como artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: enriched-playlist
           path: playlist.enriched.json

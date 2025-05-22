@@ -24,7 +24,6 @@ def fetch_details(movie_id, lang='es-MX'):
     imgs = imgs_resp.json()
     return det, imgs
 
-
 def enrich_item(item):
     sample     = item['samples'][0]
     orig_title = sample.get('name','').strip()
@@ -64,7 +63,10 @@ def enrich_item(item):
                     if det.get('backdrop_path') else '')
         logos    = imgs.get('logos', [])
         logo_url = (f"https://image.tmdb.org/t/p/original{logos[0]['file_path']}"
-                    if logos else '')  # CORREGIDO aquí, sin '}' extra
+                    if logos else '')
+
+        # unir géneros en cadena
+        genero_str = ', '.join(genres)
 
         return {
             'name': genres[0] if genres else '',
@@ -77,7 +79,7 @@ def enrich_item(item):
                 'type': 'PELICULA',
                 'descripcion': overview,
                 'anio': final_year,
-                'genero': genres,
+                'genero': genero_str,
                 'duracion': f"{runtime} min"
             }]
         }
@@ -94,11 +96,10 @@ def enrich_item(item):
                 'type': 'PELICULA',
                 'descripcion': '',
                 'anio': orig_year,
-                'genero': [],
+                'genero': '',
                 'duracion': ''
             }]
         }
-
 
 def main():
     with open('playlist.json', encoding='utf-8') as f:
@@ -123,7 +124,6 @@ def main():
         json.dump(part1, f, indent=2, ensure_ascii=False)
     with open('playlist.enriched.part2.json', 'w', encoding='utf-8') as f:
         json.dump(part2, f, indent=2, ensure_ascii=False)
-
 
 if __name__ == '__main__':
     main()

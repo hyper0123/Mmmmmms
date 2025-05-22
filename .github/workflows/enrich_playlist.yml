@@ -7,7 +7,6 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    # Se ejecuta cada noche a las 2AM
     - cron: '0 2 * * *'
 
 jobs:
@@ -34,13 +33,17 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           python <<EOF
+          import os
           import json
           import requests
           from tmdbv3api import TMDb, Movie
 
+          # Leer API key de entorno
+          api_key = os.environ["TMDB_API_KEY"]
+
           # Configurar TMDB en Español (Latinoamérica)
           tmdb = TMDb()
-          tmdb.api_key = "${TMDB_API_KEY}"
+          tmdb.api_key = api_key
           tmdb.language = 'es-MX'
 
           movie_api = Movie()
@@ -62,31 +65,30 @@ jobs:
                   enriched.append(item)
                   continue
 
-              m = results[0]  # el más relevante
+              m = results[0]
               details = movie_api.details(m.id)
 
-              # Obtener imágenes e icono TMDB vía API REST
+              # Obtener logos vía REST
               resp_imgs = requests.get(
                   f"https://api.themoviedb.org/3/movie/{m.id}/images",
-                  params={"api_key": TMDB_API_KEY}
+                  params={"api_key": api_key}
               ).json()
               logos = resp_imgs.get('logos') or []
               logo_url = ""
               if logos:
-                  # tomar el primer logo disponible
                   logo_url = f"https://image.tmdb.org/t/p/original{logos[0].get('file_path','')}"
 
-              # Construir URLs de póster y backdrop
+              # Póster y fondo
               poster = f"https://image.tmdb.org/t/p/original{details.poster_path}" if details.poster_path else ""
               backdrop = f"https://image.tmdb.org/t/p/original{details.backdrop_path}" if details.backdrop_path else ""
 
-              # Géneros y descripción
+              # Géneros, descripción, duración y año
               all_genres = [g['name'] for g in details.genres]
               desc = details.overview or ""
               duration = details.runtime or 0
               release_year = details.release_date[:4] if details.release_date else year
 
-              # Rellenar nuevo registro
+              # Construir registro enriquecido
               new_item = {
                   "name": all_genres[0] if all_genres else "",
                   "samples": [{

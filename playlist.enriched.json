@@ -6580,23 +6580,22 @@
     ]
   },
   {
-    "name": "Familia",
+    "name": "Fantasía",
     "samples": [
       {
-        "name": "La Bella y La Bestia",
+        "name": "La bella y la bestia",
         "url": "http://144.217.70.79/VODS-M/1080P/Beauty%20and%20the%20beast%202017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/2q38CCkPvhm8DVHazY9QLQtHQoO.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/icsu28RaTXABU1rJoZztmX1iO4w.png",
+        "icono": "https://image.tmdb.org/t/p/original/1fXcLDsxdJaqWn1fBZYX1IzeZFE.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/92Uceuy7HaiiHFgW48gNyxhx17d.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/9ii1JN8FW4RfLLh4Oya5NnWlN6x.png",
         "type": "PELICULA",
-        "descripcion": "Una joven soñadora y romántica llamada Bella, vive en una pequeña aldea junto a su padre, un inventor de artilugios, al que algunos consideran un anciano demente.Un día su padre se marcha a una feria para exponer sus inventos, pero se pierde en el camino y acaba en un grande y viejo castillo.",
-        "anio": "2017",
+        "descripcion": "Nueva adaptación de la historia de \"La bella y la bestia\". En palabras de su director, \"Aunque seré fiel a la narración de este inmortal cuento de hadas, manteniendo el tiempo y los personajes como en el original, sorprenderé al público creando un universo completamente nuevo jamás experimentado antes, con imágenes de una calidad sin precedentes.\"",
+        "anio": "2014",
         "genero": [
-          "Familia",
           "Fantasía",
           "Romance"
         ],
-        "duracion": "129 min"
+        "duracion": "112 min"
       }
     ]
   },
@@ -7957,16 +7956,16 @@
     "name": "",
     "samples": [
       {
-        "name": "Metal Blade Records 20th Anniversary Party",
+        "name": "雀鬼２　白刃を背に",
         "url": "http://144.217.70.79/VODS-M/1080P/Blade%202%202002.mkv",
-        "icono": "",
+        "icono": "https://image.tmdb.org/t/p/original/tHLLEx1IUC9guNlhstL3P0yR7Bc.jpg",
         "iconoHorizontal": "",
         "iconpng": "",
         "type": "PELICULA",
         "descripcion": "",
-        "anio": "2002",
+        "anio": "1993",
         "genero": [],
-        "duracion": "0 min"
+        "duracion": "70 min"
       }
     ]
   },
@@ -11097,23 +11096,24 @@
     ]
   },
   {
-    "name": "Familia",
+    "name": "Aventura",
     "samples": [
       {
-        "name": "Hasta Pronto Christopher Robin",
+        "name": "Christopher Robin: Un Reencuentro Inolvidable",
         "url": "http://144.217.70.79/VODS-M/1080P/Christopher%20robin%202018.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/9O2LoirCUU6Cepph2xvDJ7iaTcK.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/wRGiGCRpzKy5VctLWmLPM3WfhP7.png",
+        "icono": "https://image.tmdb.org/t/p/original/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/3O5tanjVJGo8sgxC0Y8A1ecFB6d.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/abQDVs131dmoe85YVQspYG5trNe.png",
         "type": "PELICULA",
-        "descripcion": "Entre bastidores la historia de la vida de A.A. Milne y la creación de Winnie ¡Qué va! las historias inspiradas por su hijo Christopher Robin.",
-        "anio": "2017",
+        "descripcion": "Christopher Robin ha crecido y, ahora que es adulto, ha olvidado a sus amigos de la infancia y ha perdido el rumbo. Winnie the Pooh y sus compañeros viajan a Londres para salvar a Christopher y ayudarle a reencontrar la alegría.",
+        "anio": "2018",
         "genero": [
+          "Aventura",
+          "Comedia",
           "Familia",
-          "Historia",
-          "Drama"
+          "Fantasía"
         ],
-        "duracion": "107 min"
+        "duracion": "104 min"
       }
     ]
   },
@@ -17449,20 +17449,20 @@
     "name": "Terror",
     "samples": [
       {
-        "name": "Escape Room: Sin Salida",
+        "name": "La Maldicion de la caja calavera",
         "url": "http://144.217.70.79/VODS-M/1080P/Escape%20Room%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/q9caNLfcdLX0Q6HctTCEHGnWW5P.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/mWLljCmpqlcYQh7uh51BBMwCZwN.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/hJn0nzjZoUzuGtkXdHbLy5YjjsJ.png",
+        "icono": "https://image.tmdb.org/t/p/original/t0i88TFalwvcELDGkyW8AD9qQet.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/1e5GyqXhpgfKZFI8lgAknJYKgQU.jpg",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Seis extraños que se ven envueltos en circunstancias más allá de su control deben usar su ingenio para sobrevivir.",
-        "anio": "2019",
+        "descripcion": "Cuatro amigos se encuentran atrapados en una habitación, junto a un asesino poseído por un demonio. Ahora tienen menos de una hora para resolver los puzzles necesarios para escapar del lugar con vida.",
+        "anio": "2017",
         "genero": [
           "Terror",
           "Suspense",
-          "Misterio"
+          "Fantasía"
         ],
-        "duracion": "100 min"
+        "duracion": "86 min"
       }
     ]
   },
@@ -17837,23 +17837,21 @@
     ]
   },
   {
-    "name": "Misterio",
+    "name": "Terror",
     "samples": [
       {
-        "name": "Mal de ojo",
+        "name": "Due occhi diabolici",
         "url": "http://144.217.70.79/VODS-M/1080P/Evil%20Eye%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/3KVwganYfJgrLXu26BuW82BJo73.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xTGJ4ZPDLoCIJkTjDkb0d1j7AUI.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/rRhEGwilxFKx7Nr0jOQQ1Y9aNMQ.png",
+        "icono": "https://image.tmdb.org/t/p/original/A1cAnTTXeWTtyOZQBpPCDYgcWkU.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/wWucXwUmJiA5iUNqegJHbcy2Mzy.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/2sJhAMB6KwojPG5H8K1rQJVyZm3.png",
         "type": "PELICULA",
-        "descripcion": "La historia es sobre una madre supersticiosa que está convencida de que el nuevo novio de su hija es la reencarnación de un hombre que intentó matarla hace 30 años.",
-        "anio": "2020",
+        "descripcion": "",
+        "anio": "1990",
         "genero": [
-          "Misterio",
-          "Suspense",
           "Terror"
         ],
-        "duracion": "79 min"
+        "duracion": "120 min"
       }
     ]
   },
@@ -18891,21 +18889,23 @@
     ]
   },
   {
-    "name": "Documental",
+    "name": "Suspense",
     "samples": [
       {
-        "name": "Fever Dream",
+        "name": "Distancia de rescate",
         "url": "http://144.217.70.79/VODS-M/1080P/Fever%20Dream%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/aM4tuBraUhSA2fQrZwWzBifnZvz.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/1qXwN3y7S2AU7ANnoMU4g6RwObf.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/hWVgahEaREAl8yIll1zE9HHeeYo.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/bipnqiDxesqRdEywud51qogcRc.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/HBi1UMiPTRc0Xi2XL4bxtv237N.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "Cargada de emotividad, la relación entre dos jóvenes madres —una, visitante; la otra, lugareña— desvela una inminente catástrofe ecológica y un colapso espiritual.",
         "anio": "2021",
         "genero": [
-          "Documental"
+          "Suspense",
+          "Drama",
+          "Misterio"
         ],
-        "duracion": "8 min"
+        "duracion": "93 min"
       }
     ]
   },
@@ -22247,21 +22247,21 @@
     ]
   },
   {
-    "name": "Comedia",
+    "name": "Terror",
     "samples": [
       {
-        "name": "La Casa de Huéspedes",
+        "name": "The House Guest",
         "url": "http://144.217.70.79/VODS-M/1080P/Guest%20House%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/joSZjIzoXWqdtb2tRGlIlibscv8.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ltEBcy1KzBmSlZbkIbzfPGtQ3FE.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/lpseuFLjmViHdEX3dMdJRBnxWrR.png",
+        "icono": "https://image.tmdb.org/t/p/original/riKbX8qFhW7T4tcx6tTQ2xZJeDs.jpg",
+        "iconoHorizontal": "",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Una pareja ve cómo su sueño de encontrar su hogar perfecto se convierte en pesadilla cuando el anterior dueño de la misma se dedica a entrar en ella a hurtadillas. Esta situación lleva a ambas partes a protagonizar una guerra que acaba destrozando tanto la casa como su matrimonio y, en última instancia, también sus vidas.",
+        "descripcion": "",
         "anio": "2020",
         "genero": [
-          "Comedia"
+          "Terror"
         ],
-        "duracion": "84 min"
+        "duracion": "75 min"
       }
     ]
   },
@@ -23551,22 +23551,22 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Suspense",
     "samples": [
       {
-        "name": "Hide and Seek",
+        "name": "Las escondidas",
         "url": "http://144.217.70.79/VODS-M/1080P/Hide%20and%20seek%202016.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/4MGtTJRYlqqf3oGRnuPPGIBnJa2.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uBUXX8cPWIwahM6HZpb8ISrlKGG.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/xEoH6WbWuTHwjTuDnBfuxxdndlP.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/tSq7dqnJuwrOVHzS44AGusblXEO.jpg",
         "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2014",
+        "descripcion": "Un hombre vive en un precioso piso con su esposa y dos hijos. Está ofuscado con la limpieza, tiene sueños extraños y lucha con un misterio en su pasado.  Él va a una parte mala de la caza de la urbe para un hermano perdido largo, dejando a su esposa y pequeños en su vehículo. Mientras que trata de lograr la colaboración de los vecinos, la esposa halla que sus hijos están desaparecidos.",
+        "anio": "2016",
         "genero": [
-          "Drama",
-          "Romance"
+          "Suspense",
+          "Misterio"
         ],
-        "duracion": "82 min"
+        "duracion": "105 min"
       }
     ]
   },
@@ -24580,21 +24580,23 @@
     ]
   },
   {
-    "name": "Documental",
+    "name": "Aventura",
     "samples": [
       {
-        "name": "Making of House of Flying Daggers",
+        "name": "La Casa de los Cuchillos",
         "url": "http://144.217.70.79/VODS-M/1080P/House%20of%20Flying%20Daggers%202004.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/pz9vICNdbZA1hopxK0lwSC7bVrn.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/MngFxwhXr11YEqJgdhPCjLQ0cV.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/nvU9NDRKzpfkFNvKuZVbtu2EV6h.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jea4adbYk407PhYK9uhWjihPYAv.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/lvZivo8N0N7r9uXZhOzRmgdcRW0.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "Corre el año 859 a.C. y la dinastía Tang, una vez floreciente, ha entrado en decadencia. El malestar se extiende por todo el país, y el corrupto gobierno tiene que enfrentarse en todas partes con ejércitos rebeldes. El más poderoso es el de la \"Casa de los cuchillos\", que se está haciendo cada vez más fuerte gracias a un nuevo y misterioso líder. Dos capitanes, Leo y Jin, reciben la orden de capturarlo y para ello elaboran un minucioso plan. El capitán Jin finge ser un guerrero solitario llamado Viento y saca de prisión a la revolucionaria ciega Mei, que lo llevará hasta el cuartel general de la Casa de los cuchillos, pero durante el viaje, Jin y Mei se enamoran profundamente.",
         "anio": "2004",
         "genero": [
-          "Documental"
+          "Aventura",
+          "Drama",
+          "Acción"
         ],
-        "duracion": "44 min"
+        "duracion": "119 min"
       }
     ]
   },
@@ -28910,23 +28912,25 @@
     ]
   },
   {
-    "name": "Animación",
+    "name": "Acción",
     "samples": [
       {
-        "name": "Kung Fu Panda: Los secretos de los cinco furiosos",
+        "name": "Kung Fu Panda",
         "url": "http://144.217.70.79/VODS-M/1080P/Kung%20Fu%20Panda%202008.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/pONYYC1KF9pmANUgceIV8d5kO33.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/iezp56ettTUsHWgBjkqvEps5oxc.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/lmze1HZ2AHsuB2v9QI2K09cGDXE.png",
+        "icono": "https://image.tmdb.org/t/p/original/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/364B8ohneoQSgIuYNRYZhjOCcEL.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/dOtcCZ4mO5LPdEf6XA0HbCJo40d.png",
         "type": "PELICULA",
-        "descripcion": "Con la orden por parte del Shifu de Po de enseñar una clase de artes marciales a pequeños gatitos, Po cuenta historias de los pasados de cada uno ​​de los Cinco Furiosos.\r Historias de sus inicios en las artes marciales.",
+        "descripcion": "Cuando el Valle de la Paz se ve amenazado, el perezoso Po el panda descubre su destino como el “elegido” y se entrena para convertirse en un héroe de kung fu, pero no será fácil transformar al vago desaliñado en un valiente guerrero. Depende del Maestro Shifu y los Cinco Furiosos: Tigresa, Grulla, Mantis, Víbora y Mono: intentarlo.",
         "anio": "2008",
         "genero": [
+          "Acción",
+          "Aventura",
           "Animación",
           "Familia",
-          "Acción"
+          "Comedia"
         ],
-        "duracion": "25 min"
+        "duracion": "92 min"
       }
     ]
   },
@@ -29950,21 +29954,21 @@
     ]
   },
   {
-    "name": "Documental",
+    "name": "Drama",
     "samples": [
       {
-        "name": "Let There Be Light",
+        "name": "Que haya luz",
         "url": "http://144.217.70.79/VODS-M/1080P/Let%20There%20Be%20Light%202017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/sR0D8fl87lsdXweBqPOUfEsYQQG.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hMBO8XzoDl2IokUmU0wPciJxUag.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/a1lCoSdAEYEs4ezvm5PcufEUVti.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/listgoAFIjSpTrS45HpQ2Xlnaub.jpg",
         "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "El ateo más famoso del mundo sufre una experiencia cercana a la muerte que le lleva a replantearse todas sus ideas. A partir de ese instante, en su cabeza solo habrá una idea: salvar su alma y las de sus seres queridos.",
         "anio": "2017",
         "genero": [
-          "Documental"
+          "Drama"
         ],
-        "duracion": "90 min"
+        "duracion": "100 min"
       }
     ]
   },
@@ -33755,24 +33759,22 @@
     ]
   },
   {
-    "name": "Suspense",
+    "name": "Acción",
     "samples": [
       {
-        "name": "The Most Dangerous Game",
+        "name": "最も危険な遊戯",
         "url": "http://144.217.70.79/VODS-M/1080P/Most%20Dangerous%20Game%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/41N5Rn3Xw3p7vj7n3j7M2GLgDwA.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/psBFJubFWiAV23dAZ6D0wjQWbhe.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/l3Od2KXQKytcyAdu7gjzU3Lmyn4.png",
+        "icono": "https://image.tmdb.org/t/p/original/4jg5eo93qFI4frOFea4t8JohF0Y.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/nRG7Mk1JttNzGph79iKXBT6bLWu.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/2nQHQpfcjLWM0TcllKsNmUL6JHp.png",
         "type": "PELICULA",
         "descripcion": "",
-        "anio": "1932",
+        "anio": "1978",
         "genero": [
-          "Suspense",
-          "Aventura",
-          "Terror",
-          "Acción"
+          "Acción",
+          "Crimen"
         ],
-        "duracion": "63 min"
+        "duracion": "89 min"
       }
     ]
   },
@@ -34215,22 +34217,22 @@
     ]
   },
   {
-    "name": "Suspense",
+    "name": "Drama",
     "samples": [
       {
-        "name": "Las musas del diablo",
+        "name": "La academia de las musas",
         "url": "http://144.217.70.79/VODS-M/1080P/Musa%202017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/kKjinCoWFHkztF64Vx1L2lwcJI3.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/z2dhScn54PHtatVxrlAJKr6yhQg.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/dwnjtyWCp8A8Hmumsx2pEBRRamV.png",
+        "icono": "https://image.tmdb.org/t/p/original/6bsXB4JMRycqaLLI5v200pjSiqC.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5d6r07bTouc0GHcMxLW3iawMW6p.jpg",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Samuel Salomon, profesor de literatura, no pisa la universidad desde la trágica e inesperada muerte de su novia. Samuel sufre una recurrente pesadilla donde una mujer es brutalmente asesinada a través de un extraño ritual. De repente, la misma mujer que aparece todas las noches en su mente es hallada muerta en idénticas circunstancias a las de su sueño. Samuel se cuela decidido en la escena del crimen para averiguar la verdad, y conoce a Rachel, una joven que asegura haber soñado con el asesinato. Juntos, harán todo lo posible para descubrir la identidad de la misteriosa mujer, sumergiéndose en un oscuro mundo gobernado por las musas que han inspirado a los poetas de todos los tiempos.",
-        "anio": "2017",
+        "descripcion": "",
+        "anio": "2015",
         "genero": [
-          "Suspense",
-          "Terror"
+          "Drama",
+          "Documental"
         ],
-        "duracion": "107 min"
+        "duracion": "92 min"
       }
     ]
   },
@@ -36246,19 +36248,19 @@
     "name": "Acción",
     "samples": [
       {
-        "name": "Misión De Rescate",
+        "name": "Soldado Virtual",
         "url": "http://144.217.70.79/VODS-M/1080P/One%20Shot%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/wNSZ00CbDyQNj1Lp8FjZFLLJFv5.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/srJ7haOhfykoPOYPQrstOaFem08.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/gL0NrITosvUcittlCT0jyonQFqm.png",
+        "icono": "https://image.tmdb.org/t/p/original/xHPVoVhWPRyNDsvm7M1EmnVUVyu.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/j4ya52FqogRzqNVGDhrp9k0iNNQ.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/jkIjNLRKQR0TYjDolVivMoGH9Vd.png",
         "type": "PELICULA",
-        "descripcion": "Un escuadrón de élite de los SEAL de la Marina, en una misión encubierta para transportar a un prisionero fuera de una prisión isleña del sitio negro de la CIA, queda atrapado cuando los insurgentes atacan mientras intentan rescatar al mismo prisionero.",
-        "anio": "2021",
+        "descripcion": "Un hábil luchador se adentra en el inmersivo mundo del combate de realidad virtual. Su destreza en las artes marciales es puesta a prueba definitiva cuando un grupo de terroristas irrumpe en la instalación donde se encuentra la tecnología de realidad virtual. Ahora él por sobrevivir por proteger al mundo de la devastación desatada por los terroristas tanto en el mundo virtual como en el real.",
+        "anio": "2022",
         "genero": [
           "Acción",
-          "Suspense"
+          "Ciencia ficción"
         ],
-        "duracion": "97 min"
+        "duracion": "82 min"
       }
     ]
   },
@@ -38740,24 +38742,21 @@
     ]
   },
   {
-    "name": "Aventura",
+    "name": "Animación",
     "samples": [
       {
         "name": "Pocahontas",
         "url": "http://144.217.70.79/VODS-M/1080P/Pocahontas%201995.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/cW4D4KPUwEhijFEOrB0DcXMcWEl.png",
+        "icono": "https://image.tmdb.org/t/p/original/wpwFGXyvNAWrM6LCHUb2VUgkopw.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uoRriEVC0iH19vnOLTXf75dkZDZ.jpg",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "La historia viene gloriosamente a la vida en la historia épica de Disney sobre el amor y la aventura en el Nuevo Mundo. Pocahontas es una mujer nativa americana cuyo padre ha arreglado para que ella se case con el mejor guerrero de su pueblo. Pero una visión le dice que el cambio está llegando, y pronto ella se encuentra cara a cara con ella en la forma del Capitán John Smith.",
+        "descripcion": "",
         "anio": "1995",
         "genero": [
-          "Aventura",
-          "Animación",
-          "Familia",
-          "Romance"
+          "Animación"
         ],
-        "duracion": "81 min"
+        "duracion": "50 min"
       }
     ]
   },
@@ -41147,22 +41146,21 @@
     ]
   },
   {
-    "name": "Suspense",
+    "name": "Drama",
     "samples": [
       {
-        "name": "Ride - Viaje Mortal",
+        "name": "Ride",
         "url": "http://144.217.70.79/VODS-M/1080P/Ride%202018.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/lM0QMQkezkirKuGE2yFJzWlMLxo.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/waoV6Bo7aJiXPEUOtB1pBhf0iSV.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/tW4vjWHfTQ9xq4MJI6Nw0oggxbZ.png",
+        "icono": "https://image.tmdb.org/t/p/original/5YlQpNhCN08s7mSjqpEmTszcbyC.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/iQyu66gjf9Uf9jEQALrWfYraVmd.jpg",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Una noche en Los Ángeles se convierte en una guerra psicológica de supervivencia cuando un conductor de Uber, James y su pasajera, Jessica, recogen a Bruno, que es carismático pero manipulador.",
+        "descripcion": "",
         "anio": "2018",
         "genero": [
-          "Suspense",
-          "Crimen"
+          "Drama"
         ],
-        "duracion": "79 min"
+        "duracion": "90 min"
       }
     ]
   },
@@ -41228,23 +41226,23 @@
     ]
   },
   {
-    "name": "Crimen",
+    "name": "Drama",
     "samples": [
       {
-        "name": "Ride or Die",
+        "name": "Contigo a muerte",
         "url": "http://144.217.70.79/VODS-M/1080P/Ride%20or%20Die%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/77S8LQNkB0se2nk15X1d22QV1d1.jpg",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/vCaAcunvp2yabxG5I1HACKbKw1p.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/dUbtr5cXaCyFByz41ch806Omyj9.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/cHb3WO3sFrFJVCrWkLf01d2GHwm.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "Su esposo abusivo ha muerto a manos de una amiga lesbiana que haría cualquier cosa por ella. Ahora huyen para ponerse a salvo.",
         "anio": "2021",
         "genero": [
-          "Crimen",
           "Drama",
-          "Romance"
+          "Romance",
+          "Suspense"
         ],
-        "duracion": "81 min"
+        "duracion": "142 min"
       }
     ]
   },
@@ -42609,20 +42607,20 @@
     "name": "Drama",
     "samples": [
       {
-        "name": "La escuela de la vida",
+        "name": "La vida escolar",
         "url": "http://144.217.70.79/VODS-M/1080P/School%20Life%202019.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/sluD9qPd6tbpG95kq9cbvLmhqz9.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5KGtBcI4twwyZIB1dAXznQiqXsL.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/8DUfrmlyXofxXzJLLKWrDJEnape.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9LyPD0Kk0xfEcT8iydKDm2xYyGS.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/uxPIFLMAUPs6KkbQdNEcmObx2rK.png",
         "type": "PELICULA",
-        "descripcion": "París, 1927. Paul, un niño que vive en un orfanato de un barrio obrero de París, es adoptado por Celestine, una criada de un conde, y su marido, el guardabosques, que trabajan en una gran finca en Sologne. Acostumbrado a la vida en la ciudad, el chico llega a un mundo misterioso e inquietante, una región salvaje con un inmenso bosque, estanques y cultivos. Todo pertenece al conde de La Fresnaye, un viudo taciturno que vive solo en su mansión. En los bosques del conde hay varios pescadores y cazadores furtivos, como Totoche, el más escurridizo de todos. Cuando Paul conoce a Totoche, éste le enseñará todos los secretos del bosque.",
-        "anio": "2017",
+        "descripcion": "Samia es una joven treintañera que llega a una escuela de complicada reputación en un suburbio de París para ser la directora. Ahí tendrá que lidiar con los problemas recurrentes de la disciplina, la realidad social que pesa sobre la escuela y el vecindario, pero también con la increíble vitalidad y humor de los estudiantes y los demás profesores.",
+        "anio": "2019",
         "genero": [
           "Drama",
           "Comedia",
           "Familia"
         ],
-        "duracion": "116 min"
+        "duracion": "112 min"
       }
     ]
   },
@@ -45041,21 +45039,23 @@
     ]
   },
   {
-    "name": "Documental",
+    "name": "Acción",
     "samples": [
       {
-        "name": "Spider-Man: Todos los caminos conducen a No Way Home",
+        "name": "Spider-Man: Sin camino a casa",
         "url": "http://144.217.70.79/VODS-M/1080P/Spider%20Man%20No%20Way%20Home%202022.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/y3m8fNP6WnGemSPpEXRLyAaTSA1.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/tObVe1R7JnO3VXBvAOWTEPmmegu.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/HNCEHYze7CzcVMFNhqdt9hvWWA.png",
+        "icono": "https://image.tmdb.org/t/p/original/miZFgV81xG324rpUknQX8dtXuBl.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/nqUThBjou0TAWXu93Q4SNFpgqai.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/dEFxlY8tBr3MfcofIJKzqQKVe6B.png",
         "type": "PELICULA",
-        "descripcion": "Únete a nuestros presentadores JB Smoove y Martin Starr para celebrar los 20 años de películas de Spider-Man™. Desde la trilogía original de Sam Raimi, pasando por las \"increíbles\" películas de Marc Webb, hasta el último trío del director Jon Watts, llevaremos a los espectadores a través de las estrellas, las acrobacias y la acción, los villanos y los héroes y un homenaje a Stan Lee, junto con algunas sorpresas. Busca tu pijama favorito de Spiderman y prepárate para recorrer las dos últimas décadas de Spiderman en el cine.",
-        "anio": "2022",
+        "descripcion": "Peter Parker es desenmascarado y ya no puede separar su vida normal de los altos riesgos de ser un súper héroe. Cuando pide ayuda al Doctor Strange para recuperar su secreto, el hechizo crea un agujero en su mundo, liberando a los villanos más poderosos que han luchado con cualquier Spider-Man, en cualquier universo. Ahora Peter debe de superar su reto más grande, que no solo alterara su propio futuro pero el del multiverso, forzándolo a descubrir lo que realmente significa ser Spider-Man.",
+        "anio": "2021",
         "genero": [
-          "Documental"
+          "Acción",
+          "Aventura",
+          "Ciencia ficción"
         ],
-        "duracion": "30 min"
+        "duracion": "148 min"
       }
     ]
   },
@@ -46442,22 +46442,22 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Comedia",
     "samples": [
       {
-        "name": "El canto del cisne",
+        "name": "Brillarás Para Siempre",
         "url": "http://144.217.70.79/VODS-M/1080P/Swan%20Song%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/nHT3GKTjgfKJdZaM9s3oYJePwCU.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/4iMURVQCxjyMH8Vr1Wd3GCsxE06.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/kKGT3z8l4z5FhA2jrSzIvFJkhDf.png",
+        "icono": "https://image.tmdb.org/t/p/original/2KoJzUrqIpczH2f1cKgCFbQoJDf.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sSinyqGb3sXrOeYWjjJM8RG1iPs.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/53Ln97XGah9cxkU9HspgGp0Tvyg.png",
         "type": "PELICULA",
-        "descripcion": "En un futuro cercano, Cameron Turner es diagnosticado con una enfermedad terminal. Con tal de proteger a su familia del dolor, considera una solución experimental capaz de alterar su destino. Una reflexiva historia de amor, pérdida y sacrificio.",
+        "descripcion": "Pat Pitsenbarger es un excéntrico peluquero gay ya retirado que se escapa del asilo en el que está ingresado para cumplir con un último encargo: peinar y maquillar a una antigua celebridad, amiga y clienta que ha fallecido, para que esté perfecta en su velatorio.",
         "anio": "2021",
         "genero": [
-          "Drama",
-          "Ciencia ficción"
+          "Comedia",
+          "Drama"
         ],
-        "duracion": "112 min"
+        "duracion": "105 min"
       }
     ]
   },
@@ -50272,25 +50272,22 @@
     ]
   },
   {
-    "name": "Película de TV",
+    "name": "Acción",
     "samples": [
       {
-        "name": "El club de los niños feos",
+        "name": "三岔口",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Divergent%202014.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/mw5cZd6O4VHF34FMbE3o1AmTx4G.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fLZJM6ECTg3XgYuPHwpvRMqCgCl.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/tL0ZEC1cALI0fk7ZHbKoOgeMWlp.png",
+        "icono": "https://image.tmdb.org/t/p/original/he1EG9xjLKQ6evEAxB1IA3KnSbD.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/3SgSWsMO9BjOyjh5hLwGY0rnxbG.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/6toaXlSLMKTbQtCM0N6HdFGueOL.png",
         "type": "PELICULA",
-        "descripcion": "Durante la grabación de un concurso de TV basado en la apariencia, un grupo de niños es tomado como rehén. Los captores buscan expresar su descontento con que todo esté basado solo en la apariencia, pero llevan las cosas demasiado lejos...",
-        "anio": "2019",
+        "descripcion": "",
+        "anio": "2005",
         "genero": [
-          "Película de TV",
           "Acción",
-          "Aventura",
-          "Familia",
-          "Ciencia ficción"
+          "Suspense"
         ],
-        "duracion": "95 min"
+        "duracion": "101 min"
       }
     ]
   },
@@ -59301,21 +59298,23 @@
     ]
   },
   {
-    "name": "Bélica",
+    "name": "Misterio",
     "samples": [
       {
-        "name": "Santos y Soldados - The void",
+        "name": "Conjuros del más allá",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Void%202016.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/tiHr6RppOrifTzKYeOhCHh6FDda.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/bH1SwaZ6ArKh2zPfdcG41zyoFKi.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/iDBMq3mTtXueCNo9P4I4o4Ut4iM.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/oZwwwezJFlHmQGBRJDLmENXwOIt.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/jWGVURGJCMPVobiDHop8rytLoUh.png",
         "type": "PELICULA",
-        "descripcion": "La historia se centra en una tripulación del tanque M18 Hellcat emboscado por tres Panzers alemanes en la recta final de la Segunda Guerra Mundial.",
-        "anio": "2014",
+        "descripcion": "Un policía traslada a un hombre herido a un pequeño hospital, y la violencia no tarda en desatarse. Los pocos médicos y pacientes que hay se ven rodeados por unos encapuchados y amenazados por una extraña criatura que crece dentro del hospital.",
+        "anio": "2016",
         "genero": [
-          "Bélica"
+          "Misterio",
+          "Terror",
+          "Ciencia ficción"
         ],
-        "duracion": "96 min"
+        "duracion": "90 min"
       }
     ]
   },
@@ -60249,24 +60248,23 @@
     ]
   },
   {
-    "name": "Fantasía",
+    "name": "Aventura",
     "samples": [
       {
-        "name": "Guardians of the Night",
+        "name": "Naruto la Película: ¡La Gran Excitación! Pánico Animal en la Isla de la Luna",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20guardians%202017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/sTaLYIoQJKbrLlh31iiZqAuKVdB.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/gLQHmkqzIxYXM6JdGhG7OMVPNMR.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/tNunlumSc4uHMOSGYogmM9ghxOz.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/j2oX7UeZJJD6tUczrVECcJCdLaG.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/92CK7r1sarCmW3GB0A8RRSkY1Gp.png",
         "type": "PELICULA",
-        "descripcion": "Moscú contemporáneo. Cuando Pasha, de dieciocho años, rescata a una bella joven de una banda de atacantes extrañamente poderosos, descubre un submundo de seres sobrenaturales que viven entre nosotros.",
-        "anio": "2016",
+        "descripcion": "La historia o trama de la película cuenta el viaje de un príncipe del País de la Luna, situado en la isla de la luna creciente, en un mar meridional, que tiene que volver de nuevo a su casa. Este será escoltado por Naruto, Kakashi, Sakura y Rock Lee. El Príncipe acaba de comprar un circo (entero) para llevárselo a la isla, y es por eso que el grupo de Kakashi tendrá que hacer todo lo posible para que el príncipe y su gran compra llegue sin problemas a la isla. Pero como no, un grupo de tres ninjas de lo más misteriosos los pondrán en apuros.",
+        "anio": "2006",
         "genero": [
-          "Fantasía",
-          "Acción",
-          "Ciencia ficción",
-          "Suspense"
+          "Aventura",
+          "Animación",
+          "Acción"
         ],
-        "duracion": "97 min"
+        "duracion": "95 min"
       }
     ]
   },
@@ -63382,21 +63380,23 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Acción",
     "samples": [
       {
-        "name": "Lisabi: The Uprising",
+        "name": "Invasión, insurrección",
         "url": "http://144.217.70.79/VODS-M/1080P/Uprising%202024.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/1q3Ze0FVuV82pSrAWEGlC4PWu2h.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xf461ETw77oZoKtMoK8NrPAacDb.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/u7BbfoOND2qtKUslMbPhgHVuVFK.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/64tinBsds1nVp4wOCgYhMbSgsRW.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/8MbaNq9BEF5n5xGPIwoetyluBvZ.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "Durante la dinastía Joseon, dos amigos que compartieron su infancia —uno era el amo y el otro el sirviente— vuelven a encontrarse después de la guerra, pero en facciones opuestas.",
         "anio": "2024",
         "genero": [
-          "Drama"
+          "Acción",
+          "Drama",
+          "Historia"
         ],
-        "duracion": "107 min"
+        "duracion": "126 min"
       }
     ]
   },
@@ -63797,19 +63797,19 @@
     "name": "Drama",
     "samples": [
       {
-        "name": "Escape a la victoria",
+        "name": "El gran triunfo",
         "url": "http://144.217.70.79/VODS-M/1080P/Victory%201981.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/hO86vqFBAVEoMdO8OsoKn3RwwBQ.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/cWOpRLx5Fzz92D3zdesIcsQQxX9.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/uEtBBX8OTpBXaqWp6J6z6SMrX0W.png",
+        "icono": "https://image.tmdb.org/t/p/original/7SSzFCX0gLz1UZDza7Nf4YpWxzK.jpg",
+        "iconoHorizontal": "",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Segunda Guerra Mundial, año 1943. El comandante del campo de concentración de Gensdorff, que antes de la guerra había formado parte de la selección alemana de fútbol, se interesa por un un grupo de prisioneros que practican este deporte. Se le ocurre entonces la idea de organizar un partido en el que se enfrenten una selección alemana y una selección formada por prisioneros de guerra. Aunque al principio los aliados rechazan la propuesta, al final aceptan el desafío.",
+        "descripcion": "",
         "anio": "1981",
         "genero": [
           "Drama",
-          "Bélica"
+          "Música"
         ],
-        "duracion": "116 min"
+        "duracion": "89 min"
       }
     ]
   },

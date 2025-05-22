@@ -5750,19 +5750,21 @@
     ]
   },
   {
-    "name": "",
+    "name": "Terror",
     "samples": [
       {
-        "name": "Baba Yaga Terror of the Dark Forest",
+        "name": "Baba Yaga: El terror del Bosque Oscuro",
         "url": "http://144.217.70.79/VODS-M/1080P/Baba%20Yaga%20Terror%20of%20the%20Dark%20Forest%202019.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/72r3FJH0Lv7M52lRcIhDy5wwkin.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/4br4B8C0SRIYcKHUgoaOlGo50MU.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/aPPjK8llHxdfviF6FuGQdUNzaGm.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2019",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "La joven familia que se mudó a un nuevo apartamento en las afueras de la ciudad. La niñera contratada por ellos para la hija recién nacida rápidamente ganó confianza. Sin embargo, el niño mayor, Egor, habla del comportamiento aterrador de una mujer, pero sus padres no le creen. Las cámaras de vigilancia instaladas por el padre para mayor comodidad solo confirman que todo está en orden. Entonces, un día, Egor, al regresar a casa, no encuentra rastro ni de la niñera ni de la hermana pequeña, y los padres están en un trance extraño y ni siquiera recuerdan que tuvieron una hija. Entonces Egor, junto con sus amigos, va en busca, durante la cual resulta que la niñera es un antiguo demonio eslavo, conocido popularmente como Baba Yaga.",
+        "anio": "2020",
+        "genero": [
+          "Terror"
+        ],
+        "duracion": "113 min"
       }
     ]
   },
@@ -9931,8 +9933,7 @@
         "anio": "2021",
         "genero": [
           "Terror",
-          "Suspense",
-          "Misterio"
+          "Suspense"
         ],
         "duracion": "91 min"
       }
@@ -15601,19 +15602,22 @@
     ]
   },
   {
-    "name": "",
+    "name": "Acción",
     "samples": [
       {
-        "name": "Dragon Ball Mystical Adventure",
+        "name": "Dragon Ball: Una Aventura Mística",
         "url": "http://144.217.70.79/VODS-M/1080P/Dragon%20Ball%20Mystical%20Adventure%201986.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/7f2vIwxEXryqavvgVAcqUe2CG0Q.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xvq3BaNgmAkdmdoz7isqX68XS40.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/1EAYkMTVAHNMG5Mj8RPgJIwPf4O.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "1986",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "Después que terminaran su entrenamiento con el Maestro Roshi, Goku y Krilin se dirigen a la ciudad Mifan para participar en el Torneo de las Artes Marciales, ala vez Ran Ran esposa del Emperador Chaoz se encuentra perdida, el Ministro Tsuru le aconseja recolectar las esferas del dragón para luego pedir como deseo encontrar a su esposa.",
+        "anio": "1988",
+        "genero": [
+          "Acción",
+          "Animación"
+        ],
+        "duracion": "45 min"
       }
     ]
   },
@@ -19761,19 +19765,22 @@
     ]
   },
   {
-    "name": "",
+    "name": "Ciencia ficción",
     "samples": [
       {
-        "name": "Fortress 2 Re-entry",
+        "name": "La fortaleza 2",
         "url": "http://144.217.70.79/VODS-M/1080P/Fortress%202%20Re-entry%201999.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/muGd6W2qEHVm8biLSm0Rp1JLyrG.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jh2X7nuIwnfPZ2OztCpQiMvMuhw.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/9fHsF1j8GtvWTHqazK8OatFW4Ng.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "1999",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "Han pasado varios años desde que John Brennick, un fugitivo de la prisión subterránea de gran tecnología, consiguiera escapar. El gerente de la corporación Mental busca incansablemente a Brennick, quien se esconde, junto a su familia, en el campo. Finalmente son acorralados y se ven obligados a entregarse, siendo encerrados en una nueva y más sofisticada prisión, esta vez situada en el espacio exterior -a 26.000 millas por encima de la Tierra-, y de donde es aún más complicado escapar, casi imposible. Pero Brennick no es un hombre que dé su brazo a torcer fácilmente, y un hijo esperándole en la Tierra constituye una motivación adicional a sus planes de fuga.",
+        "anio": "2000",
+        "genero": [
+          "Ciencia ficción",
+          "Acción"
+        ],
+        "duracion": "88 min"
       }
     ]
   },
@@ -19838,19 +19845,22 @@
     ]
   },
   {
-    "name": "",
+    "name": "Familia",
     "samples": [
       {
-        "name": "Four Kids and It",
+        "name": "¡Pide un deseo!",
         "url": "http://144.217.70.79/VODS-M/1080P/Four%20Kids%20and%20It%202019.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/lMn8d7KRrjftu24179PY9V1zMyQ.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/92PtZ3pxqTNWOcvi9HdDto142vy.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/tkZJ95FhurrSSkzcONamSiRU4sT.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2019",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "Una pareja que decide irse de vacaciones con sus niños al condado costero de Cornwall. Ahí en la playa, descubren una mágica criatura, Psammead, que tiene la habilidad de conceder sus deseos. Mientras tanto, un aristócrata excéntrico llamado Tristan está intentando robar la criatura su propio beneficio.",
+        "anio": "2020",
+        "genero": [
+          "Familia",
+          "Fantasía"
+        ],
+        "duracion": "110 min"
       }
     ]
   },
@@ -21680,19 +21690,23 @@
     ]
   },
   {
-    "name": "",
+    "name": "Acción",
     "samples": [
       {
-        "name": "Gone in Sixty Seconds",
+        "name": "60 Segundos",
         "url": "http://144.217.70.79/VODS-M/1080P/Gone%20in%20Sixty%20Seconds%202008.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/48a89gSBAu52u6VpcAdRyV5sNJI.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/mAeDJ3P4ZRDBsuDlKgL2mNXFvsc.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/bi51h7H1NgZKTNTSZRJt7mrSiyA.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2008",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "El robo de autos en Long Beach se redujo en un 47% cuando Randall \"Memphis\" Raines se alejó de esta vida. Sin embargo, se ve obligado a regresar a este mundo, tomando las riendas del trabajo que su hermano Kip arruinó para el negociante de autos robados Raymond Calitri: robar 50 autos exóticos y tenerlos listo en un barco de contenedores a las 8:00 de la mañana del viernes, siendo avisado un lunes. Con Calitri amenazando con matarlo a él y a Kip, y a la unidad GRAB de la policía respirándole en la nuca, Memphis vuelve a reunir a su antiguo equipo para llevar a cabo algo logísticamente imposible.",
+        "anio": "2000",
+        "genero": [
+          "Acción",
+          "Crimen",
+          "Suspense"
+        ],
+        "duracion": "118 min"
       }
     ]
   },
@@ -30388,19 +30402,23 @@
     ]
   },
   {
-    "name": "",
+    "name": "Comedia",
     "samples": [
       {
         "name": "Lisa Frankenstein",
         "url": "http://144.217.70.79/VODS-M/1080P/Lisa%20Frankenstein%202023.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/5US9yKtf3STseAhYawGAnRH75S3.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/tsDoiLwZyAbYewoIUDJKk1SJzTF.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/w6a3RLtLRCRhRKCxQVWEM3Epn85.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2023",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "En 1989, una impopular chica de secundaria llamada Lisa reanima accidentalmente un apuesto cadáver victoriano durante una tormenta eléctrica y comienza a reconstruirlo para convertirlo en el hombre de sus sueños usando la cama de rayos uva estropeada que tiene en su garaje.",
+        "anio": "2024",
+        "genero": [
+          "Comedia",
+          "Terror",
+          "Romance"
+        ],
+        "duracion": "101 min"
       }
     ]
   },
@@ -33737,19 +33755,24 @@
     ]
   },
   {
-    "name": "",
+    "name": "Suspense",
     "samples": [
       {
-        "name": "Most Dangerous Game",
+        "name": "The Most Dangerous Game",
         "url": "http://144.217.70.79/VODS-M/1080P/Most%20Dangerous%20Game%202020.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/41N5Rn3Xw3p7vj7n3j7M2GLgDwA.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/psBFJubFWiAV23dAZ6D0wjQWbhe.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/l3Od2KXQKytcyAdu7gjzU3Lmyn4.png",
         "type": "PELICULA",
         "descripcion": "",
-        "anio": "2020",
-        "genero": "",
-        "duracion": ""
+        "anio": "1932",
+        "genero": [
+          "Suspense",
+          "Aventura",
+          "Terror",
+          "Acción"
+        ],
+        "duracion": "63 min"
       }
     ]
   },
@@ -37061,19 +37084,22 @@
     ]
   },
   {
-    "name": "",
+    "name": "Acción",
     "samples": [
       {
-        "name": "Over the Top",
+        "name": "El Vencedor (Over the Top)",
         "url": "http://144.217.70.79/VODS-M/1080P/Over%20the%20Top%201986.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/2VIJulJo9no81FRoMfU0iF3tplS.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/36ioS38a5xjITP6qpZg1zDUL5K4.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/2l8ABy0392iYEcVQ4LDDw2xMLiG.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "1986",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "Lincoln Hawk es un camionero que no deja de pensar en su hijo, al que no ha visto desde su nacimiento. Ahora, Lincoln debe recogerlo en la academia militar de Virginia para llevarlo a Denver, donde su madre -de la que Lincoln está divorciado- agoniza. Pero el suegro de Lincoln no quiere que llegue. Ésta es la historia de un padre que conquista el amor de su hijo, pese a que todo está contra él, un hombre con la ambición de ganar el concurso mundial de pulsos, contra todo pronóstico, y compartir sus sueños con su hijo.",
+        "anio": "1987",
+        "genero": [
+          "Acción",
+          "Drama"
+        ],
+        "duracion": "93 min"
       }
     ]
   },
@@ -39600,19 +39626,22 @@
     ]
   },
   {
-    "name": "",
+    "name": "Ciencia ficción",
     "samples": [
       {
-        "name": "Project Almanac",
+        "name": "Proyecto Almanac",
         "url": "http://144.217.70.79/VODS-M/1080P/Project%20Almanac%202014.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/bQ2UnB7whQr6EJ2WxKOLjnMdCAv.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/eyJk5LTMLIeAN2kVsP0yXrPZJfl.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/uk7qBHOvGkghbB4EFvMfyWFS60L.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2014",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "Un grupo de jóvenes se embarca en una aventura cuando descubren planes secretos para construir una máquina del tiempo, que utilizarán para arreglar sus problemas y obtener beneficios personales.",
+        "anio": "2015",
+        "genero": [
+          "Ciencia ficción",
+          "Suspense"
+        ],
+        "duracion": "106 min"
       }
     ]
   },
@@ -40845,9 +40874,8 @@
         "anio": "2023",
         "genero": [
           "Comedia",
-          "Terror",
-          "Acción",
-          "Fantasía"
+          "Fantasía",
+          "Terror"
         ],
         "duracion": "93 min"
       }
@@ -47371,19 +47399,23 @@
     ]
   },
   {
-    "name": "",
+    "name": "Comedia",
     "samples": [
       {
-        "name": "Texas Chainsaw Massacre The Next Generation",
+        "name": "Masacre en Texas: La nueva generación",
         "url": "http://144.217.70.79/VODS-M/1080P/Texas%20Chainsaw%20Massacre%20The%20Next%20Generation%201994.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/u1ZIqqx0SlqjaPj3v9P4zSOaXC1.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/eZvVoJc3XrAE81bmNhtyTUDti8b.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/j6WtjeHyIvi9CahXjnU6z6Qw4dO.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "1994",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "Durante un viaje por Texas, cuatro amigos se equivocan de camino y tienen un accidente en medio de un bosque. Los jóvenes buscan ayuda desesperadamente, pero se verán acosados por una familia de psicópatas asesinos.",
+        "anio": "1995",
+        "genero": [
+          "Comedia",
+          "Terror",
+          "Suspense"
+        ],
+        "duracion": "93 min"
       }
     ]
   },
@@ -48878,19 +48910,22 @@
     ]
   },
   {
-    "name": "",
+    "name": "Drama",
     "samples": [
       {
-        "name": "The Boy Who Harnessed the Wind",
+        "name": "El niño que domó el viento",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Boy%20Who%20Harnessed%20the%20Wind%202018.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/f9LYaF5Q4pfaF8Gzk64S78VLBKh.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lB8mrGjgOxVuiGzBNbHfUrFw02d.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/tx7mBYNlB7xhX53sH26e29GgE3L.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2018",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "Un chico de la República de Malaui decide ayudar a las personas de su pueblo construyendo una turbina después de leer un libro en el que se explican los pasos para su creación. Película basada en el libro homónimo de William Kamkwamba y Bryan Mealer",
+        "anio": "2019",
+        "genero": [
+          "Drama",
+          "Historia"
+        ],
+        "duracion": "113 min"
       }
     ]
   },
@@ -49450,19 +49485,23 @@
     ]
   },
   {
-    "name": "",
+    "name": "Acción",
     "samples": [
       {
-        "name": "The Commuter",
+        "name": "El pasajero",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Commuter%202017.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/nd7dKQ1Lpkzlvl4V29gEu2Kg3sX.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/4T3YEkxnUUgN0e6FBb3sQth4VrS.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2017",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "Durante su trayecto habitual de vuelta a casa en tren, un hombre de negocios felizmente casado comienza a hablar con una misteriosa pasajera. Pronto el hombre se verá envuelto en una conspiración criminal que amenaza con poner en peligro tanto su vida como la de sus seres más cercanos.",
+        "anio": "2018",
+        "genero": [
+          "Acción",
+          "Suspense",
+          "Misterio"
+        ],
+        "duracion": "105 min"
       }
     ]
   },
@@ -50233,19 +50272,25 @@
     ]
   },
   {
-    "name": "",
+    "name": "Película de TV",
     "samples": [
       {
-        "name": "The Divergent",
+        "name": "El club de los niños feos",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Divergent%202014.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/mw5cZd6O4VHF34FMbE3o1AmTx4G.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fLZJM6ECTg3XgYuPHwpvRMqCgCl.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/tL0ZEC1cALI0fk7ZHbKoOgeMWlp.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2014",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "Durante la grabación de un concurso de TV basado en la apariencia, un grupo de niños es tomado como rehén. Los captores buscan expresar su descontento con que todo esté basado solo en la apariencia, pero llevan las cosas demasiado lejos...",
+        "anio": "2019",
+        "genero": [
+          "Película de TV",
+          "Acción",
+          "Aventura",
+          "Familia",
+          "Ciencia ficción"
+        ],
+        "duracion": "95 min"
       }
     ]
   },
@@ -51661,16 +51706,16 @@
     "name": "",
     "samples": [
       {
-        "name": "The Green Zone",
+        "name": "Yeşil Bölge",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Green%20Zone%202010.mkv",
-        "icono": "",
+        "icono": "https://image.tmdb.org/t/p/original/zYMdD05y4I2UhMn4P8hGoOsp3Mv.jpg",
         "iconoHorizontal": "",
         "iconpng": "",
         "type": "PELICULA",
         "descripcion": "",
-        "anio": "2010",
-        "genero": "",
-        "duracion": ""
+        "anio": "2017",
+        "genero": [],
+        "duracion": "7 min"
       }
     ]
   },
@@ -56121,19 +56166,22 @@
     ]
   },
   {
-    "name": "",
+    "name": "Western",
     "samples": [
       {
-        "name": "The Ox-Bow Incident",
+        "name": "Conciencias muertas",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Ox-Bow%20Incident%201942.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/wEBu9jZCXSSdZjt01EVGisdnD87.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/A1aJIo66DkwjWCZOPdRdShzDW2O.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/tvGR2OnvY801uR9V7Vr3oUq9eJe.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "1942",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "Nevada, 1885. Gil Carter (Henry Fonda) llega a una pequeña población del oeste en busca de su antigua novia, una mujer de dudosa reputación. Le acompaña su amigo Art (Harry Morgan). La inesperada noticia del asesinato de un conocido ranchero provoca que, ante la ausencia del sheriff, se forme un grupo de linchamiento del que tanto Gil como Art formarán parte.",
+        "anio": "1943",
+        "genero": [
+          "Western",
+          "Drama"
+        ],
+        "duracion": "76 min"
       }
     ]
   },
@@ -57098,19 +57146,22 @@
     ]
   },
   {
-    "name": "",
+    "name": "Comedia",
     "samples": [
       {
-        "name": "The Right One",
+        "name": "El indicado",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Right%20One%202020.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/sSxy2Ej25XoekfO8bl8nNyohaI7.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/i613J8Ao0vI0cVzIMvhrEQCqRH.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/25HHeBOrJIQWmzrGH7HSDHHoB6f.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2020",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "La historia de Godfrey es la de un hombre tan traumatizado y castigado por una tragedia personal que decide lidiar con ella de una manera tajante: siendo cualquier persona menos él mismo. Un día adopta el rol de un crítico de arte; otro de un profesor de universidad, y así sucesivamente. Su plan parece ir sobre ruedas hasta que conoce a Sara Dash, una reflexiva e inteligente escritora que padece un bloqueo y con la que se tropieza por casualidad en una exposición de arte. Intrigada por sus constantes cambios de personalidad, Sara intenta desvelar el misterio de Godfrey, además de utilizar su historia como argumento para escribir un nuevo libro. Entre ambos surge una delicada amistad marcada por el amor, la introspectiva y la resolución de dos personas heridas que son capaces de ayudarse mútuamente",
+        "anio": "2021",
+        "genero": [
+          "Comedia",
+          "Romance"
+        ],
+        "duracion": "96 min"
       }
     ]
   },
@@ -64628,19 +64679,21 @@
     ]
   },
   {
-    "name": "",
+    "name": "Comedia",
     "samples": [
       {
-        "name": "What Happened to Mr Cha",
+        "name": "¿Qué fue del Sr. Cha?",
         "url": "http://144.217.70.79/VODS-M/1080P/What%20Happened%20to%20Mr%20Cha%202020.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
+        "icono": "https://image.tmdb.org/t/p/original/sSoagGDAy1i8Fpky9JQDyMNWeEJ.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/7wzalLhq27huAGTsnFY25osOJBe.jpg",
         "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2020",
-        "genero": "",
-        "duracion": ""
+        "descripcion": "En el ocaso de su carrera, un actor aferrado firmemente a sus glorias del pasado experimenta un incidente inesperado que lo obliga a enfrentar su presente.",
+        "anio": "2021",
+        "genero": [
+          "Comedia"
+        ],
+        "duracion": "102 min"
       }
     ]
   },

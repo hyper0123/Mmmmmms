@@ -10591,7 +10591,7 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Ciencia ficción",
     "samples": [
       {
         "name": "Sunshine: Alerta solar",
@@ -10602,7 +10602,7 @@
         "type": "PELICULA",
         "descripcion": "En un plazo de cinco años el Sol se apagará, y con él se extinguirá la raza humana. La última esperanza de los hombres es el Ícarus II, una nave espacial tripulada por seis hombres y dos mujeres, cuya misión consiste en llevar una gigantesca carga explosiva que insuflaría nueva vida a la estrella y le permitiría volver a brillar, salvándose así la población de la Tierra. El problema es que la nave Ícarus ya había llevado a cabo la misma misión siete años antes y había fracasado.",
         "anio": "2007",
-        "genero": "Drama, Ciencia ficción, Suspense",
+        "genero": "Ciencia ficción, Suspense",
         "duracion": "107 min"
       }
     ]
@@ -10611,13 +10611,13 @@
     "name": "Documental",
     "samples": [
       {
-        "name": "Super Size Me 2: Holy Chicken!",
+        "name": "Súper Engórdame 2",
         "url": "http://144.217.70.79/VODS-M/1080P/Super%20Me%202019.mkv",
         "icono": "https://image.tmdb.org/t/p/original/bq1RcG7UPEzyq63Gi8S59h50Z3X.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/dFcDDGj2XMq8Z0tSuqWjX5Bmflj.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/hLhX9mgZlkPCgoQMiEXe8dx3a7C.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "El cineasta de investigación Morgan Spurlock retoma su lucha contra la industria alimenticia, esta vez contra la industria del pollo, mientras al mismo tiempo abre su propio restaurante de comida rápida.",
         "anio": "2019",
         "genero": "Documental",
         "duracion": "93 min"
@@ -13090,7 +13090,7 @@
     ]
   },
   {
-    "name": "Comedia",
+    "name": "Familia",
     "samples": [
       {
         "name": "El gato",
@@ -13101,7 +13101,7 @@
         "type": "PELICULA",
         "descripcion": "Mike Myers protagoniza esta película en el papel del travieso visitante felino con sombrero que enseña a dos niños que \"es divertido divertirse pero hay que saber cómo hacerlo\". Dakota Fanning y Spencer Breslin encarnan a los dos niños que tienen el placer de presenciar la anárquica conducta del gato y su habilidad para divertirse desafiando las leyes de la gravedad. Kelly Preston hace el papel de la madre y Alec Baldwin es Lawrence Quinn, el vecino que aspira a convertirse en padrastro de los niños, para desesperación de éstos.",
         "anio": "2003",
-        "genero": "Comedia, Aventura, Familia, Fantasía",
+        "genero": "Familia, Comedia, Aventura, Fantasía",
         "duracion": "81 min"
       }
     ]
@@ -16463,7 +16463,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Kings%20Speech%202010.mkv",
         "icono": "https://image.tmdb.org/t/p/original/ayrDCichVVOovfAikiS5NTmq8Wb.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/6dyqfaPdeM5Z22ylw9ZTyjROBo7.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/voSLtsXG8q2mDNJkxqKriJAKo4g.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/rJaDn7qfbc6yE9EcTHcTWAON9gO.png",
         "type": "PELICULA",
         "descripcion": "El duque de York se convirtió en rey de Inglaterra con el nombre de Jorge VI (1936-1952), tras la abdicación de su hermano mayor, Eduardo VIII. Su tartamudez, que constituía un gran inconveniente para el ejercicio de sus funciones, lo llevó a buscar la ayuda de Lionel Logue, un experto logopeda que intentó, empleando una serie de técnicas poco ortodoxas, eliminar este defecto en el habla del monarca.",
         "anio": "2010",
@@ -22100,7 +22100,7 @@
     ]
   },
   {
-    "name": "Animación",
+    "name": "Familia",
     "samples": [
       {
         "name": "El Grinch",
@@ -22111,7 +22111,7 @@
         "type": "PELICULA",
         "descripcion": "Illumination y Universal Pictures presentan El Grinch, basada en el amado clásico del Dr. Seuss. El Grinch cuenta la historia de un cínico gruñón que va en una misión para robarse la Navidad, sólo para descubrir que su corazón ha cambiado gracias al generoso espíritu de una pequeña niña. Divertida, conmovedora y visualmente impresionante, ¡El Grinch es diversión para toda la familia!",
         "anio": "2018",
-        "genero": "Animación, Familia, Comedia, Fantasía",
+        "genero": "Familia, Comedia, Animación, Fantasía",
         "duracion": "85 min"
       }
     ]

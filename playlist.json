@@ -3760,23 +3760,6 @@
         "name": "",
         "samples": [
             {
-                "name": "Apocalypto",
-                "url": "http://144.217.70.79/VODS-M/1080P/Apocalypto%202006.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2006",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
                 "name": "Aporia",
                 "url": "http://144.217.70.79/VODS-M/1080P/Aporia%202023.mkv",
                 "icono": "",
@@ -50654,23 +50637,6 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "1993",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "Tooth Fairy",
-                "url": "http://144.217.70.79/VODS-M/1080P/Tooth%20Fairy%202010.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2010",
                 "genero": "",
                 "duracion": ""
             }

@@ -504,7 +504,7 @@
         "type": "PELICULA",
         "descripcion": "Durante una inmersión, dos hermanas que están de vacaciones en México, se quedan atrapadas en una jaula de avistamiento de tiburones, con el oxígeno agotándose y rodeadas de peligrosos tiburones blancos. Sin ayuda en la superficie, sin ayuda bajo la superficie.",
         "anio": "2017",
-        "genero": "Terror",
+        "genero": "Terror, Suspense",
         "duracion": "87 min"
       }
     ]
@@ -521,7 +521,7 @@
         "type": "PELICULA",
         "descripcion": "Esta secuela de \"47 Meters Down\" traslada la mortífera acción de los tiburones desde México a Brasil, y seguirá a un grupo de chicas en busca de aventuras en la costa de Recife. Con la esperanza de salir del rutinario sendero turístico, las chicas escuchan algo acerca de unas ruinas submarinas ocultas, pero descubren que bajo las olas turquesas su Atlantis secreta no está completamente deshabitada.",
         "anio": "2019",
-        "genero": "Terror, Aventura, Suspense, Drama",
+        "genero": "Terror, Suspense",
         "duracion": "90 min"
       }
     ]
@@ -2873,7 +2873,7 @@
     ]
   },
   {
-    "name": "Comedia",
+    "name": "Acción",
     "samples": [
       {
         "name": "Barry Seal: Sólo en América",
@@ -2884,7 +2884,7 @@
         "type": "PELICULA",
         "descripcion": "Década de 1980. Después de haber trabajado como piloto de TWA, la mayor aerolínea estadounidense, Barry Seal se convierte en narcotraficante, y posteriormente es reclutado por la CIA para realizar labores de inteligencia. La película cuenta la historia de este ex piloto que se puso al cargo de una de las más importantes operaciones encubiertas de la CIA en la historia de los Estados Unidos. Esta hazaña, con la que se logró apresar a varios miembros del cartel de Medellín, estuvo cerca de provocar la caída del gobierno de la Casa Blanca durante la presidencia de Ronald Reagan, a causa del escándalo Irangate.",
         "anio": "2017",
-        "genero": "Comedia, Crimen, Drama",
+        "genero": "Acción, Comedia, Crimen, Drama",
         "duracion": "115 min"
       }
     ]
@@ -14698,7 +14698,7 @@
         "iconpng": "https://image.tmdb.org/t/p/original/yqsWGuoqhSgLywml6j497fBORYl.png",
         "type": "PELICULA",
         "descripcion": "Un programador multimillonario selecciona a Caleb, un joven empleado de su empresa, para que pase una semana en un lugar remoto con el objetivo de que participe en un test en el que estará involucrada su última creación: un robot-mujer en el que inteligencia artificial lo es todo.",
-        "anio": "2015",
+        "anio": "2014",
         "genero": "Drama, Ciencia ficción",
         "duracion": "108 min"
       }
@@ -15368,19 +15368,19 @@
     ]
   },
   {
-    "name": "Misterio",
+    "name": "Terror",
     "samples": [
       {
-        "name": "La calle del terror (Parte 3): 1666",
+        "name": "La calle del terror (Parte 2): 1978",
         "url": "http://144.217.70.79/VODS-M/1080P/Fear%20Street%202%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/ouTHprNeiOYDS5zw5x7wrBF79q7.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jLeOzQLZJEpmAMDnfKMmORFGuV.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/5b99IZtlOrwpNKZziE71uqlsD6r.png",
+        "icono": "https://image.tmdb.org/t/p/original/jPcLH9QHrRb9ZRplxWOMO38ImL8.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sXw75q37IsFWgIIrjMZwfCXO1BF.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/mf4fJeZARxxaWMc21EnzVpiILfW.png",
         "type": "PELICULA",
-        "descripcion": "En 1666, un pueblo colonial sufre una caza de brujas que tiene consecuencias letales durante siglos. Está en manos de los jóvenes de 1994 poner fin a esta maldición",
+        "descripcion": "En 1978, Camp Nightwing está dividido en campistas que vinieron del pueblo oprimido de Shadyside y consejeros que vinieron del próspero pueblo de Sunnyvale. Cuando los horrores del pasado de ambos pueblos cogen fuerza, estos dos grupos deberán unirse para resolver un misterio terrorífico.",
         "anio": "2021",
-        "genero": "Misterio, Terror",
-        "duracion": "115 min"
+        "genero": "Terror, Misterio",
+        "duracion": "111 min"
       }
     ]
   },
@@ -16224,7 +16224,7 @@
         "name": "Regresando a casa",
         "url": "http://144.217.70.79/VODS-M/1080P/Forsaken%202015.mkv",
         "icono": "https://image.tmdb.org/t/p/original/rY8TsSvVAf9llRKIo55NlrjqR5g.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kdlpIREjg2hUCfp91drGJREFIeX.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/eiHNVxEXJIY7nBlcL9zXmtP7qtz.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/f3wkavSUeqZWgmIGQ6l639GAWvd.png",
         "type": "PELICULA",
         "descripcion": "Atormentado por un oscuro secreto, un pistolero abandona su vida de asesinatos y regresa a casa, cuando se entera que su madre murió. Él se ve obligado a confrontar a su padre distante y la vida que dejó atrás. Pero una pandilla local está aterrorizando la ciudad y John Henry es el único que puede detenerlos... La primera película de Jon Cassar se adhiere escrupulosamente a todas las reglas del género, lo que significa que la historia es totalmente predecible en lo dramático, pero también ofrece algunos de los placeres formales más elementales.",
@@ -21346,7 +21346,7 @@
         "type": "PELICULA",
         "descripcion": "Evan McCauley tiene habilidades que nunca aprendió y recuerdos de lugares que nunca ha visitado. Automedicado y al borde de un colapso mental, un grupo secreto que se hace llamar \"Infinitos\" acuden a su rescate, revelando que sus recuerdos son reales.",
         "anio": "2021",
-        "genero": "Ciencia ficción, Acción, Aventura, Suspense",
+        "genero": "Ciencia ficción, Acción, Aventura",
         "duracion": "106 min"
       }
     ]
@@ -21902,7 +21902,7 @@
         "name": "Está Detrás De Ti",
         "url": "http://144.217.70.79/VODS-M/1080P/It%20Follows%202014.mkv",
         "icono": "https://image.tmdb.org/t/p/original/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/keEWjA5ykLJo851tIBFdmkxPxxh.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/vPt6Im5u7vy2Vx0BiWctPae76rJ.png",
         "type": "PELICULA",
         "descripcion": "Jay, una joven de 18 años, tiene una experiencia sexual con su novio en la parte trasera del auto, tras la cual su novio la ata a una silla y le explica que le ha transmitido una maldición que se propaga mediante el sexo. Así, un espíritu que adopta multitud de formas comienza a acosarla, persiguiéndola de forma lenta pero imparable para despedazarla. Sus amigos intentan ayudarla, pero según su ahora exnovio, solo pasándole la maldición a otro se librará de la muerte.",
@@ -25880,7 +25880,7 @@
         "name": "Maléfica 2: La Dueña del Mal",
         "url": "http://144.217.70.79/VODS-M/1080P/Maleficent%20Mistress%20of%20Evil%202019.mkv",
         "icono": "https://image.tmdb.org/t/p/original/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/q9mF0HhnKT5deOIRAQSFjhLC8c1.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/GILlF4CuET8Ofjm7ouswnlY7qb.png",
         "type": "PELICULA",
         "descripcion": "Varios años después de los acontecimientos narrados en la primera película, en la que se dieron a conocer los hechos que endurecieron el corazón de la villana más emblemática de Disney y la llevaron a arrojar una maldición sobre la princesa recién nacida: Aurora. La película continúa explorando la compleja relación entre el hada de enormes cuernos y la futura reina, mientras forjan nuevas alianzas y se enfrentan a nuevos adversarios en su lucha por proteger el páramo y las criaturas mágicas que lo habitan.",

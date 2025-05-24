@@ -3760,6 +3760,23 @@
         "name": "",
         "samples": [
             {
+                "name": "Apocalypto",
+                "url": "http://144.217.70.79/VODS-M/1080P/Apocalypto%202016.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2016",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
                 "name": "Aporia",
                 "url": "http://144.217.70.79/VODS-M/1080P/Aporia%202023.mkv",
                 "icono": "",
@@ -7100,6 +7117,23 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2015",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "Bonhoeffer Pastor Spy Assassin",
+                "url": "http://144.217.70.79/VODS-M/1080P/Bonhoeffer%20Pastor%20Spy%20Assassin%202024.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
                 "genero": "",
                 "duracion": ""
             }
@@ -19731,6 +19765,23 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2013",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "Homeward Bound The Incredible Journey",
+                "url": "http://144.217.70.79/VODS-M/1080P/Homeward%20Bound%20The%20Incredible%20Journey%201993.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "1993",
                 "genero": "",
                 "duracion": ""
             }
@@ -52688,6 +52739,23 @@
             {
                 "name": "Warrior",
                 "url": "http://144.217.70.79/VODS-M/1080P/Warrior%202011.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2011",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "Water for Elephants",
+                "url": "http://144.217.70.79/VODS-M/1080P/Water%20for%20Elephants%202011.mkv",
                 "icono": "",
                 "iconoHorizontal": "",
                 "iconpng": "",

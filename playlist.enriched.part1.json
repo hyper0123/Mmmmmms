@@ -1213,7 +1213,7 @@
         "name": "Goofy, la película",
         "url": "http://144.217.70.79/VODS-M/1080P/A%20Goofy%20Movie%201995.mkv",
         "icono": "https://image.tmdb.org/t/p/original/dLJvlkB3S25vxosfEIHlewJXBxt.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/Sb2cLe2xW5OATkZZJBbGrB6qjl.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/aLMP6CYWyGadDXRFQILgmUgFW7d.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/ksv23z06uZDCvnp0F1LdGIBcdJv.png",
         "type": "PELICULA",
         "descripcion": "La primera vez que el simpático perro Goofy protagoniza un largometraje de animación. Goofy tiene la desafortunada idea de llevar a su hijo Max a pescar, pero éste, que teme convertirse de mayor en un ser tan tonto como su padre, tiene otros planes. Ha quedado con la bella Roxanne, que por fin ha accedido a salir con él. Pero Goofy no está dispuesto a permitir que su hijo ignore el arte de la pesca.",
@@ -3761,7 +3761,7 @@
     "samples": [
       {
         "name": "Apocalypto",
-        "url": "http://144.217.70.79/VODS-M/1080P/Apocalypto%202006.mkv",
+        "url": "http://144.217.70.79/VODS-M/1080P/Apocalypto%202016.mkv",
         "icono": "https://image.tmdb.org/t/p/original/cjyGCKyEZKhZF2YkqxyzrfoeKoL.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/l7XRMURNroPYajcqLlWxyzUlucW.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/7m2ZkIViPzc7U4WAKsB4XqyVFqn.png",
@@ -7123,6 +7123,23 @@
     ]
   },
   {
+    "name": "Historia",
+    "samples": [
+      {
+        "name": "Bonhoeffer: Pastor. Spy. Assassin",
+        "url": "http://144.217.70.79/VODS-M/1080P/Bonhoeffer%20Pastor%20Spy%20Assassin%202024.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/dV7w0eavvFLmMpLO26aOHyfIb7f.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/7e9tSzepYj8ZNbVF9P7KJ3BLlxD.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/59XoJMRvc5ZbaLCfLJ0mJ50620q.png",
+        "type": "PELICULA",
+        "descripcion": "Berlín durante el Tercer Reich, examina la determinación del pastor Bonhoeffer de vivir su vida con coraje político y espiritual intransigente convirtiéndose en espía, en su intento por salvar innumerables vidas judías.",
+        "anio": "2024",
+        "genero": "Historia, Drama, Bélica",
+        "duracion": "132 min"
+      }
+    ]
+  },
+  {
     "name": "Romance",
     "samples": [
       {
@@ -8235,7 +8252,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Captain%20America%20Civil%20War%202016.mkv",
         "icono": "https://image.tmdb.org/t/p/original/g6UTwUVFYWI8VPWo5GylnbZVhin.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/wkmCiWAzREDUp54XXBkrz65pJ76.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/bll7gvbdNShLsRfnQqQj81u55fi.png",
         "type": "PELICULA",
         "descripcion": "Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengadores, mientras intentan proteger al mundo de un nuevo y terrible villano. Tercera entrega de la saga Capitán América.",
         "anio": "2016",
@@ -8693,7 +8710,7 @@
         "name": "El sustituto",
         "url": "http://144.217.70.79/VODS-M/1080P/Changeling%202008.mkv",
         "icono": "https://image.tmdb.org/t/p/original/rqMNyKVQII7FWpW3QSe3H6sbhex.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/yWs9QUP2kamsnfdV4cloxLM5RUw.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/eBmIaAm1CkBuuyIUQYorhQKzTTg.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/cKSqjnoq9GnQomBfobDykDWwyWD.png",
         "type": "PELICULA",
         "descripcion": "Drama basado en hechos reales sobre una madre soltera que lucha contra la corrupción policial de Los Ángeles en la década de 1920 después de que su hijo desaparece misteriosamente, enfrentándose a un sistema que intenta silenciarla y desacreditarla.",
@@ -16172,7 +16189,7 @@
       {
         "name": "Olvídate De París",
         "url": "http://144.217.70.79/VODS-M/1080P/Forget%20Paris%201995.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/c2RwGHqWwvh7nmRKpdIyYUWMEvP.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/7upsYkwfhcj0NCZ6WhKk7vscCx3.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/9fxljwrE3gYiFaSNNXnubMa1fvb.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/wpIO4VrV5SD9yWSjKPSwLlP5TSR.png",
         "type": "PELICULA",
@@ -17510,19 +17527,19 @@
     ]
   },
   {
-    "name": "Suspense",
+    "name": "Drama",
     "samples": [
       {
-        "name": "La Carta",
+        "name": "Girl",
         "url": "http://144.217.70.79/VODS-M/1080P/Girl%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/gZNojMv3yGwiGRDw8yALBo7Ypr.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/17ju88cCKGVpE06dl5XPxOH3mom.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/oN8PEhDxinLmQX6m21mqjxjKAdu.png",
+        "icono": "https://image.tmdb.org/t/p/original/eRtBDVZVhnqih9dcnIj4g4xKZQ.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/iGCHoFp4VUwMoolO2C2u12AgiKl.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/nZIt74tXcKTFTITpwxVlKLMKYOX.svg",
         "type": "PELICULA",
-        "descripcion": "Una joven regresa a su pequeña ciudad natal para asesinar a su padre violento, pero alguien lo hizo el día anterior. Emprende una búsqueda para desentrañar el crimen y los secretos familiares, aunque un sheriff siniestro se interpone en su camino.",
-        "anio": "2020",
-        "genero": "Suspense",
-        "duracion": "90 min"
+        "descripcion": "",
+        "anio": "2018",
+        "genero": "Drama",
+        "duracion": "105 min"
       }
     ]
   },
@@ -19750,6 +19767,40 @@
         "anio": "2013",
         "genero": "Acción, Suspense",
         "duracion": "100 min"
+      }
+    ]
+  },
+  {
+    "name": "Aventura",
+    "samples": [
+      {
+        "name": "Volviendo a Casa 2: Perdidos en San Francisco",
+        "url": "http://144.217.70.79/VODS-M/1080P/Homeward%20Bound%202%20Lost%20in%20San%20Francisco%201996.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/ewbrfD0N6x8r86yAalFrWrRcDby.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/47ZwziAUEvfTgeunHFGa2r26Hzx.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/jKJ8FnrvgyRmuZzC9tvS5X09PMK.png",
+        "type": "PELICULA",
+        "descripcion": "Tres años después de su viaje por bosques y montañas, las tres mascotas de \"Bienvenido a Casa\" vuelven vivir una nueva aventura: la familia, que vive en San Francisco, ha decidido irse de vacaciones a Canadá. El problema es que las mascotas se escapan del aeropuerto y pierden el vuelo. Chance, el bulldog vitalista, Sassy, la gata mimosa, y el cariñoso Shadow se encuentran perdidos en la gran ciudad y, para llegar a su hogar, tendrán que superar grandes peligros.",
+        "anio": "1996",
+        "genero": "Aventura, Comedia, Drama, Familia",
+        "duracion": "89 min"
+      }
+    ]
+  },
+  {
+    "name": "Aventura",
+    "samples": [
+      {
+        "name": "Volviendo a Casa: Un Viaje Increíble",
+        "url": "http://144.217.70.79/VODS-M/1080P/Homeward%20Bound%20The%20Incredible%20Journey%201993.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/2zcHLbkPIuY0hOeZ9hYWvi2uYpx.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xDwDhLtQnA7jK4f7DVkdeSvZnAp.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/1XA77CWhraDzieXVEBARU1DnkaN.png",
+        "type": "PELICULA",
+        "descripcion": "Tres sorprendentes amigos, un perro perdiguero, un cachorro de Bulldog y una gata del Himalaya, se ven separados de la familia con la que viven. Habiéndose quedado al cuidado de una amiga de la familia, los tres compañeros, ahora desamparados, emprenden un increíble viaje de vuelta a casa a través de la naturaleza virgen. Los tres amigos han de reunir todo su valor y confiar plenamente en sus compañeros con el fin de sobrevivir a feroces animales y la dureza del entorno.",
+        "anio": "1993",
+        "genero": "Aventura, Comedia, Familia",
+        "duracion": "84 min"
       }
     ]
   },
@@ -24248,7 +24299,7 @@
         "name": "El vengador",
         "url": "http://144.217.70.79/VODS-M/1080P/Law%20Abiding%20Citizen%202009.mkv",
         "icono": "https://image.tmdb.org/t/p/original/iaY5L2gY60La8ImK7ll7QBXXk26.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ht9AsOpiaCAoW6zbwf2BAxG6jLV.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/nazre7z7MoUwAqimnrSlMlfLR5t.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/k2OlVEYgEgRyPZNbNSPNrkVJ18a.png",
         "type": "PELICULA",
         "descripcion": "Un hombre frustrado decide tomar la justicia por su cuenta después de que un acuerdo de culpabilidad libere a uno de los asesinos de su familia.",
@@ -24395,19 +24446,19 @@
     ]
   },
   {
-    "name": "Variado",
+    "name": "Drama",
     "samples": [
       {
-        "name": "Left Behind The Movie",
+        "name": "El Rapto 1",
         "url": "http://144.217.70.79/VODS-M/1080P/Left%20Behind%20The%20Movie%202000.mkv",
-        "icono": "",
-        "iconoHorizontal": "",
+        "icono": "https://image.tmdb.org/t/p/original/31GBwO5DF3SZ8BevHRg5FrQtN3O.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/brJB8cOD3BhCYHgxyChYdZglBz3.jpg",
         "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "Durante un vuelo intercontinental, docenas de pasajeros desaparecen sin dejar rastro. Este insólito fenómeno se extiende al resto del mundo, donde miles de seres humanos se esfuman inexplicablemente. Mientras el mundo se precipita en el caos, un líder político se alza promoviendo la paz y el entendimiento. Pero ¿son sus intenciones tan blancas como parecen?",
         "anio": "2000",
-        "genero": "",
-        "duracion": ""
+        "genero": "Drama, Fantasía, Ciencia ficción, Suspense",
+        "duracion": "100 min"
       }
     ]
   },
@@ -24877,7 +24928,7 @@
         "name": "Lilo y Stitch 2: Stitch en cortocircuito",
         "url": "http://144.217.70.79/VODS-M/1080P/Lilo%20and%20Stitch%202%20Stitch%20Has%20a%20Glitch%202005.mkv",
         "icono": "https://image.tmdb.org/t/p/original/l71VXcph19ZwJr2ZtEFuZA6ZzK5.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/z1frkXEzsbfLdf4s9GIQpVdACGS.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ro6IydbX6lTGS94rSmDJBZPwHj0.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/zBUjqpffr7DScjeNyyyC10dEhCJ.png",
         "type": "PELICULA",
         "descripcion": "Lilo quiere seguir los pasos de su madre y presentarse a un concurso de baile hawaiano. Por su parte, Stitch se porta cada vez mejor haciendo que su “nivel de bondad” sea cada vez más alto. La vida en Hawai parece ir a las mil maravillas… hasta que Stitch sufre un “fallo técnico” y todo empieza a desbaratarse. Lilo, Nani, David y Jumba van a necesitar todo el “Ohana” del mundo para salvar a su pequeño amigo.",
@@ -27298,40 +27349,6 @@
         "anio": "2000",
         "genero": "Ciencia ficción, Aventura, Suspense",
         "duracion": "114 min"
-      }
-    ]
-  },
-  {
-    "name": "Comedia",
-    "samples": [
-      {
-        "name": "El casete de los recuerdos",
-        "url": "http://144.217.70.79/VODS-M/1080P/Mixtape%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/9dh0rzwmE6IHMaWi11SBQz6SMQf.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kl5LXP7St8ct25BaBUehDGXT3gd.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/tC5vphFdRmTk2k1MVEFzhKElfJM.png",
-        "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2021",
-        "genero": "Comedia, Familia",
-        "duracion": "94 min"
-      }
-    ]
-  },
-  {
-    "name": "Animación",
-    "samples": [
-      {
-        "name": "Moana 2",
-        "url": "http://144.217.70.79/VODS-M/1080P/Moana%202%202024.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/b1WsCRfomw7tRi12NuseKsAJxYK.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/6y1b2fmGr4ZoIxMcQRBF0PQ6Sw.png",
-        "type": "PELICULA",
-        "descripcion": "Después de recibir una llamada inesperada de sus antepasados ​​navegantes, Moana viajará a los lejanos mares de Oceanía, donde vivirá una peligrosa aventura con su nueva tripulación.",
-        "anio": "2024",
-        "genero": "Animación, Aventura, Familia, Comedia",
-        "duracion": "100 min"
       }
     ]
   }

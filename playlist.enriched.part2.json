@@ -2519,16 +2519,16 @@
     "name": "Acción",
     "samples": [
       {
-        "name": "Soldado Virtual",
+        "name": "Misión De Rescate",
         "url": "http://144.217.70.79/VODS-M/1080P/One%20Shot%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/xHPVoVhWPRyNDsvm7M1EmnVUVyu.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/j4ya52FqogRzqNVGDhrp9k0iNNQ.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/jkIjNLRKQR0TYjDolVivMoGH9Vd.png",
+        "icono": "https://image.tmdb.org/t/p/original/wNSZ00CbDyQNj1Lp8FjZFLLJFv5.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/srJ7haOhfykoPOYPQrstOaFem08.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/gL0NrITosvUcittlCT0jyonQFqm.png",
         "type": "PELICULA",
-        "descripcion": "Un hábil luchador se adentra en el inmersivo mundo del combate de realidad virtual. Su destreza en las artes marciales es puesta a prueba definitiva cuando un grupo de terroristas irrumpe en la instalación donde se encuentra la tecnología de realidad virtual. Ahora él por sobrevivir por proteger al mundo de la devastación desatada por los terroristas tanto en el mundo virtual como en el real.",
-        "anio": "2022",
-        "genero": "Acción, Ciencia ficción",
-        "duracion": "82 min"
+        "descripcion": "Un escuadrón de élite de los SEAL de la Marina, en una misión encubierta para transportar a un prisionero fuera de una prisión isleña del sitio negro de la CIA, queda atrapado cuando los insurgentes atacan mientras intentan rescatar al mismo prisionero.",
+        "anio": "2021",
+        "genero": "Acción, Suspense",
+        "duracion": "97 min"
       }
     ]
   },
@@ -7429,19 +7429,19 @@
     ]
   },
   {
-    "name": "Acción",
+    "name": "Comedia",
     "samples": [
       {
-        "name": "Saturday Night's Main Event XXXVII",
+        "name": "Saturday Night: La noche que cambió la comedia",
         "url": "http://144.217.70.79/VODS-M/1080P/Saturday%20Night%202024.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/4wVEOOX8VEGWwEuuIWuN3XT1Avq.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/qJUi08RHf2TVKNvvkhc07MJJiJt.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/dKseEHqdluBHQprgYjxAccyGXcv.png",
+        "icono": "https://image.tmdb.org/t/p/original/86EtkVtsVgHUCxX6xDzXNNxJIeh.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9ewYb0LIBJNds8ZMoobKYUd647g.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/jtyc3yVWPJWHlebztwLfKTAsRvr.png",
         "type": "PELICULA",
-        "descripcion": "El campeón indiscutible de la WWE, Cody Rhodes, se enfrentará a Kevin Owens en el regreso de Saturday Night's Main Event a la NBC. Además, el World Tag Team Champion Finn Bálor se enfrentará a «The Ring General» Gunther por el título mundial de los pesos pesados. El Campeonato Mundial Femenino estará en juego cuando Liv Morgan defienda su título contra IYO SKY.",
+        "descripcion": "En esta película dramática cuenta lo que sucedió esa noche en NBC Studios con un grupo de jóvenes comediantes y escritores previos a la primera transmisión de SNL, el 11 de octubre de 1975. Cambiando la televisión para siempre. Basada de una historia real.",
         "anio": "2024",
-        "genero": "Acción",
-        "duracion": "82 min"
+        "genero": "Comedia, Drama",
+        "duracion": "109 min"
       }
     ]
   },
@@ -10478,7 +10478,7 @@
         "name": "Calles de fuego",
         "url": "http://144.217.70.79/VODS-M/1080P/Streets%20of%20Fire%201984.mkv",
         "icono": "https://image.tmdb.org/t/p/original/r6s0i5GpGIcJAgIeOAlC0d4cvJE.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/7rE6SyTySkcpnHSuBMkOOTivOxg.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5e8V714wUtpPgMD9xD8NjTEqlyu.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/WA6G6pXArzGkDK4bJ8YfR2NyIC.png",
         "type": "PELICULA",
         "descripcion": "Tom Cody, atractivo, soldado heroico y afortunado regresa a su antiguo vecindario para rescatar a su hermosa ex novia, la estrella de rock Ellen Aim, de las garras de una banda de malvados motociclistas que la han secuestrado. Junto con el productor de Ellen, Billy Fish, y los dos puños de su compañero bebedor de cerveza, McCoy, parte a un mundo de humo, neón, calles salpicadas de lluvia, coches contaminantes y enemigos mortales para traer a Ellen de regreso.",
@@ -12824,8 +12824,8 @@
         "name": "La Caja",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Box%202009.mkv",
         "icono": "https://image.tmdb.org/t/p/original/7wrytNNkMVNvnm8AHUudQd40oP.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/80BDstXdxBf8k8MwZm4rgtoZuLN.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/9pQr3w2BToYzRrK8U1jgiKZSexI.png",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/u4j5kiHaKNE8VQgbBJBdj2WaqAQ.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/3rG20qzEbtJcqGWsgbpAx81mi64.png",
         "type": "PELICULA",
         "descripcion": "Norma es profesora en un instituto privado y su marido, Arthur es ingeniero de la NASA. Son, en todos los aspectos, una pareja normal que lleva una vida normal en las afueras de la ciudad con su hijo joven… hasta que un hombre misterioso aparece en su puerta y presenta a Norma su propuesta de vida alternativa: la caja.",
         "anio": "2009",
@@ -12875,8 +12875,8 @@
         "name": "El Niño con el Pijama de Rayas",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Boy%20in%20the%20Striped%20Pajamas%202008.mkv",
         "icono": "https://image.tmdb.org/t/p/original/dZeiD0WVM1IHzRAOSldsY0jh1CR.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sIZQA3FrXdVR5E6M3ctrAqitiQS.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/y6cp9DZDW06PkAhaXqcz9mMr8bz.png",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/6aRuABAdhuuDypLGscM7HoEWHx4.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/tRh7gwNwcwNxaRTzqiVr5b3GeB2.png",
         "type": "PELICULA",
         "descripcion": "A través de los ojos inocentes de Bruno, el hijo de ocho años del comandante de un campo de concentración alemán, una amistad prohibida con un niño judío al otro lado de la valla del campo tiene consecuencias sorprendentes e inesperadas.",
         "anio": "2008",
@@ -15476,7 +15476,7 @@
         "name": "El despertar del diablo",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Hills%20Have%20Eyes%202006.mkv",
         "icono": "https://image.tmdb.org/t/p/original/qiPSDMZZrgG4axJYzI9l74DtEbB.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/v99AKjn6P1QmgqibLkbtfWeXUrq.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/vrFI0I3M8ROZduj9XbFDoQKZyao.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/jB0ufg4Gft6iQY8dVClWVZmZXFo.png",
         "type": "PELICULA",
         "descripcion": "La película gira en torno a los Carter, una familia de clase media cuyas vacaciones, acompañando a sus padres en sus bodas de plata, quedan truncadas cuando su caravana sufre un extraño accidente en el desierto de Nuevo México. Aislados del mundo, pronto se darán cuenta de que no están solos: en las colinas habita una estirpe de sanguinarios mutantes fruto de las continuas pruebas nucleares del ejército,como son Gruñidos y Slott y que no dudarán en aniquilar a los Carter de las formas más espeluznantes.",
@@ -21732,8 +21732,8 @@
         "name": "El hombre lobo",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Wolfman%202010.mkv",
         "icono": "https://image.tmdb.org/t/p/original/uknmBWJ624nXUDTDn5hTJjV0kcv.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJKcFHxZp0oFJwQ1wHqjyqNpqXY.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/myOTmIza3N7Ybyl0bOQyd0MoiYj.png",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kTDunJrHYsH6o1wmD6iT4wXkuHo.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/vyPE2YHCMgA7eWa4MxE0Vy7kvrl.png",
         "type": "PELICULA",
         "descripcion": "Lawrence Talbot regresa a su hogar ancestral en Inglaterra después de la misteriosa muerte de su hermano. Pronto descubre oscuros secretos familiares y se encuentra atrapado en una maldición de licantropía.",
         "anio": "2010",
@@ -24078,7 +24078,7 @@
         "name": "Temple de Acero",
         "url": "http://144.217.70.79/VODS-M/1080P/True%20Grit%202010.mkv",
         "icono": "https://image.tmdb.org/t/p/original/3O16Iq2v8FbTI6B2H91CsrKi4q1.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/6ttg6M0gJcmeEA27YvQl7d29ssD.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5dwlH8Krm2bsuc2Pubw2cBb03g5.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/cSuegYH1wOfvLkurN3Kh4Q3kkW3.png",
         "type": "PELICULA",
         "descripcion": "Después del asesinato de su padre, Mattie Ross, una chica de catorce años firmemente decidida a hacer justicia, contrata los servicios del veterano agente del Gobierno Rooster Cogburn, borracho y excelente pistolero. Así ambos se ponen en camino y entran en territorio indio para dar caza a Tom Chaney en compañía de LaBoeuf, un ránger de Texas que busca al fugitivo por el asesinato de un senador… Nueva adaptación de una novela de Charles Portis, que ya había llevado al cine Henry Hathaway (True Grit, 1969) con John Wayne como protagonista.",

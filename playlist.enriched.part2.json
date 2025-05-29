@@ -924,7 +924,7 @@
         "name": "My Little Pony: Nueva generación",
         "url": "http://144.217.70.79/VODS-M/1080P/My%20Little%20Pony%20A%20New%20Generation%202021.mkv",
         "icono": "https://image.tmdb.org/t/p/original/yJfefyZ6GrgvHU16BqloIHARiXj.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ewkYX7RWQMV6W1zfR0Ans0FissS.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sw9Fa0IWFNv95heaS81mJmojV7Z.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/7RLVxerDgnYkei1glMclwzSlRGl.png",
         "type": "PELICULA",
         "descripcion": "Continúan las aventuras en la tierra mágica de Equestria, habitada por ponis mágicos. Allí, volveremos a vivir nuevos y emocionantes desafíos junto a la Princesa Twilight Sparkle y a sus compañeras ponis Pinkie Pie, Rainbow Dash, Rarity, Applejack y Fluttershy.",
@@ -4556,19 +4556,19 @@
     ]
   },
   {
-    "name": "Animación",
+    "name": "Aventura",
     "samples": [
       {
         "name": "Pocahontas",
         "url": "http://144.217.70.79/VODS-M/1080P/Pocahontas%201995.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/wpwFGXyvNAWrM6LCHUb2VUgkopw.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uoRriEVC0iH19vnOLTXf75dkZDZ.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/cW4D4KPUwEhijFEOrB0DcXMcWEl.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "La historia viene gloriosamente a la vida en la historia épica de Disney sobre el amor y la aventura en el Nuevo Mundo. Pocahontas es una mujer nativa americana cuyo padre ha arreglado para que ella se case con el mejor guerrero de su pueblo. Pero una visión le dice que el cambio está llegando, y pronto ella se encuentra cara a cara con ella en la forma del Capitán John Smith.",
         "anio": "1995",
-        "genero": "Animación",
-        "duracion": "50 min"
+        "genero": "Aventura, Animación, Familia, Romance",
+        "duracion": "81 min"
       }
     ]
   },
@@ -7553,7 +7553,7 @@
       {
         "name": "El juego del miedo 3",
         "url": "http://144.217.70.79/VODS-M/1080P/Saw%203%202006.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/4iO9n24Rb10peXV0JH2EldIOrAp.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/zkB6eWTQhiyDHGFR2icFeXLaOcP.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/qx8Pb3nVnHLBizI9792pbRN5nnm.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/j9rYkUvd5Vq5NqaWaqxGicIlps8.png",
         "type": "PELICULA",
@@ -8743,7 +8743,7 @@
       {
         "name": "Señales",
         "url": "http://144.217.70.79/VODS-M/1080P/Signs%202002.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/aFGitUgdg0A6LJYtv1nISTf8W8j.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/r4q93grfe8xO28bY6MFMOZdffoo.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/rsPjEr7o02mo8ex6wD2PbRwasUe.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/42OmvlKhLmt6sliKbxJLmJfyWNL.png",
         "type": "PELICULA",
@@ -9117,7 +9117,7 @@
       {
         "name": "Snatch: Cerdos y diamantes",
         "url": "http://144.217.70.79/VODS-M/1080P/Snatch%202000.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/mDm7VW6RwqB7o5yxtzikCaEhgp7.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/ziWecvSRGjqeNKPx3kMqlYwssDo.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/7NhHRiPG3t2JWI1NQwimmiBkC8y.png",
         "type": "PELICULA",
@@ -11565,7 +11565,7 @@
       {
         "name": "Terrifier",
         "url": "http://144.217.70.79/VODS-M/1080P/Terrifier%202016.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/4lwh4MX2yCogHflyAYMRbfdnpnm.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/z1mv8jZa7wzyGGWy10iMUyGyHVX.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/8jhC6AOSa6cj9brcQFHpk1hagk7.png",
         "type": "PELICULA",
@@ -16223,14 +16223,14 @@
       {
         "name": "Karate Kid",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Karate%20Kid%202010.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/qupC1Jxss4YH5Y2ZeIB4XXokGcd.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5iMAyVYs4rnQKQ9HDdmuqlb0VtS.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/5xvdB55ZiJ3XUIaNDqvn4NkASxl.png",
+        "icono": "https://image.tmdb.org/t/p/original/tHoASPhXRGJM6XFvDooJHIFcP3r.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fZFSvqWsN8bQiwVmJmcgeoL9awe.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/aIZLLk29r4HtBbjpSqyCYumqps.png",
         "type": "PELICULA",
-        "descripcion": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos.",
-        "anio": "1984",
+        "descripcion": "Dre Parker podría haber sido el más popular en Detroit, pero la carrera profesional de su madre los lleva a ambos a China. Allí logra hacer conexión con su compañera de clase Mei Ying y el sentimiento es mutuo, hasta que las diferencias culturales hacen que su amistad sea imposible. Para que la situación empeore, Dre se consigue un enemigo, el peleonero de la clase, Cheng. Dre no tiene amigos a quién acudir, excepto el encargado de mantenimiento, el Sr. Han.",
+        "anio": "2010",
         "genero": "Acción, Aventura, Drama, Familia",
-        "duracion": "126 min"
+        "duracion": "140 min"
       }
     ]
   },
@@ -18842,7 +18842,7 @@
         "name": "Juego de gemelas",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Parent%20Trap%201998.mkv",
         "icono": "https://image.tmdb.org/t/p/original/3JyIUavN6byTNKjWXupCCvRljRF.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sC2zQDmOk9f0kne4Xb29dJq1T15.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/y3zUOMWRoI2vC4ck2GBJyFWhzyA.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/ao2I6lVLZekqodteb82QLFYvqYh.png",
         "type": "PELICULA",
         "descripcion": "Las gemelas idénticas Annie y Hallie, separadas al nacer y cada una criada por uno de sus padres biológicos, se descubren más tarde por primera vez en un campamento de verano y hacen un plan para volver a reunir a sus padres descarriados.",
@@ -19202,7 +19202,7 @@
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/hUxeC69XhuOL8IGQ1Y2C2yJjeJR.png",
         "type": "PELICULA",
-        "descripcion": "Tiana, una muchacha de origen humilde que vive en Nueva Orleans, trabaja como camarera y cocinera para conseguir realizar el sueño que compartio con su padre, conseguir abrir su propio restaurante.Pero todo cambia cuando el Príncipe Naveen, heredero de la corona de Maldonia, llega a la ciudad. En su camino se cruza el Doctor Facilier, un brujo vudú que engaña al príncipe y lo convierte en una rana. Atrapado en su nueva forma, Naveen intentará romper el encantamiento utilizando la forma clásica de los cuentos, es decir, con el beso de una princesa. Convence a Tiana para que le bese pero, las cosas no son tan sencillas.",
+        "descripcion": "Tiana, una muchacha de origen humilde que vive en Nueva Orleans, trabaja como camarera y cocinera para conseguir realizar el sueño que compartió con su padre, conseguir abrir su propio restaurante. Pero todo cambia cuando el Príncipe Naveen, heredero de la corona de Maldonia, llega a la ciudad. En su camino se cruza el Doctor Facilier, un brujo vudú que engaña al príncipe y lo convierte en un sapo. Atrapado en su nueva forma, Naveen intentará romper el encantamiento utilizando la forma clásica de los cuentos, es decir, con el beso de una princesa. Convence a Tiana para que le bese pero, las cosas no son tan sencillas.",
         "anio": "2009",
         "genero": "Animación, Romance, Fantasía, Familia",
         "duracion": "97 min"
@@ -25489,7 +25489,7 @@
         "name": "El Mundo Según Wayne 2",
         "url": "http://144.217.70.79/VODS-M/1080P/Waynes%20World%202%201993.mkv",
         "icono": "https://image.tmdb.org/t/p/original/72TBNPN06oo1myHqihwcCQVDl48.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lehbmczbRb97gpufaAy6NFRSaUP.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/A1BnMiyoYs5eYgckves8CMUT65l.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/1kqWe0awZPS1l1Wem5i2gozwp4P.png",
         "type": "PELICULA",
         "descripcion": "Tras el gran éxito de taquilla conseguido con su primera película como protagonista, Mike Myers sigue exhibiendo su peculiar sentido del humor en esta segunda entrega que ofrece más de lo mismo.",
@@ -25506,7 +25506,7 @@
         "name": "El mundo según Wayne",
         "url": "http://144.217.70.79/VODS-M/1080P/Waynes%20World%201992.mkv",
         "icono": "https://image.tmdb.org/t/p/original/nQ75ReOwRAB8SNeMW0jFjyBcTNC.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lVsZ4KJtVOuSXTt48MdBmEE8emL.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lAvf5zzyOgTZmpRBRJFa7IVVqCK.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/ucgiE8DJXEGSsXz1ykptzQHHxU9.png",
         "type": "PELICULA",
         "descripcion": "Cuando un sórdido ejecutivo de televisión les ofrece a Wayne y Garth un gran contrato para grabar su programa de acceso público nocturno en su red, no pueden creer su buena fortuna. Pero pronto descubren que el camino desde el sótano hasta el gran momento es retorcido, lleno de peligros, tentaciones y oportunidades de fiesta.",

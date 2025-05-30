@@ -17343,11 +17343,11 @@
     "name": "Terror",
     "samples": [
       {
-        "name": "El Barco Fantasma",
+        "name": "Barco fantasma",
         "url": "http://144.217.70.79/VODS-M/1080P/Ghost%20Ship%202002.mkv",
         "icono": "https://image.tmdb.org/t/p/original/HBpFXvylps4DsLaQKidTAFp8n.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5E3pbLLhnYgiSMrT5xKUOCqJvg5.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/uXOyvRppt3r69PyUaJXcOqGLKOe.png",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/byYyzopycPpzU3WPavhZWwEQSh4.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/f8kEl6X3NGigAVUxJ3v3bdARTuJ.png",
         "type": "PELICULA",
         "descripcion": "Una tripulación de salvamento descubre un buque de pasajeros de 1962 que llevaba mucho tiempo perdido y que flotaba sin vida en una región remota del Mar de Bering, y pronto se da cuenta de que sus habitantes, muertos desde hace mucho tiempo, pueden seguir a bordo.",
         "anio": "2002",
@@ -17598,16 +17598,16 @@
     "name": "Acción",
     "samples": [
       {
-        "name": "Gladiator: El desafío comienza",
+        "name": "Gladiador",
         "url": "http://144.217.70.79/VODS-M/1080P/Gladiator%202000.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/w0YjBWVfu689txEXZG3xa4Aev3i.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/CHTWwOdfHiFWJEBKShPRsqRYIP.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/kZPIUl7PF0aCxJ1y44zTV40UN1P.png",
+        "icono": "https://image.tmdb.org/t/p/original/e7HyYnRLh96X5aXqfl6NeXskLJt.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/cesHtsrDcrjFhSsGKrckKhTLTyp.png",
         "type": "PELICULA",
-        "descripcion": "Un chico de clase media se traslada a la dura zona sur de Chicago, donde se meterá como luchador en el mundo ilegal de las peleas de boxeo no autorizadas.",
-        "anio": "1992",
-        "genero": "Acción, Drama",
-        "duracion": "101 min"
+        "descripcion": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+        "anio": "2000",
+        "genero": "Acción, Drama, Aventura",
+        "duracion": "155 min"
       }
     ]
   },
@@ -21630,7 +21630,7 @@
         "name": "Interestelar",
         "url": "http://144.217.70.79/VODS-M/1080P/Interstellar%202014.mkv",
         "icono": "https://image.tmdb.org/t/p/original/fbUwSqYIP0isCiJXey3staY3DNn.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/l33oR0mnvf20avWyIMxW02EtQxn.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/s83LgVMe3PbieFaHBp9XcRGrtj7.png",
         "type": "PELICULA",
         "descripcion": "Narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
@@ -22684,7 +22684,7 @@
         "name": "John Wick: Otro Día para Matar",
         "url": "http://144.217.70.79/VODS-M/1080P/John%20Wick%202014.mkv",
         "icono": "https://image.tmdb.org/t/p/original/tDl5ac1VJwMRvlgINDCsDCqg9CE.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/eD7FnB7LLrBV5ewjdGLYTAoV9Mv.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/77YSn1XL3KFDcmIQGWE0Y0Tj7jB.png",
         "type": "PELICULA",
         "descripcion": "La ciudad de Nueva York se convierte en el patio acribillado a balazos de un ex-asesino mientras él elimina a los gánsteres que destruyeron todo lo que él quería.",
@@ -25058,7 +25058,7 @@
     ]
   },
   {
-    "name": "Comedia",
+    "name": "Terror",
     "samples": [
       {
         "name": "Lisa Frankenstein",
@@ -25069,7 +25069,7 @@
         "type": "PELICULA",
         "descripcion": "En 1989, una impopular chica de secundaria llamada Lisa reanima accidentalmente un apuesto cadáver victoriano durante una tormenta eléctrica y comienza a reconstruirlo para convertirlo en el hombre de sus sueños usando la cama de rayos uva estropeada que tiene en su garaje.",
         "anio": "2024",
-        "genero": "Comedia, Terror, Romance",
+        "genero": "Terror, Comedia, Romance",
         "duracion": "101 min"
       }
     ]

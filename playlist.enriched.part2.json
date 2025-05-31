@@ -5836,7 +5836,7 @@
       {
         "name": "Ratatouille",
         "url": "http://144.217.70.79/VODS-M/1080P/Ratatouille%202007.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/wDAax9PZrU0dphi2UhAGaQu0gc8.png",
         "type": "PELICULA",
@@ -22151,19 +22151,19 @@
     ]
   },
   {
-    "name": "Aventura",
+    "name": "Ciencia ficción",
     "samples": [
       {
-        "name": "Naruto la Película: ¡La Gran Excitación! Pánico Animal en la Isla de la Luna",
+        "name": "Guardianes de la Galaxia 2",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20guardians%202017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/tNunlumSc4uHMOSGYogmM9ghxOz.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/j2oX7UeZJJD6tUczrVECcJCdLaG.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/92CK7r1sarCmW3GB0A8RRSkY1Gp.png",
+        "icono": "https://image.tmdb.org/t/p/original/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/nGgvEFdaHeSSyXtl3e5PLsbi82L.png",
         "type": "PELICULA",
-        "descripcion": "La historia o trama de la película cuenta el viaje de un príncipe del País de la Luna, situado en la isla de la luna creciente, en un mar meridional, que tiene que volver de nuevo a su casa. Este será escoltado por Naruto, Kakashi, Sakura y Rock Lee. El Príncipe acaba de comprar un circo (entero) para llevárselo a la isla, y es por eso que el grupo de Kakashi tendrá que hacer todo lo posible para que el príncipe y su gran compra llegue sin problemas a la isla. Pero como no, un grupo de tres ninjas de lo más misteriosos los pondrán en apuros.",
-        "anio": "2006",
-        "genero": "Aventura, Animación, Acción",
-        "duracion": "95 min"
+        "descripcion": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el Universo Cinematográfico de Marvel continúa expandiéndose.",
+        "anio": "2017",
+        "genero": "Ciencia ficción, Aventura, Acción",
+        "duracion": "136 min"
       }
     ]
   },
@@ -23212,7 +23212,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Titanic%201997.mkv",
         "icono": "https://image.tmdb.org/t/p/original/VMOt5scbGmBKDvkfHjZN6Ki54i.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/sCzcYW9h55WcesOqA12cgEr9Exw.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/fzizko12LUWVeGeEKyCUMcErGhy.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/rLzHguwcdni9Jam8rMtMlg5XG2D.png",
         "type": "PELICULA",
         "descripcion": "El romance florece entre Jack Dawson y Rose DeWitt Bukater en el esplendoroso transatlántico RMS Titanic. Su amor, como el barco, desafía las olas del destino. Pero cuando el Titanic choca con el iceberg, su historia se convierte en una épica de sacrificio y supervivencia, en la que el amor perdurará más allá de las profundidades del mar.",
         "anio": "1997",

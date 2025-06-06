@@ -3439,9 +3439,9 @@
       {
         "name": "La habitación del pánico",
         "url": "http://144.217.70.79/VODS-M/1080P/Panic%20Room%202002.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/tKgHmaBJ6aUgG6JUFgURdhwlqTs.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/a4RVuYE53xDV8zlppZMVP2Z27gp.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/9G5bteYI8FXaY9EomnUP0kdHm66.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/3jdPPRdf3xfcKMfLnfRrEO6c1KS.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/95DbhfBkuoP2DN6lhKRDRlf19qy.png",
         "type": "PELICULA",
         "descripcion": "La recién separada Meg Altman y su hija Sarah se mudan a una lujosa mansión en Nueva York. Pero cuando tres intrusos invaden brutalmente su hogar, las dos se encierran en una \"habitación del pánico\", una estructura oculta, construida como refugio, con cuatro muros de hormigón, línea de teléfono independiente, un conjunto de monitores que controlan todos los rincones de la casa y una impenetrable puerta de acero...",
         "anio": "2002",
@@ -9118,7 +9118,7 @@
         "name": "Snatch: Cerdos y diamantes",
         "url": "http://144.217.70.79/VODS-M/1080P/Snatch%202000.mkv",
         "icono": "https://image.tmdb.org/t/p/original/ziWecvSRGjqeNKPx3kMqlYwssDo.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jFKM4cMVeoXKy8Vez3RcV60WgNJ.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/7NhHRiPG3t2JWI1NQwimmiBkC8y.png",
         "type": "PELICULA",
         "descripcion": "Franky es un ladrón de diamantes que tiene que entregar un valioso ejemplar a su jefe Avi, pero, antes de hacerlo, se deja convencer por un tal Boris para apostar en un combate ilegal de boxeo. En realidad, se trata de una trampa para arrebatarle el diamante. Cuando Avi se entera, contrata a Tony para encontrar a Franky y al diamante. Descubierto el triste destino de Franky, la recuperación de la gema desaparecida provoca una situación caótica, donde el engaño, el chantaje y el fraude se mezclan de forma sangrienta con perros, diamantes, boxeadores y gran variedad de armas.",
@@ -10953,7 +10953,7 @@
       {
         "name": "Swordfish: Acceso Autorizado",
         "url": "http://144.217.70.79/VODS-M/1080P/Swordfish%202001.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/k9uVoRnOHE8Gtj5yQIQHPDnK7S1.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/4m5vfDOCELjqA12KbuxS9ucDEnO.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/eSxvC0Qw0A9AfI355MF9dSItrfR.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/oYd2xAPokCbDHT8a1psfvCoRfdA.png",
         "type": "PELICULA",
@@ -19132,7 +19132,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Prestige%202006.mkv",
         "icono": "https://image.tmdb.org/t/p/original/6NHAZLR4AJhBAVU4qFzkucfyhVl.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/spOKEWc2HsfVJWCicr5CXCCVRil.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/4OGvQBnUmh3pEtccV3gVRmORGcg.png",
         "type": "PELICULA",
         "descripcion": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
         "anio": "2006",
@@ -24582,7 +24582,7 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Acción",
     "samples": [
       {
         "name": "Invicto: Contraataque",
@@ -24593,7 +24593,7 @@
         "type": "PELICULA",
         "descripcion": "El campeón mundial de boxeo en la categoría de pesos pesados George “Iceman” Chambers (Ving Rhames) es enviado a prisión acusado de violación, cargo del que él se declara totalmente inocente. Lo que más le indigna es que en la cima de su carrera de boxeador profesional no va a poder disfrutar y defender su título de campeón invicto. Cumpliendo cadena perpetua por un crimen pasional en la misma penitenciaría a la que será enviado Iceman se encuentra Monroe Hutchen (Wesley Snipes). Los reclusos consideran a Hutchen como a un héroe, como a su indiscutible campeón de boxeo. Resignado a pasar el resto de su vida en la cárcel, a Hutchen todavía le obsesiona, sin embargo, la duda de si hubiera podido llegar a ser alguien como boxeador.",
         "anio": "2002",
-        "genero": "Drama, Crimen, Acción",
+        "genero": "Acción, Drama, Crimen",
         "duracion": "96 min"
       }
     ]

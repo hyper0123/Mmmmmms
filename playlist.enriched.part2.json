@@ -4850,7 +4850,7 @@
       {
         "name": "Historia Policiaca",
         "url": "http://144.217.70.79/VODS-M/1080P/Police%20Story%201985.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/cowPjNTci3mXasaXp0j9o54VqAW.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/h2wxvGUK0ops0R3A7AA1QSXGOqV.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/4ftfcvCOoxK9IpWXs1MhT0iwBha.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/mVh7zLoPNbR8Gi1o5AiICeY4U1B.png",
         "type": "PELICULA",
@@ -10883,7 +10883,7 @@
     "name": "Terror",
     "samples": [
       {
-        "name": "Sweetheart",
+        "name": "Sweetheart.",
         "url": "http://144.217.70.79/VODS-M/1080P/Sweetheart%202019.mkv",
         "icono": "https://image.tmdb.org/t/p/original/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/de51GG0AQZj8dUm00aQUi4wisBr.jpg",
@@ -23233,7 +23233,7 @@
         "type": "PELICULA",
         "descripcion": "",
         "anio": "2025",
-        "genero": "Documental",
+        "genero": "Documental, Película de TV",
         "duracion": "69 min"
       }
     ]

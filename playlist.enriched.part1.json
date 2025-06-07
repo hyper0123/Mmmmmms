@@ -2760,7 +2760,7 @@
         "name": "Amadeus",
         "url": "http://144.217.70.79/VODS-M/1080P/Amadeus%201984.mkv",
         "icono": "https://image.tmdb.org/t/p/original/nI24KqCadkHbjF4LpVHmUhQRNDn.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/pD5Z6YglDNcRhcrCJKDhJlbGzni.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/4XwiwzyzX9msbC1wg5NN0PbqQXu.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/iC5CZY9iWSmQCwD8HlZ1g51x5hy.png",
         "type": "PELICULA",
         "descripcion": "La pelicula Amadeus nos presenta a Antonio Salieri, el músico más destacado de la corte del Emperador José II de Austria. Entregado completamente a la música, le promete a Dios humildad y castidad si, a cambio, conserva sus extraordinarias dotes musicales. Pero, después de la llegada a la corte de un joven llamado Wolfang Amadeus Mozart, Salieri queda relegado a un segundo plano. Enfurecido por la pérdida de protagonismo, hará todo lo posible para arruinar la carrera del músico de Salzburgo. Mientras tanto, Mozart, ajeno a las maquinaciones de Salieri, sorprende a todos con su genialidad como músico, pero también con sus excentricidades.",
@@ -9050,7 +9050,7 @@
         "name": "Chucky: el muñeco diabólico 2",
         "url": "http://144.217.70.79/VODS-M/1080P/Childs%20Play%202%201990.mkv",
         "icono": "https://image.tmdb.org/t/p/original/rUdnnVcmo1AOcfanEbU4b2f2QFP.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/8adXI1flnqjmYZGq9bIXulQrDLP.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/h8n7enoDRJq9n8tE8xcdr6W72Pe.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/46aUS7MgMeeuut4p2Z99NsUrQHN.png",
         "type": "PELICULA",
         "descripcion": "Mientras la madre de Andy es ingresada en un hospital psiquiátrico, el joven es colocado en una casa de acogida, y Chucky, decidido a reclamar el alma de Andy, no se queda atrás.",
@@ -16292,7 +16292,7 @@
         "name": "La fortaleza",
         "url": "http://144.217.70.79/VODS-M/1080P/Fortress%201992.mkv",
         "icono": "https://image.tmdb.org/t/p/original/5BONvBhI6xCsTwauHIDTT12wPgr.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/dKnv9pdio5DCv7tlCYbF9exNuXK.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5C5oQtJ50Vg2qoVTp9XjNPyqZlq.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/6mPeP7Rl0PV1TG7PNTO38YCGCR5.png",
         "type": "PELICULA",
         "descripcion": "En el año 2017, una corporación ha ideado la construcción de una fortaleza de alta tecnología que intenta conseguir la prisión más implacable: la prisión mental. Pero el experimento se enfrenta a un poderoso y \"poco convincente\" recluso: un hombre inocente...",
@@ -22111,7 +22111,7 @@
         "type": "PELICULA",
         "descripcion": "Jack Reacher debe descubrir la verdad detrás de una importante conspiración del gobierno para limpiar su nombre. Huyendo como un fugitivo de la ley, Reacher descubre un secreto potencial de su pasado que podría cambiar su vida para siempre.",
         "anio": "2016",
-        "genero": "Acción, Suspense",
+        "genero": "Acción, Drama, Suspense, Crimen",
         "duracion": "118 min"
       }
     ]
@@ -22400,7 +22400,7 @@
         "type": "PELICULA",
         "descripcion": "Hoy es el 22º día en el ritual alimenticio de la abominable criatura conocida como The Creeper, la cual se alimenta de los órganos arrancados vivos de sus víctimas. A este monstruo caníbal procedente de tiempos remotos le queda todavía un día más para hartarse de carne humana y desaparecer de nuevo, y aguardar en hibernación hasta su próxima temporada de caza dentro de 23 años. Taggart y sus hijos se hallan trabajando en los maizales de su propiedad cuando la bestia de enormes alas agarra al benjamín de la familia, transportándolo por los aires hacia un destino que se adivina horripilante.",
         "anio": "2003",
-        "genero": "Terror, Suspense",
+        "genero": "Terror",
         "duracion": "104 min"
       }
     ]
@@ -22417,7 +22417,7 @@
         "type": "PELICULA",
         "descripcion": "La historia transcurre entre la primera y segunda entrega y en ella el escéptico Sargento Tubbs unirá sus fuerzas con un grupo de armado que quiere destruir a The Creeper de una vez por todas. A medida que se produce un sangriento enfrentamiento entre ellos, podrán descubrir los orígenes de la criatura.",
         "anio": "2017",
-        "genero": "Terror, Misterio, Suspense",
+        "genero": "Terror",
         "duracion": "101 min"
       }
     ]
@@ -22434,7 +22434,7 @@
         "type": "PELICULA",
         "descripcion": "Trish Jenner y su hermano menor Derry cruzan los Estados Unidos en coche, en un viaje largo y aburrido cuya monotonía sólo se rompe por sus continuas discusiones. De pronto, en mitad de ninguna parte, descubren una iglesia abandonada cuyo tejado está cubierto por una espesa bandada de cuervos y ven como un misterioso personaje arroja un bulto al interior de una gran boca del alcantarillado. A partir de ese momento comienzan una huída aterradora, perseguidos por una de las criaturas más letales que se pueda imaginar.",
         "anio": "2001",
-        "genero": "Terror, Suspense, Misterio, Drama",
+        "genero": "Terror",
         "duracion": "91 min"
       }
     ]
@@ -26304,7 +26304,7 @@
       {
         "name": "Max Payne",
         "url": "http://144.217.70.79/VODS-M/1080P/Max%20Payne%202008.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/cgDax5pquVhriFNoCskS12stjbQ.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/enhc7T5hrSNrhp6fVIcaEbonQxC.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/8tXo6o4cYzFxKYZPEKamWhkvN7x.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/hlWmVof3QNVA9Bxyio0eycIpfQg.png",
         "type": "PELICULA",
@@ -26506,13 +26506,13 @@
     "name": "Comedia",
     "samples": [
       {
-        "name": "Casi 300, una loca película de Esparta",
+        "name": "Una loca película de Esparta",
         "url": "http://144.217.70.79/VODS-M/1080P/Meet%20the%20Spartans%202008.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/vmgHtWiNmyWuyzlXZwM1xlgZ170.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/iX4ArGBpWfUEqu12knFb5ptUx9U.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/d3FCBSzb0SbWqnQs0hBfiaOHgKo.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/iBfhLS8KQJPYGIYzApHBVHMCXRb.png",
         "type": "PELICULA",
-        "descripcion": "El narrador cuenta que su niñez fue dura, su abuelita lo entrenaba en el arte de la lucha, le enseñaban a no temer con el sr. White de James Bond. Dice también que fue enviado a las montañas para que sobreviviese y luchase con Happy Feet. Luego Leónidas regresa a Esparta para ser proclamado rey, después conoce a una joven llamada Margo, y se enamoran.  Luego de unos años aparece Leónidas entrenando brutalmente a su hijo, una parodia de la WWE en el papel de Undertaker aplicando su Tombstone Pile Driver, y luego le pega con una silla; hasta que vienen unos mensajeros persas. Leónidas se reúne con ellos, y el emisario le comunica que Esparta será devastada por el rey Jerjes. Leónidas se queda pensando y cuando decide, ve a su esposa y el mensajero en un apasionado beso.",
+        "descripcion": "Parodia de la exitosa película \"300\". El heroico Leónidas, sin más armas que la ropa interior de cuero y una capa, lidera un grupo de 13 espartanos en defensa de su patria contra los invasores persas.",
         "anio": "2008",
         "genero": "Comedia, Fantasía",
         "duracion": "84 min"

@@ -5423,19 +5423,19 @@
     ]
   },
   {
-    "name": "Fantasía",
+    "name": "Familia",
     "samples": [
       {
-        "name": "La bella y la bestia",
+        "name": "La Bella y La Bestia",
         "url": "http://144.217.70.79/VODS-M/1080P/Beauty%20and%20the%20beast%202017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/1fXcLDsxdJaqWn1fBZYX1IzeZFE.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/92Uceuy7HaiiHFgW48gNyxhx17d.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/9ii1JN8FW4RfLLh4Oya5NnWlN6x.png",
+        "icono": "https://image.tmdb.org/t/p/original/2q38CCkPvhm8DVHazY9QLQtHQoO.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/icsu28RaTXABU1rJoZztmX1iO4w.png",
         "type": "PELICULA",
-        "descripcion": "Nueva adaptación de la historia de \"La bella y la bestia\". En palabras de su director, \"Aunque seré fiel a la narración de este inmortal cuento de hadas, manteniendo el tiempo y los personajes como en el original, sorprenderé al público creando un universo completamente nuevo jamás experimentado antes, con imágenes de una calidad sin precedentes.\"",
-        "anio": "2014",
-        "genero": "Fantasía, Romance",
-        "duracion": "112 min"
+        "descripcion": "Una joven soñadora y romántica llamada Bella, vive en una pequeña aldea junto a su padre, un inventor de artilugios, al que algunos consideran un anciano demente.Un día su padre se marcha a una feria para exponer sus inventos, pero se pierde en el camino y acaba en un grande y viejo castillo.",
+        "anio": "2017",
+        "genero": "Familia, Fantasía, Romance",
+        "duracion": "129 min"
       }
     ]
   },
@@ -15714,7 +15714,7 @@
         "name": "Destino Final 4",
         "url": "http://144.217.70.79/VODS-M/1080P/Final%20Destination%204%202009.mkv",
         "icono": "https://image.tmdb.org/t/p/original/8b1tsUQW8hogJRi6FFHHfO7D1fu.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/vMaKc5PwdKIIBt5q7JQjfgyESYT.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/6LGX6bPhMEsuwi8CsfSBqnB1qnN.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/l9jpdFwJZzP7yATfRxliPMuJXY.png",
         "type": "PELICULA",
         "descripcion": "Nick O’Bannon y unos amigos acuden a un circuito de carreras para presenciar una prueba del Nascar. Durante la carrera, un terrible accidente conlleva desastrosas consecuencias para el estadio. Pero Nick descubre que se trata de sólo una visión de algo que está a punto de suceder, y junto con otras doce personas consigue salir del recinto y escapar de una tragedia segura. Pensando que han burlado a la muerte, el grupo continúa con su vida, pero desafortunadamente para Nick, Lori y sus amigos sólo es el principio, ya que la muerte no deja cabos sueltos, y regresará para llevarse a los supervivientes de una manera brutal.",
@@ -15731,7 +15731,7 @@
         "name": "Destino Final 5",
         "url": "http://144.217.70.79/VODS-M/1080P/Final%20Destination%205%202011.mkv",
         "icono": "https://image.tmdb.org/t/p/original/T0IGau7Alj52OLrrthzftkLMIA.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/zhFOEVvwyJjGsAqf31FF3H9OXlH.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5cG2XcylxUIclQsGPBKTtfoqcBV.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/wJHXeHxwhzYjnF1XrKBsEBK56Et.png",
         "type": "PELICULA",
         "descripcion": "Sam Lawton (Nicholas D'Agosto) tiene una premonición sobre la destrucción de un puente colgante que causaría su muerte y la de otras personas. La visión se hace realidad, pero Sam se las arregla para salvarse a sí mismo y a algunos otros de la catastrófica tragedia. Sin embargo, Sam y su novia Molly (Emma Bell) descubren que no están realmente a salvo: la muerte los persigue a ellos y a los que sobrevivieron al horrible accidente...",
@@ -16027,6 +16027,23 @@
         "anio": "2012",
         "genero": "Drama",
         "duracion": "138 min"
+      }
+    ]
+  },
+  {
+    "name": "Acción",
+    "samples": [
+      {
+        "name": "Amenaza en el aire",
+        "url": "http://144.217.70.79/VODS-M/1080P/Flight%20Risk%202025.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/8T6nkYb4W8BIeafmFffyfsRciTL.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hwlyY7LJdEFbCPaGNXiskKKmJ5X.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/h9eKksTGf0Pn3QLbznkFLMMOnCP.png",
+        "type": "PELICULA",
+        "descripcion": "Un piloto transporta a un alguacil del aire que acompaña a un fugitivo a juicio. A medida que atraviesan el desierto de Alaska, la tensión aumenta y la confianza se pone a prueba, ya que no todos a bordo son quienes parecen.",
+        "anio": "2025",
+        "genero": "Acción, Suspense",
+        "duracion": "91 min"
       }
     ]
   },
@@ -16841,7 +16858,7 @@
         "type": "PELICULA",
         "descripcion": "Ha pasado un año desde que el equipo de Dominic Torreto y Brian pudiera regresar finalmente a Estados Unidos, tras ser indultados. Desean adaptarse a una vida en la legalidad, pero el entorno ya no es el mismo. Dom intenta acercarse a Letty, y Brian lucha para acostumbrarse a la vida en una urbanización con Mia y su hijo. Ninguno de ellos imagina que un frío asesino británico, entrenado para realizar operaciones secretas, se cruzará en sus vidas para convertirse en su mayor enemigo.",
         "anio": "2015",
-        "genero": "Acción, Suspense, Crimen",
+        "genero": "Acción, Aventura, Crimen, Drama, Suspense",
         "duracion": "137 min"
       }
     ]
@@ -26304,7 +26321,7 @@
       {
         "name": "Max Payne",
         "url": "http://144.217.70.79/VODS-M/1080P/Max%20Payne%202008.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/enhc7T5hrSNrhp6fVIcaEbonQxC.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/cgDax5pquVhriFNoCskS12stjbQ.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/8tXo6o4cYzFxKYZPEKamWhkvN7x.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/hlWmVof3QNVA9Bxyio0eycIpfQg.png",
         "type": "PELICULA",

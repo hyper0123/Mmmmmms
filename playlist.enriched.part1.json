@@ -10699,7 +10699,7 @@
         "name": "La Pirata: La Isla de las Cabezas Cortadas",
         "url": "http://144.217.70.79/VODS-M/1080P/Cutthroat%20Island%201995.mkv",
         "icono": "https://image.tmdb.org/t/p/original/gtuJeNsG4Z15OLQViOzg5y2uHUu.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hHoIQVAmTg4RM7PPNhNvMlJk3mg.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ndjMBg9FINJBEi1RaP64oLApR1s.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/A9fkCyHrT9DH6mZ93aBOrMAjwDb.png",
         "type": "PELICULA",
         "descripcion": "Morgan Adams y su esclavo, William Shaw, se lanzarán a la búsqueda de los tres trozos de un mapa del tesoro. Por desgracia, el último trozo está en manos de su cruel tío Dawg. Su tripulación no cree mucho en sus dotes de liderazgo, así que antes deberá enfrentarse a un conato de motín contra ella. Todo se complicará aún más con los esfuerzos de la Corona Británica para terminar con sus incursiones piratas.",
@@ -16292,7 +16292,7 @@
         "name": "La fortaleza 2",
         "url": "http://144.217.70.79/VODS-M/1080P/Fortress%202%20Re-entry%201999.mkv",
         "icono": "https://image.tmdb.org/t/p/original/muGd6W2qEHVm8biLSm0Rp1JLyrG.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jh2X7nuIwnfPZ2OztCpQiMvMuhw.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/bgCfvq9ReQbCA4O2CEqKDu6zmbQ.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/9fHsF1j8GtvWTHqazK8OatFW4Ng.png",
         "type": "PELICULA",
         "descripcion": "Han pasado varios años desde que John Brennick, un fugitivo de la prisión subterránea de gran tecnología, consiguiera escapar. El gerente de la corporación Mental busca incansablemente a Brennick, quien se esconde, junto a su familia, en el campo. Finalmente son acorralados y se ven obligados a entregarse, siendo encerrados en una nueva y más sofisticada prisión, esta vez situada en el espacio exterior -a 26.000 millas por encima de la Tierra-, y de donde es aún más complicado escapar, casi imposible. Pero Brennick no es un hombre que dé su brazo a torcer fácilmente, y un hijo esperándole en la Tierra constituye una motivación adicional a sus planes de fuga.",
@@ -16309,7 +16309,7 @@
         "name": "La fortaleza",
         "url": "http://144.217.70.79/VODS-M/1080P/Fortress%201992.mkv",
         "icono": "https://image.tmdb.org/t/p/original/5BONvBhI6xCsTwauHIDTT12wPgr.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5C5oQtJ50Vg2qoVTp9XjNPyqZlq.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/6SD8Z4aGvglKU7qIX0kwNT3n4be.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/6mPeP7Rl0PV1TG7PNTO38YCGCR5.png",
         "type": "PELICULA",
         "descripcion": "En el año 2017, una corporación ha ideado la construcción de una fortaleza de alta tecnología que intenta conseguir la prisión más implacable: la prisión mental. Pero el experimento se enfrenta a un poderoso y \"poco convincente\" recluso: un hombre inocente...",
@@ -23069,19 +23069,19 @@
     ]
   },
   {
-    "name": "Documental",
+    "name": "Aventura",
     "samples": [
       {
-        "name": "The Making Of  'Jurassic Park III'",
+        "name": "Parque Jurásico III",
         "url": "http://144.217.70.79/VODS-M/1080P/Jurassic%20Park%20III%202001.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/f32yN9f8AFFgp6k8N5MQ3mvTXAT.jpg",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/5GM4Nqc79PFE3IOqNKwmOxAWkX1.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sksqYbKUEOsD2bPhDmb0rycMQRD.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/x8SwPggKYTWCeJJrudytMBvoa8K.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "El doctor Alan Grant, ansioso por conseguir fondos que financien su estudio sobre la inteligencia del velociraptor, acepta la oferta de pareja de millonarios, Paul y Amanda Kirby, para sobrevolar la Isla Sorna, en Puerto Rico, poblada por dinosaurios creados genéticamente para un parque recreativo. Tras producirse un aterrizaje forzoso en la isla, Alan descubre que los Kirby estaban buscando a su hijo adolescente, perdido en la isla tras un accidente de parapente.",
         "anio": "2001",
-        "genero": "Documental",
-        "duracion": "23 min"
+        "genero": "Aventura, Acción, Suspense, Ciencia ficción",
+        "duracion": "92 min"
       }
     ]
   },
@@ -24333,7 +24333,7 @@
         "name": "En nombre de la ley",
         "url": "http://144.217.70.79/VODS-M/1080P/Lawman%201971.mkv",
         "icono": "https://image.tmdb.org/t/p/original/9TiQY7UxoDb4w09Ur3284BPCUFH.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/4ZGkBqF1ZpKBHBSvvIdYDHTJ6ZX.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xbzrxVwGamKC5Ui57JHVZQLHpQg.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/qmhsvYyOv23rpAhvTaSDMp2K82q.png",
         "type": "PELICULA",
         "descripcion": "Pasando por la ciudad de Bannock, un grupo de ganaderos borrachos va por la borda con su celebración y por casualidad mata a un anciano con un tiro vago. Vuelven a casa hasta el sábado inconsciente de su muerte. El oficial de policía de Bannock Jered Maddox más tarde llega allá para detener a cada uno implicado bajo acusación del asesinato. El sábado es dirigido por el barón de la tierra Vince Bronson, un déspota benévolo, que, para oír de la muerte, ofrece la restitución para el incidente.",

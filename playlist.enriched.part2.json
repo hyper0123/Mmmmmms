@@ -1921,7 +1921,7 @@
     ]
   },
   {
-    "name": "Ciencia ficción",
+    "name": "Terror",
     "samples": [
       {
         "name": "¡Nop!",
@@ -1932,7 +1932,7 @@
         "type": "PELICULA",
         "descripcion": "Los habitantes de una lejana propiedad del interior de California son testigos de un extraño y escalofriante descubrimiento.",
         "anio": "2022",
-        "genero": "Ciencia ficción, Terror, Suspense",
+        "genero": "Terror, Ciencia ficción, Suspense",
         "duracion": "131 min"
       }
     ]
@@ -7774,7 +7774,7 @@
       {
         "name": "Scream 2: Grita y vuelve a Gritar",
         "url": "http://144.217.70.79/VODS-M/1080P/Scream%202%201997.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/znWATQlDq5TmVm2miW4KHmMOr3V.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/kFFPrFxVHj9DWzDA6h0CqFlUEOW.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/rNqfOqFYpSCeSq2YC5pY8F80Yz4.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/jdAAwDh8O7IxvU7gO3pFpDQeXCf.png",
         "type": "PELICULA",
@@ -7791,7 +7791,7 @@
       {
         "name": "Scream 3: La Máscara de la Muerte",
         "url": "http://144.217.70.79/VODS-M/1080P/Scream%203%202000.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/6lwzHNYaFo294X4qQuVfNGj9eoq.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/oc0nWpMJCN0SFr3xEkrNdymFfRS.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/jihXxHQXjzkcWU8ZfVgN8ntpvf5.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/zhdJx5O9yOErq9TF0sAyuv9q0tB.png",
         "type": "PELICULA",
@@ -7842,7 +7842,7 @@
       {
         "name": "Scream: Grita antes de morir",
         "url": "http://144.217.70.79/VODS-M/1080P/Scream%201996.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/m1VhLwObGbEoHbUQEMK6bg2oISW.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/jSyDHeFEGghtm624mWpuadcG6Gl.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/2CQ4FR4WLPOJdAV0zP9RaJD1Tbh.png",
         "type": "PELICULA",
@@ -7859,7 +7859,7 @@
       {
         "name": "Scream 5",
         "url": "http://144.217.70.79/VODS-M/1080P/Scream%202022.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/cIgmdAhesIqn2ykJfbNFMQYdxkO.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/uWKJyIISWzP7KmB2vcgrX7xyhUh.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/7nvs4pcnrNb27EEsJ9fJFwKgVW3.png",
         "type": "PELICULA",
@@ -12347,7 +12347,7 @@
       {
         "name": "La Playa",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Beach%202000.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/hKoQ3qZK6xyOQqBwwbJmmAhVhKr.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/w6KtlEcZDPwpg4gC5cMhchC8FC6.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/f7sQHmdZdPHaRVt3428XmdoZ8Hs.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/rJ7frnXdCRYH9pWzDxNwBNJQiY8.png",
         "type": "PELICULA",
@@ -20553,7 +20553,7 @@
     ]
   },
   {
-    "name": "Animación",
+    "name": "Familia",
     "samples": [
       {
         "name": "Super Mario Bros. La película",
@@ -20564,7 +20564,7 @@
         "type": "PELICULA",
         "descripcion": "Mientras trabaja bajo tierra para arreglar una tubería de agua, los plomeros de Brooklyn Mario y su hermano Luigi son transportados por una misteriosa tubería y llegan a un nuevo mundo mágico. Pero cuando los hermanos se separan, Mario se embarca en una búsqueda épica para encontrar a Luigi. Con la ayuda de un residente del Reino Champiñón, Toad y algo de entrenamiento de la gobernante del Reino Champiñón, la Princesa Peach, Mario conocerá su propio poder.",
         "anio": "2023",
-        "genero": "Animación, Aventura, Comedia, Familia",
+        "genero": "Familia, Comedia, Aventura, Animación",
         "duracion": "92 min"
       }
     ]

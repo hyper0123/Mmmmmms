@@ -2397,7 +2397,7 @@
     ]
   },
   {
-    "name": "Ciencia ficción",
+    "name": "Terror",
     "samples": [
       {
         "name": "Alien: Covenant",
@@ -2408,7 +2408,7 @@
         "type": "PELICULA",
         "descripcion": "La tripulación de una nave colonia, con destino a un planeta remoto, descubre un paraíso inexplorado con una amenaza más allá de su imaginación, y debe intentar una angustiosa huida.",
         "anio": "2017",
-        "genero": "Ciencia ficción, Terror, Suspense",
+        "genero": "Terror, Ciencia ficción, Suspense",
         "duracion": "122 min"
       }
     ]
@@ -8846,7 +8846,7 @@
         "name": "Mi pareja equivocada",
         "url": "http://144.217.70.79/VODS-M/1080P/Chasing%20Amy%201997.mkv",
         "icono": "https://image.tmdb.org/t/p/original/aNZIpnpyrN9TO5PgSV3SQNWsNaX.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/t2y702RwMBOqZLtKxSJn0zaNtl.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9dsOweKYJ6XAJteBIKEGOI0T2bf.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/9niv0AFTlR8LaE8CFc45KUpQlHO.png",
         "type": "PELICULA",
         "descripcion": "Holden McNell y su mejor amigo, Banky Edwards, disfrutan del éxito de su más reciente creación, el cómic de culto ”Bluntman and Chronic”. Cuando conocen a la también creadora de cómics Alyssa Jones, Holden se siente inmediatamente atraído por ella. Las inclinaciones sentimentales de Alyssa, no obstante, apuntan a otra dirección, por lo que prefiere que Holden y ella sean simplemente amigos. Este se plantea un dilema: sintiendo lo que siente por ella, ¿pueden ser tan sólo amigos? Banky, que la conoce, tiene la respuesta: de ninguna manera.",
@@ -9197,19 +9197,19 @@
     ]
   },
   {
-    "name": "Película de TV",
+    "name": "Fantasía",
     "samples": [
       {
-        "name": "Cinderella",
+        "name": "Cenicienta",
         "url": "http://144.217.70.79/VODS-M/1080P/Cinderella%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/54awQrtekrsI11bKg2NwQrBHLIe.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/y9OZCg6OUqtDMtedW9Pr6mSL09y.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/lbhAyxuI0IGRCSrpjcA9tdMplzn.png",
+        "icono": "https://image.tmdb.org/t/p/original/oU0JRNrzpEWSH2pXzSiiNL76KSq.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/7ZiMrbitgbyio4eOzFKRruPKu5G.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/sCHRg1xv06mFgxBwyUO6CjvtrLT.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "1997",
-        "genero": "Película de TV, Familia, Fantasía, Música, Romance",
-        "duracion": "88 min"
+        "descripcion": "Cenicienta es un musical moderno, con un lado atrevido, del clásico cuento de hadas. La ambiciosa protagonista (Camila Cabello) tiene sueños y con la ayuda de su fabulosa Hada Madrina, persevera para cumplirlos.",
+        "anio": "2021",
+        "genero": "Fantasía, Romance, Comedia",
+        "duracion": "113 min"
       }
     ]
   },
@@ -15681,7 +15681,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Final%20Destination%202%202003.mkv",
         "icono": "https://image.tmdb.org/t/p/original/6m4TTnatasZcMi6qE4Hbe9LdJgz.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/tKnmfO5lAyu8hpTZMyMaI4lhZpJ.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/5iJXQsG5u3bgKfdFtEeclpneEWn.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/uLqGbYVYT0eLav92DiwjT7zkncl.png",
         "type": "PELICULA",
         "descripcion": "Ha pasado un año desde el accidente del vuelo 180. Ahora, un grupo de jóvenes estudiantes que se dirigen a Florida en las vacaciones de primavera, evitan un mortal accidente de tráfico gracias a las premoniciones de uno de los chicos.",
         "anio": "2003",
@@ -15698,7 +15698,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Final%20Destination%203%202006.mkv",
         "icono": "https://image.tmdb.org/t/p/original/3PEVkIBOii1fxQxaQ0iKODGnBUp.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/nSV1NIAK0Sp5dM1oiobtqbJ8Jrv.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/v68y0huX0liNadVHrlcPwZTlyzN.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/3QbHNYDnLuOuptKyZSm31PsvYmo.png",
         "type": "PELICULA",
         "descripcion": "Un grupo de jóvenes decide pasar una tarde en un parque de atracciones. Wendy tiene la premonición de un terrible accidente en la montaña rusa y advierte a sus amigos. Solo unos pocos, entre ellos Kevin, le hacen caso y se salvan de la tragedia. Pero una fuerza misteriosa les quiere muertos a toda costa.",
         "anio": "2006",
@@ -15715,7 +15715,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Final%20Destination%204%202009.mkv",
         "icono": "https://image.tmdb.org/t/p/original/8b1tsUQW8hogJRi6FFHHfO7D1fu.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/6LGX6bPhMEsuwi8CsfSBqnB1qnN.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/l9jpdFwJZzP7yATfRxliPMuJXY.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/fjokZZOY50uj4UkCGMGz0g9bQS6.png",
         "type": "PELICULA",
         "descripcion": "Nick O’Bannon y unos amigos acuden a un circuito de carreras para presenciar una prueba del Nascar. Durante la carrera, un terrible accidente conlleva desastrosas consecuencias para el estadio. Pero Nick descubre que se trata de sólo una visión de algo que está a punto de suceder, y junto con otras doce personas consigue salir del recinto y escapar de una tragedia segura. Pensando que han burlado a la muerte, el grupo continúa con su vida, pero desafortunadamente para Nick, Lori y sus amigos sólo es el principio, ya que la muerte no deja cabos sueltos, y regresará para llevarse a los supervivientes de una manera brutal.",
         "anio": "2009",
@@ -24214,7 +24214,7 @@
         "name": "Lara Croft: Tomb Raider - La cuna de la vida",
         "url": "http://144.217.70.79/VODS-M/1080P/Lara%20Croft%20Tomb%20Raider%20The%20Cradle%20of%20Life%202003.mkv",
         "icono": "https://image.tmdb.org/t/p/original/lMZRhXuZyNEpohTui1VpSsmsq63.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/a3P9t1io6mysqMWE9PjVf1j6NK9.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/e5P1VPToB07tH6y3n5IdqNUozBd.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/mqq4htA3wj8lSYXPZIp4Q5PLeT8.png",
         "type": "PELICULA",
         "descripcion": "Enfrentándose a nuevos y mayores peligros y desafíos, Lara Croft muestra sus poderes físicos en otra trepidante aventura. La intrépida heroína viajará a un templo sumergido bajo el agua en busca de la legendaria \"Caja de Pandora\", pero antes de que llegue, un banda de criminales chinos, liderados por Chen Lo, consigue apoderarse del preciado objeto. Lara tendrá que detenerlos antes de que lo usen con fines maléficos.",

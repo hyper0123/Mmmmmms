@@ -2472,7 +2472,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/All%20Day%20and%20a%20Night%202020.mkv",
         "icono": "https://image.tmdb.org/t/p/original/tWEP25l4PiX7DgMOMU5ZReExz1q.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/9XCnndiIzsWibZhxPoo8EV04fzr.jpg",
-        "iconpng": "",
+        "iconpng": "https://image.tmdb.org/t/p/original/fEtERy0ApyQeDtPY9k9uBa6Vfie.png",
         "type": "PELICULA",
         "descripcion": "Un joven que cumple cadena perpetua en prisión rememora las circunstancias, la gente y el sistema que lo empujaron a cometer su crimen.",
         "anio": "2020",
@@ -5277,7 +5277,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Batman%20v%20Superman%20Dawn%20of%20Justice%202016.mkv",
         "icono": "https://image.tmdb.org/t/p/original/mS3t9puIjLKgoex82cu9d6G0835.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/2jRycjYLsKBREurUute8roVN1FF.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/w7X5fPB6y2oAWiIL21jeRayiUfF.png",
         "type": "PELICULA",
         "descripcion": "Dos años después de la destrucción de Metrópolis, la humanidad aún intenta determinar el rol de Superman en el mundo. Para evitar que las acciones del Hombre de Acero pasen desapercibidas, Batman se enfrenta a Superman, mientras una amenaza surge de las sombras.",
         "anio": "2016",
@@ -6233,7 +6233,7 @@
         "type": "PELICULA",
         "descripcion": "La historia tiene como protagonista a un hombre que lucha por recuperar la memoria después de sobrevivir a un trágico accidente automovilístico. Desesperado por volver a ser él mismo mientras intenta criar a su hija, recibe un tratamiento experimental que lo ayuda a indagar en un pasado que de repente se siente demasiado oscuro para ser el suyo.",
         "anio": "2020",
-        "genero": "Terror, Ciencia ficción, Suspense",
+        "genero": "Terror, Ciencia ficción",
         "duracion": "100 min"
       }
     ]
@@ -9727,7 +9727,7 @@
     "name": "Acción",
     "samples": [
       {
-        "name": "Venganza Despiadada",
+        "name": "Colombiana",
         "url": "http://144.217.70.79/VODS-M/1080P/Colombiana%202011.mkv",
         "icono": "https://image.tmdb.org/t/p/original/vUbVAT8CS6b4r7ZWQ6GpCj1qvGI.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/2PlRuZUjqC58bqm6MOjOAraEdFA.jpg",
@@ -10783,7 +10783,7 @@
       {
         "name": "Guerra de Papás",
         "url": "http://144.217.70.79/VODS-M/1080P/Daddys%20home%202015.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/lDyhnC0d2pLH3MMxWpBQ0ig9J10.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/stFOBXXoEMeGm7S5z7nTNGXJZ4G.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/4kui3QA55M2ZOmBgoRlrYj5MSlK.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/dJ1yXH8q91eqi9mT5Lfn2R3S5Bc.png",
         "type": "PELICULA",
@@ -20088,7 +20088,7 @@
         "type": "PELICULA",
         "descripcion": "El legendario capitán del ejército Joseph J. Blocker (Christian Bale) se compromete para acompañar a un moribundo jefe de guerra Cheyenne (Wes Studi) y a su familia de regreso a las tierras de su tribu. Para ello tendrán que emprender un peligroso viaje por las praderas montañosas de Nuevo México, dónde se encontrarán con una joven viuda (Rosamund Pike) cuya familia fue asesinada en las llanuras por un grupo de comanches que aún rondan por la zona. Juntos, tendrán que unir fuerzas para sobrevivir al castigador paisaje y a las hostiles tribus Comanche que se encuentran por el camino.",
         "anio": "2017",
-        "genero": "Drama, Western, Historia",
+        "genero": "Drama, Western, Historia, Aventura",
         "duracion": "134 min"
       }
     ]
@@ -23092,7 +23092,7 @@
         "name": "Jurassic World Dominio",
         "url": "http://144.217.70.79/VODS-M/1080P/Jurassic%20World%20Dominion%202022.mkv",
         "icono": "https://image.tmdb.org/t/p/original/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9eAn20y26wtB3aet7w9lHjuSgZ3.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/698FjyzLdpgXmUSr63LaRwblTmx.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/9gZiW37JXNTN3OZ1wdhIXF06d7.png",
         "type": "PELICULA",
         "descripcion": "Cuatro años después de la destrucción de Isla Nublar, los dinosaurios ahora viven y cazan junto a los humanos en todo el mundo. Este frágil equilibrio cambiará el futuro y determinará, de una vez por todas, si los seres humanos deben seguir siendo los depredadores máximos en un planeta que ahora comparten con las criaturas más temibles de la historia.",

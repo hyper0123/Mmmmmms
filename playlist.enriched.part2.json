@@ -2062,7 +2062,7 @@
       {
         "name": "La Novicia",
         "url": "http://144.217.70.79/VODS-M/1080P/Novitiate%202017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/gsKbQ6hlbo6VMH8GJN4wIrOVZMy.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/fUKNedJYDySUbVoVrj36InST9yB.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/4MLjm9ghDgx2cccqdKDRhBla9VT.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/2TouiUy6a5zfpQyVaOB2S3BXA7h.png",
         "type": "PELICULA",
@@ -2629,7 +2629,7 @@
         "type": "PELICULA",
         "descripcion": "Ambientado en un mundo de fantasía suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe aún algo de magia en el mundo que les permita pasar un último día con su padre, que falleció cuando ellos eran aún muy pequeños como para poder recordarlo.",
         "anio": "2020",
-        "genero": "Familia, Comedia, Aventura, Animación",
+        "genero": "Familia, Comedia, Aventura, Animación, Fantasía",
         "duracion": "102 min"
       }
     ]
@@ -3613,7 +3613,7 @@
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/7mH9nwyEyiGrODuq1khFEXyk5iY.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/bNbogWa94nLRe5fc1jHNVDOYfEQ.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "En el Nueva York de los años 20, la vida de una mujer negra da un giro inesperado cuando retoma el contacto con una amiga de la infancia que se hace pasar por blanca.",
         "anio": "2021",
         "genero": "Drama",
         "duracion": "98 min"
@@ -17153,19 +17153,19 @@
     ]
   },
   {
-    "name": "Familia",
+    "name": "Aventura",
     "samples": [
       {
         "name": "El rey león",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Lion%20king%202019.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/476j8du5ibBZGeHJzXFZjsc3nCo.png",
+        "icono": "https://image.tmdb.org/t/p/original/eGfq90BF8QGCMpncF2ag0lGTgKk.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/kAwjlcjFVCg2TN0FmcEojIR4NZ1.png",
         "type": "PELICULA",
-        "descripcion": "El príncipe león Simba y su padre son el blanco de su amargado tío, que quiere ascender al trono.",
-        "anio": "1994",
-        "genero": "Familia, Animación, Drama",
-        "duracion": "85 min"
+        "descripcion": "La nueva versión de acción real de EL REY LEÓN de Disney, del director Jon Favreau, nos lleva a la sabana africana donde un futuro rey ha nacido. Simba idolatra a su padre, el rey Mufasa, y está entusiasmado con su destino real. Pero no todos en el reino celebran la llegada del nuevo cachorro. Scar, el hermano de Mufasa y antiguo heredero al trono, tiene sus propios planes. La batalla de Pride Rock se ve teñida de traición, tragedia y drama, y acaba forzando a Simba al exilio. Con la ayuda de una curiosa pareja de amigos nuevos, Simba tendrá que arreglárselas para crecer y recuperar lo que legítimamente le corresponde.",
+        "anio": "2019",
+        "genero": "Aventura, Drama, Familia, Animación",
+        "duracion": "118 min"
       }
     ]
   },

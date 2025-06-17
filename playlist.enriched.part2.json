@@ -459,19 +459,19 @@
     ]
   },
   {
-    "name": "Suspense",
+    "name": "Acción",
     "samples": [
       {
-        "name": "Most Dangerous Game",
+        "name": "最も危険な遊戯",
         "url": "http://144.217.70.79/VODS-M/1080P/Most%20Dangerous%20Game%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/kHORTMfdSo8N2uTgKOvv7loQb6A.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lS89p3YnGL8JiHSccoiX9T2qGXQ.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/4jg5eo93qFI4frOFea4t8JohF0Y.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/nRG7Mk1JttNzGph79iKXBT6bLWu.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/2nQHQpfcjLWM0TcllKsNmUL6JHp.png",
         "type": "PELICULA",
         "descripcion": "",
-        "anio": "2020",
-        "genero": "Suspense, Acción, Drama",
-        "duracion": "0 min"
+        "anio": "1978",
+        "genero": "Acción, Crimen",
+        "duracion": "89 min"
       }
     ]
   },
@@ -1059,7 +1059,7 @@
       {
         "name": "Nacho Libre",
         "url": "http://144.217.70.79/VODS-M/1080P/Nacho%20Libre%202006.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/y2Qdz67GQticGM15CdxDFXk1gzg.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/uU6ZEMgsnDlHXLgkppJxRuzMOeh.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/nNCleqiADKVMKWDC5G7hjYcVCmv.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/A5IvM1JMXFNH9O6rkaJlpOEaFQ8.png",
         "type": "PELICULA",
@@ -8789,7 +8789,7 @@
     ]
   },
   {
-    "name": "Animación",
+    "name": "Familia",
     "samples": [
       {
         "name": "Sing 2: ¡Ven y Canta de Nuevo!",
@@ -8800,13 +8800,13 @@
         "type": "PELICULA",
         "descripcion": "Buster Moon y su elenco de animales artistas se preparan para lanzar un deslumbrante espectáculo escénico en la capital mundial del entretenimiento. Solo hay un problema: debe convencer a la estrella de rock más solitaria del mundo de unirse a ellos.",
         "anio": "2021",
-        "genero": "Animación, Familia, Música, Comedia",
+        "genero": "Familia, Comedia, Música, Animación",
         "duracion": "110 min"
       }
     ]
   },
   {
-    "name": "Animación",
+    "name": "Familia",
     "samples": [
       {
         "name": "Sing: ¡Ven y canta!",
@@ -8817,7 +8817,7 @@
         "type": "PELICULA",
         "descripcion": "En una ciudad de animales humanoides, el intento de un empresario de teatro de salvar su teatro con un concurso de canto se convierte en algo más grande de lo que prevé, incluso cuando sus finalistas descubren que sus vidas nunca serán las mismas.",
         "anio": "2016",
-        "genero": "Animación, Comedia, Familia, Música",
+        "genero": "Familia, Comedia, Música, Animación",
         "duracion": "108 min"
       }
     ]
@@ -9475,7 +9475,7 @@
         "name": "S.O.S: Hay un loco suelto en el espacio",
         "url": "http://144.217.70.79/VODS-M/1080P/Spaceballs%201987.mkv",
         "icono": "https://image.tmdb.org/t/p/original/kO0lVdkp5pawQFZl1YKCh30pXCU.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/nwbA2DQhDUpzIR6wqBMTvNITNDm.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/i45FVfTSDu2n2DVpp99XAZguQJt.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/2CPWdG56oq5xYxVkJXwccY9QrBB.png",
         "type": "PELICULA",
         "descripcion": "La princesa Vespa decide huir justo antes de su boda con el príncipe Valium, para ello se lleva a su robot Dot Matrix y una pequeña nave espacial. Ante esto su padre, el rey Roland de Druidia ofrece una recompensa a quien encuentre a su hija. La recompensa interesa mucho a Lone Starr y a su ayudante Vomito Barf  que deben mucho dinero a un delincuente llamado Pizza el Hutt. En su huida la princesa Vespa es interceptada por la nave del malvado Lord Casco Oscuro que trabaja para el presidente del planeta Spaceballs, que ansía el aire puro del planeta Druidia. Lone Starr, con la ayuda del maestro Yogurt, que le enseña a usar la suerte, debe rescatar a la princesa y acabar con los Spaceball.",
@@ -9491,7 +9491,7 @@
       {
         "name": "Espanglish",
         "url": "http://144.217.70.79/VODS-M/1080P/Spanglish%202004.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/dkA4yVXUGIUFzaGlm5opeq9OFj4.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/z9ldwHfJhhYEZwHozTVLOF01rdE.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/rUzmDCEMhdQq04TaAyRkmSdqGwV.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/5uIxlqy9HzrWJDHGYa4VcXzFtWK.png",
         "type": "PELICULA",
@@ -10461,7 +10461,7 @@
         "name": "Street Fighter: El puño asesino",
         "url": "http://144.217.70.79/VODS-M/1080P/Street%20Fighter%20Assassins%20Fist%202014.mkv",
         "icono": "https://image.tmdb.org/t/p/original/9fJ7s0nDU4lPsrx1CpZe6poKEUz.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xLR8AIxTT0v9esUkboUmyARCD26.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/aAAaGHp3j19fblXaKgCFgVTqJRn.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/o0pNkh54CHGqbY8YUbEAoLamg9w.png",
         "type": "PELICULA",
         "descripcion": "Ryu y Ken son dos guerreros tradicionales que se encuentran aislados en algún rincón de Japón para llevar a cabo su formación y entrenamiento como luchados. Los dos jóvenes, sin saberlo, son los últimos practicantes de un antiguo estilo de lucha conocido como Ansatsuken (Puño del Asesino). Los acontecimientos cogerán un ritmo vertiginoso cuando empiezan a conocer los oscuros secretos del pasado de su amo, Goken, y el trágico legado que esconde el estilo Ansatsiken. ¿Podrán elegir Ryu y Ken su destino o se repetirá de nuevo la historia?",
@@ -18416,8 +18416,8 @@
       {
         "name": "Diario de una pasión",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Notebook%202004.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/gsQXEHwKuBUmU80KLq0ywbDycHc.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/j0Ce4AsZi34NKYUZr61lh0PBQ7G.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/gFCnDKfsZWzyv9sweizVC4EWn06.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/eEN7tsCCHppGhONHngvHKSdxi7r.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/wFGND0gdewVENSu9JbECaGaHeTU.png",
         "type": "PELICULA",
         "descripcion": "En una residencia de ancianos, un hombre mayor lee a una mujer una historia de amor escrita en su viejo libro de notas. El libro cuenta la vida en los años 40 de Noah Calhoun y Allie Nelson, dos jóvenes adolescentes de Carolina del Norte que, a pesar de vivir en dos ambientes sociales muy diferentes, pasaron un verano idílico juntos y profundamente enamorados, antes de ser separados, primero por sus padres, y más tarde por la Segunda Guerra Mundial.",
@@ -18773,11 +18773,11 @@
       {
         "name": "The Outpost: La batalla de Kamdesh",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Outpost%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/saN1UywIQMQNXYx2ag9j2tPwaVl.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/vF5qNBx3Sa1c7f07gtY34anTbdl.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/n1RohH2VoK1CdVI2fXvcP19dSlm.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/2ZsiregLZBzou3jDvp6RdpZ0Kwv.png",
         "type": "PELICULA",
-        "descripcion": "Basada en hechos reales, en este thriller militar, una pequeña unidad de soldados de Estados Unidos, solo en el Puesto de combate a distancia Keating, situada en pleno valle de tres montañas en Afganistán, las batallas para defender contra una fuerza abrumadora de los combatientes talibanes en un ataque coordinado . La batalla de Kamdesh, como era conocido, fue el más sangriento de compromiso estadounidense de la guerra de Afganistán en 2009 y Bravo tropa 3-61 CAV se convirtió en una de las unidades más condecoradas del conflicto de 19 años.",
+        "descripcion": "Narra la historia real de una de las batallas más duras que tuvo lugar durante la guerra de Afganistán. Un pequeño equipo de 53 soldados estadounidenses tuvo que enfrentarse contra más de 400 combatientes talibanes durante la operación llamada “Libertad duradera”... Adaptación del best seller escrito por el corresponsal de guerra Jake Tapper.",
         "anio": "2020",
         "genero": "Bélica, Drama, Historia, Acción",
         "duracion": "123 min"
@@ -19958,7 +19958,7 @@
     ]
   },
   {
-    "name": "Aventura",
+    "name": "Familia",
     "samples": [
       {
         "name": "La Vida Secreta De Tus Mascotas 2",
@@ -19969,7 +19969,7 @@
         "type": "PELICULA",
         "descripcion": "Max se enfrenta a nuevos e importantes cambios en su vida: su dueña Katie no sólo se ha casado, sino que también ha sido madre por primera vez. En un viaje familiar al campo conoce a un perro granjero llamado Rooster, con el que aprende a dominar sus miedos. Mientras tanto, Gidget trata de recuperar el juguete favorito de Max de un apartamento repleto de gatos. Snowball, por otro lado, se embarca en una peligrosa misión para liberar a un tigre blanco, Hu, de sus captures en un circo de animales. Secuela de ‘Mascotas’",
         "anio": "2019",
-        "genero": "Aventura, Animación, Comedia, Familia",
+        "genero": "Familia, Comedia, Aventura, Animación",
         "duracion": "98 min"
       }
     ]
@@ -21907,7 +21907,7 @@
         "type": "PELICULA",
         "descripcion": "Un grupo de científicos que orbita un planeta al borde de la guerra prueba un dispositivo para superar una crisis energética, pero acaba enfrentando una realidad sombría.",
         "anio": "2018",
-        "genero": "Terror, Ciencia ficción, Suspense",
+        "genero": "Terror, Suspense, Ciencia ficción",
         "duracion": "102 min"
       }
     ]
@@ -22610,7 +22610,7 @@
     ]
   },
   {
-    "name": "Aventura",
+    "name": "Familia",
     "samples": [
       {
         "name": "La vida secreta de tus mascotas",
@@ -22621,7 +22621,7 @@
         "type": "PELICULA",
         "descripcion": "Ambientada en un apartamento de Manhattan, las mascotas se reúnen tras la marcha de sus dueños para contar humillantes historias sobre ellos y dar y recibir consejos sobre cómo ser más adorables. El líder de ellos es un Fox Terrier que ve amenazada su posición de privilegio por la llegada de un perro mestizo. Su rivalidad les llevará a acabar en las duras calles de Nueva York, donde se encontrarán con un aparentemente adorable conejo que en realidad es el líder de un ejército de mascotas abandonadas que ha jurado vengarse.",
         "anio": "2016",
-        "genero": "Aventura, Comedia, Animación, Familia",
+        "genero": "Familia, Comedia, Aventura, Animación",
         "duracion": "87 min"
       }
     ]
@@ -24982,7 +24982,7 @@
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/gPMYhwogEWMeUWqL0JJkSuwcafk.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/d4E5yQTu2kh4nuKC30wTirAbh5.png",
         "type": "PELICULA",
-        "descripcion": "Un exmontañista organiza una misión con el fin de rescatar a su hermana y a sus acompañantes atrapados en una cueva de hielo.",
+        "descripcion": "Peter Garret es un joven fotógrafo deportivo que vive atormentado por el recuerdo de su padre, que sacrificó su vida durante una escalada para salvarlo a él y a su hermana Annie. Con los años, Annie se ha convertido en una experta escaladora que forma parte de un equipo de ascensión al K-2. Sin embargo, cuando un error en la previsión meteorológica provoca un grave accidente en el que se ve implicada, Peter decide arriesgar su vida junto a otros voluntarios para rescatarla.",
         "anio": "2000",
         "genero": "Aventura, Acción, Suspense",
         "duracion": "124 min"
@@ -25138,7 +25138,7 @@
         "descripcion": "La historia de un mono capuchino, aventurero y amante de la música, que decide realizar un trepidante viaje desde La Habana hasta Miami. Su objetivo es cumplir su sueño y convertirse en una estrella musical. Las canciones y banda sonora de esta película musical de animación las firma el compositor, dramaturgo y actor Lin-Manuel Miranda, ganador del Premio Pulitzer y del Grammy.",
         "anio": "2021",
         "genero": "Animación, Familia, Comedia",
-        "duracion": "103 min"
+        "duracion": "96 min"
       }
     ]
   },
@@ -26515,7 +26515,7 @@
         "descripcion": "Una joven aprendiz de cazadora viaja a Irlanda con su padre en busca de la última manada de lobos. Pero todo cambia cuando conoce a una niña de una misteriosa tribu que, se rumora, se transforma en lobo por las noches.",
         "anio": "2020",
         "genero": "Animación, Familia, Aventura, Fantasía",
-        "duracion": "103 min"
+        "duracion": "102 min"
       }
     ]
   },

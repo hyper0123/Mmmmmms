@@ -4193,7 +4193,7 @@
         "type": "PELICULA",
         "descripcion": "Viviendo solo en el desierto de Oregon, un cazador de trufas regresa a Portland para encontrar a la persona que le robó a su amado cerdo y va a correr al gato y al ratón por la orilla.",
         "anio": "2021",
-        "genero": "Drama, Suspense, Misterio",
+        "genero": "Drama, Misterio, Suspense",
         "duracion": "92 min"
       }
     ]
@@ -19519,7 +19519,7 @@
     "name": "Terror",
     "samples": [
       {
-        "name": "El regreso de Manson",
+        "name": "La resurrección de Charles Manson",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Resurrection%20of%20Charles%20Manson%202023.mkv",
         "icono": "https://image.tmdb.org/t/p/original/jdkQCHDsPhPH28MDOsJDaSDgg81.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/taVJC6JJntROwsXm9zfveCcti2J.jpg",
@@ -22120,7 +22120,7 @@
     "name": "Acción",
     "samples": [
       {
-        "name": "La gran muralla",
+        "name": "La Gran Muralla",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20great%20wall%202016.mkv",
         "icono": "https://image.tmdb.org/t/p/original/8VenQvaBTOM2By4rsJbCZhl6hFU.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/th26RNksfM9nn7DPH06OqiV6BA2.jpg",

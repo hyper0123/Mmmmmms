@@ -23327,6 +23327,23 @@
         "name": "",
         "samples": [
             {
+                "name": "Kick-Ass 2010",
+                "url": "http://144.217.70.79/VODS-M/1080P/Kick-Ass%202010%202010.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2010",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
                 "name": "Kickboxer 2 The Road Back",
                 "url": "http://144.217.70.79/VODS-M/1080P/Kickboxer%202%20The%20Road%20Back%201991.mkv",
                 "icono": "",

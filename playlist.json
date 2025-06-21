@@ -7653,6 +7653,23 @@
         "name": "",
         "samples": [
             {
+                "name": "Broke",
+                "url": "http://144.217.70.79/VODS-M/1080P/Broke%202025.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
                 "name": "Brokeback Mountain",
                 "url": "http://144.217.70.79/VODS-M/1080P/Brokeback%20Mountain%202005.mkv",
                 "icono": "",
@@ -8494,23 +8511,6 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "1989",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "Catch Me If You Can",
-                "url": "http://144.217.70.79/VODS-M/1080P/Catch%20Me%20If%20You%20Can%202002.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2002",
                 "genero": "",
                 "duracion": ""
             }
@@ -11690,6 +11690,23 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "1999",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "Deep Cover",
+                "url": "http://144.217.70.79/VODS-M/1080P/Deep%20Cover%202025.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
                 "genero": "",
                 "duracion": ""
             }
@@ -16051,6 +16068,23 @@
         "name": "",
         "samples": [
             {
+                "name": "Flight of the Intruder",
+                "url": "http://144.217.70.79/VODS-M/1080P/Flight%20of%20the%20Intruder%201991.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "1991",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
                 "name": "Flightplan",
                 "url": "http://144.217.70.79/VODS-M/1080P/Flightplan%202005.mkv",
                 "icono": "",
@@ -18337,6 +18371,23 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2020",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "Gunner",
+                "url": "http://144.217.70.79/VODS-M/1080P/Gunner%202024.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
                 "genero": "",
                 "duracion": ""
             }
@@ -28325,6 +28376,23 @@
         "name": "",
         "samples": [
             {
+                "name": "My Old Ass",
+                "url": "http://144.217.70.79/VODS-M/1080P/My%20Old%20Ass%202024.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
                 "name": "My Own Private Idaho",
                 "url": "http://144.217.70.79/VODS-M/1080P/My%20Own%20Private%20Idaho%201991.mkv",
                 "icono": "",
@@ -28418,23 +28486,6 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2003",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "Nacho Libre",
-                "url": "http://144.217.70.79/VODS-M/1080P/Nacho%20Libre%202006.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2006",
                 "genero": "",
                 "duracion": ""
             }

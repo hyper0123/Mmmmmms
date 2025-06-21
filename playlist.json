@@ -15813,6 +15813,23 @@
         "name": "",
         "samples": [
             {
+                "name": "Final Destination Bloodlines",
+                "url": "http://144.217.70.79/VODS-M/1080P/Final%20Destination%20Bloodlines%202025.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
                 "name": "Finch",
                 "url": "http://144.217.70.79/VODS-M/1080P/Finch%202021.mkv",
                 "icono": "",
@@ -19646,6 +19663,23 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "1981",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "Hitch",
+                "url": "http://144.217.70.79/VODS-M/1080P/Hitch%202005.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2005",
                 "genero": "",
                 "duracion": ""
             }
@@ -28554,6 +28588,23 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2003",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "Nacho Libre",
+                "url": "http://144.217.70.79/VODS-M/1080P/Nacho%20Libre%202006.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2006",
                 "genero": "",
                 "duracion": ""
             }

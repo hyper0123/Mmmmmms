@@ -7384,7 +7384,7 @@
         "name": "Drácula de Bram Stoker",
         "url": "http://144.217.70.79/VODS-M/1080P/Bram%20Stokers%20Dracula%201992.mkv",
         "icono": "https://image.tmdb.org/t/p/original/3D4UhX6dzfBTHdVWkgjadcl8YkW.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/tyBkBHKDrJyVUeCs550kMr61jnq.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/88S6EYQBVyQktDfSqsB33I169jN.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/uwbTgLpL4EdoPqgw7aaWiGVQSIq.png",
         "type": "PELICULA",
         "descripcion": "El vampiro de siglos de edad, el Conde Drácula, viene a Inglaterra para seducir a la prometida de su abogado Jonathan Harker, Mina Murray, y causar estragos en el país extranjero.",
@@ -7646,6 +7646,23 @@
         "anio": "2016",
         "genero": "Suspense, Western",
         "duracion": "149 min"
+      }
+    ]
+  },
+  {
+    "name": "Western",
+    "samples": [
+      {
+        "name": "Empezar de nuevo",
+        "url": "http://144.217.70.79/VODS-M/1080P/Broke%202025.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/4I0OOU9ALso0fjavHJRkXjUFMZo.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/x1MiX7zp3vBUKONBfvW3v5cnHK2.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/zalvUi4ZRIzuMrW4Aru2defpfhA.png",
+        "type": "PELICULA",
+        "descripcion": "True Brandywine es un jinete de caballos salvajes que se aferra a su decadente carrera en el rodeo. Cuando queda atrapado en una inesperada tormenta de nieve, deberá enfrentarse a heridas, enfermedades y un frío implacable. Mientras lucha por sobrevivir enfrentará las decisiones vitales que lo llevaron a su precaria situación.",
+        "anio": "2025",
+        "genero": "Western, Drama",
+        "duracion": "104 min"
       }
     ]
   },
@@ -11696,6 +11713,23 @@
     ]
   },
   {
+    "name": "Acción",
+    "samples": [
+      {
+        "name": "Acto encubierto",
+        "url": "http://144.217.70.79/VODS-M/1080P/Deep%20Cover%202025.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lOje1iz4VYWELYWRkZAwI7oIJd0.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/2FenUzfnAejGno4j5ymycXte1gf.png",
+        "type": "PELICULA",
+        "descripcion": "Kat es una profesora de teatro de improvisación que empieza a preguntarse si ha dejado pasar su oportunidad de triunfar. Cuando un policía encubierto le ofrece el papel de su vida, Kat recluta a dos de sus alumnos para infiltrarse en el mundo criminal londinense haciéndose pasar por peligrosos delincuentes.",
+        "anio": "2025",
+        "genero": "Acción, Comedia, Crimen",
+        "duracion": "99 min"
+      }
+    ]
+  },
+  {
     "name": "Terror",
     "samples": [
       {
@@ -13821,6 +13855,23 @@
     ]
   },
   {
+    "name": "Suspense",
+    "samples": [
+      {
+        "name": "Echo Valley",
+        "url": "http://144.217.70.79/VODS-M/1080P/Echo%20Valley%202025.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/1E4WCgTodyS7zo8pSp1gZlPO0th.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/aQ5nvQGT6mM6TliOM5iSgrKVF4C.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/ryopo6lf7pobwiN9fG7bvL7RMb9.png",
+        "type": "PELICULA",
+        "descripcion": "La vida retirada de Kate se ve interrumpida cuando su afligida hija aparece asustada y cubierta en sangre que no es suya. Mientras descubre la verdad, Kate se da cuenta de lo lejos que llega por su hija.",
+        "anio": "2025",
+        "genero": "Suspense, Drama",
+        "duracion": "105 min"
+      }
+    ]
+  },
+  {
     "name": "Ciencia ficción",
     "samples": [
       {
@@ -15759,6 +15810,23 @@
     ]
   },
   {
+    "name": "Terror",
+    "samples": [
+      {
+        "name": "Destino final lazos de sangre",
+        "url": "http://144.217.70.79/VODS-M/1080P/Final%20Destination%20Bloodlines%202025.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/4yQQK7xollVtzEVL5tPWtodlkyL.png",
+        "type": "PELICULA",
+        "descripcion": "Atragantada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie regresa a casa para encontrar a la única persona que podría romper el ciclo y salvar a su familia de la horrible muerte que inevitablemente les espera a todos.",
+        "anio": "2025",
+        "genero": "Terror, Misterio",
+        "duracion": "100 min"
+      }
+    ]
+  },
+  {
     "name": "Ciencia ficción",
     "samples": [
       {
@@ -16048,6 +16116,23 @@
     ]
   },
   {
+    "name": "Acción",
+    "samples": [
+      {
+        "name": "El vuelo del Intruder",
+        "url": "http://144.217.70.79/VODS-M/1080P/Flight%20of%20the%20Intruder%201991.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/poEfR5peGDk9rVwOKjBO0XMKLQ0.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/6JVtYVIqJzsD1XmmhYO8O9bUVc8.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/8XRGE3y8sVYf7mS1ewTvPFyv6Uc.png",
+        "type": "PELICULA",
+        "descripcion": "Durante la Guerra de Vietnam, el teniente Jake Grafton, piloto de un avión de ataque A-6 Intruder de la Marina de los EE.UU., se ve frustrado por las misiones que considera inútiles y por la pérdida de su compañero en combate. Junto a su nuevo copiloto, el comandante Virgil Cole, Grafton decide llevar a cabo una misión no autorizada para atacar un objetivo estratégico en Hanoi, desafiando las estrictas reglas de combate impuestas por el mando militar.",
+        "anio": "1991",
+        "genero": "Acción, Bélica",
+        "duracion": "115 min"
+      }
+    ]
+  },
+  {
     "name": "Suspense",
     "samples": [
       {
@@ -16142,7 +16227,7 @@
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/x0bQvdpr88xVhMrVM93tEIKSM2q.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/8SH7x3LpeeUcDXaXc1ssrieJcRu.png",
         "type": "PELICULA",
-        "descripcion": "Un cazarrecompensas, apodado Joe, se dirige a San Miguel, un pueblo en la frontera de México y los Estados Unidos. En este pueblo, dos familias, los Rojo y los Baxter, se disputan el control del pueblo. Los Rojo son tres hermanos: Ramón, Esteban (Sieghardt Rupp) y Miguel Benito (Antonio Prieto Puerto), y se dedican al tráfico de alcohol. Mientras que el matrimonio Baxter: Consuelo (Margarita Lozano) y el sheriff John (Wolfgang Lukschy), se dedica a la venta de armas y son custodiados por esbirros. Joe se dedica a sacar dinero de ambos bandos haciéndoles trabajos a cada uno, sin que el otro bando se entere. Hasta que se enamora de Marisol (Marianne Koch) y los Rojo lo capturan y lo torturan. Pero Joe consigue escaparse y se cobija en una mina abandonada donde es cuidado por el enterrador del pueblo (Joseph Egger) y el cantinero \"Silvanito\" (José Calvo).",
+        "descripcion": "Dos cazadores de recompensas que buscan al mismo hombre deciden unir sus fuerzas para encontrarlo, aunque las razones que los mueven son completamente diferentes... Su título original (\"Per qualche dollaro in più\") ya sugiere que es la continuación natural de \"Por un puñado de dólares\" (\"Per un pugno di dollari\"), dirigida por Leone un año antes.",
         "anio": "1965",
         "genero": "Western",
         "duracion": "130 min"
@@ -18346,6 +18431,23 @@
     "name": "Acción",
     "samples": [
       {
+        "name": "Tirador Implacable",
+        "url": "http://144.217.70.79/VODS-M/1080P/Gunner%202024.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/AciCwxRVdWSa6qpaewmrZU7KZ7i.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/bxwKC4qAbceMgHU1xCCTBK1eYdn.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/niumeVwcUWQUBLjvSReSDxzEzCy.png",
+        "type": "PELICULA",
+        "descripcion": "El veterano de guerra Lee Gunner intenta salvar a sus hijos, Luke y Travis, de una peligrosa banda de narcotraficantes.",
+        "anio": "2024",
+        "genero": "Acción, Suspense, Crimen",
+        "duracion": "90 min"
+      }
+    ]
+  },
+  {
+    "name": "Acción",
+    "samples": [
+      {
         "name": "Cóctel explosivo",
         "url": "http://144.217.70.79/VODS-M/1080P/Gunpowder%20Milkshake%202021.mkv",
         "icono": "https://image.tmdb.org/t/p/original/54rcNkxmG3EEBU5GuI3NL0W6gz.jpg",
@@ -19563,6 +19665,23 @@
         "anio": "1981",
         "genero": "Comedia",
         "duracion": "92 min"
+      }
+    ]
+  },
+  {
+    "name": "Comedia",
+    "samples": [
+      {
+        "name": "Hitch: Especialista en seducción",
+        "url": "http://144.217.70.79/VODS-M/1080P/Hitch%202005.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/oSAq1R4qtrkpIeZoOzvahuAE308.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fmDYTtZZQHLBAvvqgdXItqMXBNG.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/wVxHxmLoKe3CmIbg8lJ7x9LdPXf.png",
+        "type": "PELICULA",
+        "descripcion": "Alex Hitchens \"Hitch\" es conocido en su trabajo como el \"Doctor de las Citas\": es capaz de conseguir que una mujer se enamore del hombre más mediocre del que nunca imaginó que lo haría en tan solo tres citas. Hitch es un experto en mujeres, puede saber todo sobre ellas, más de lo que suelen imaginar ellas mismas, y se conoce todos los trucos que uno pueda imaginar para conseguir que sus clientes, normalmente personas inseguras y tímidas, acaben teniendo idilios con las mujeres más despampanantes de la ciudad. Cuando Sara Melas, una periodista sensacionalista procedente del mundo de los cotilleos, decide hundirle en los medios creándole una imagen de farsante, surgirá una gran atracción entre los dos, que pondrá a prueba todo lo que Hitch creía conocer sobre las mujeres.",
+        "anio": "2005",
+        "genero": "Comedia, Drama, Romance",
+        "duracion": "118 min"
       }
     ]
   },
@@ -22327,7 +22446,7 @@
         "name": "Tiburón",
         "url": "http://144.217.70.79/VODS-M/1080P/Jaws%201975.mkv",
         "icono": "https://image.tmdb.org/t/p/original/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/bW6GHF3Yg9fSsJGlRVHXlGY8vaM.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/zQkrucRvQd96JpDuboskaG3wgN6.png",
         "type": "PELICULA",
         "descripcion": "En la costa de un pequeño pueblo del Este de los Estados Unidos, un enorme tiburón ataca a varias personas. Por temor a los nefastos efectos que este hecho podría tener sobre el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón termina con la vida de un bañista. Cuando el terror se apodera de todos, un veterano cazador de tiburones, un oceanógrafo y el jefe de la policía local se unen para capturar al escualo.",
@@ -23681,6 +23800,23 @@
     ]
   },
   {
+    "name": "Drama",
+    "samples": [
+      {
+        "name": "Cruzada",
+        "url": "http://144.217.70.79/VODS-M/1080P/Kingdom%20of%20Heaven%202005.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/9RAdZn1pfRkeVSDwngvIQKsZd2Z.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/tJ5C1Ck3Y3YlyIBW8mlpHKJSHLJ.png",
+        "type": "PELICULA",
+        "descripcion": "Balian de Ibelin, un herrero francés se convierte en caballero durante las Cruzadas. En Tierra Santa, lucha por la paz y la justicia en medio del conflicto entre cristianos y musulmanes por el control de Jerusalén. Una historia épica de coraje, redención y sacrificio en medio del caos de la guerra.",
+        "anio": "2005",
+        "genero": "Drama, Acción, Aventura, Historia, Bélica",
+        "duracion": "144 min"
+      }
+    ]
+  },
+  {
     "name": "Acción",
     "samples": [
       {
@@ -23992,7 +24128,7 @@
       {
         "name": "La Dama y el Vagabundo II: Las aventuras de Scamp",
         "url": "http://144.217.70.79/VODS-M/1080P/Lady%20and%20The%20Tramp%202%20Scamps%20Adventure%202001.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/sjD9v91ig7WZnyr1VcilPg9nBmy.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/wHVa5xmRD4r2RT4peQMSQqz1hNs.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/rPIVGon9dNpgMvlGKqG2tvIG8vo.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/tqwj6VhgxfZGpOoHqyXMS7IQthF.png",
         "type": "PELICULA",
@@ -24475,7 +24611,7 @@
         "descripcion": "Durante un vuelo intercontinental, docenas de pasajeros desaparecen sin dejar rastro. Este insólito fenómeno se extiende al resto del mundo, donde miles de seres humanos se esfuman inexplicablemente. Mientras el mundo se precipita en el caos, un líder político se alza promoviendo la paz y el entendimiento. Pero ¿son sus intenciones tan blancas como parecen?",
         "anio": "2000",
         "genero": "Drama, Fantasía, Ciencia ficción, Suspense",
-        "duracion": "100 min"
+        "duracion": "98 min"
       }
     ]
   },
@@ -27183,6 +27319,23 @@
     ]
   },
   {
+    "name": "Aventura",
+    "samples": [
+      {
+        "name": "El eslabón",
+        "url": "http://144.217.70.79/VODS-M/1080P/Missing%20Link%201988.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/ipClUuR32dbJ5zP1TSrBWooQG6a.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lWwWIrggjwdW2pUSLezprlAezLr.jpg",
+        "iconpng": "",
+        "type": "PELICULA",
+        "descripcion": "Hace un millón de años, en África, el último de los australopitecos huye de los humanos, que mataron al resto de su clan. Solo, atraviesa estepas, desiertos y montañas hasta llegar a la costa. Pero allí ya hay humanos",
+        "anio": "1988",
+        "genero": "Aventura",
+        "duracion": "91 min"
+      }
+    ]
+  },
+  {
     "name": "Familia",
     "samples": [
       {
@@ -27332,40 +27485,6 @@
         "anio": "2011",
         "genero": "Acción, Suspense, Aventura",
         "duracion": "133 min"
-      }
-    ]
-  },
-  {
-    "name": "Acción",
-    "samples": [
-      {
-        "name": "Misión Imposible 5: Nación Secreta",
-        "url": "http://144.217.70.79/VODS-M/1080P/Mission%20impossible%20rogue%20nation%202015.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/q5twcJdIx9Swtl7CyzfvgQckWVK.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/39gQ0wzN2N2VPLgwpzr3ebbh0jl.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/uLxVOxhGqQjXfbjP6lKHbDPVyIc.png",
-        "type": "PELICULA",
-        "descripcion": "Ethan y su equipo se enfrentan a su misión más imposible hasta el momento cuando tienen que erradicar una organización internacional de delincuentes tan hábil como ellos y comprometida con la destrucción del FMI.",
-        "anio": "2015",
-        "genero": "Acción, Aventura",
-        "duracion": "131 min"
-      }
-    ]
-  },
-  {
-    "name": "Ciencia ficción",
-    "samples": [
-      {
-        "name": "Misión a Marte",
-        "url": "http://144.217.70.79/VODS-M/1080P/Mission%20to%20Mars%202000.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/6awYCvjGebF0I4vTV5tY3JZFU9U.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sEOUoGpJWIk1T58nU9qcXR398jY.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/8S53cAQyPbCmYGis5N5TKnHArpH.png",
-        "type": "PELICULA",
-        "descripcion": "En el año 2020 el comandante Luke Graham es seleccionado para dirigir la primera misión tripulada de la NASA a Marte. Una vez en el planeta rojo, descubre una antigua estructura con forma de domo que parece ser una especie de baliza. El domo mata a la tripulación y deja herido a Luc. El coronel Jim McConnell, recientemente enviudado, encabezará la segunda misión de rescate.",
-        "anio": "2000",
-        "genero": "Ciencia ficción, Aventura, Suspense",
-        "duracion": "114 min"
       }
     ]
   }

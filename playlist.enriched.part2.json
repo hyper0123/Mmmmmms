@@ -1,5 +1,39 @@
 [
   {
+    "name": "Acción",
+    "samples": [
+      {
+        "name": "Misión Imposible 5: Nación Secreta",
+        "url": "http://144.217.70.79/VODS-M/1080P/Mission%20impossible%20rogue%20nation%202015.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/q5twcJdIx9Swtl7CyzfvgQckWVK.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/39gQ0wzN2N2VPLgwpzr3ebbh0jl.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/uLxVOxhGqQjXfbjP6lKHbDPVyIc.png",
+        "type": "PELICULA",
+        "descripcion": "Ethan y su equipo se enfrentan a su misión más imposible hasta el momento cuando tienen que erradicar una organización internacional de delincuentes tan hábil como ellos y comprometida con la destrucción del FMI.",
+        "anio": "2015",
+        "genero": "Acción, Aventura",
+        "duracion": "131 min"
+      }
+    ]
+  },
+  {
+    "name": "Ciencia ficción",
+    "samples": [
+      {
+        "name": "Misión a Marte",
+        "url": "http://144.217.70.79/VODS-M/1080P/Mission%20to%20Mars%202000.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/6awYCvjGebF0I4vTV5tY3JZFU9U.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sEOUoGpJWIk1T58nU9qcXR398jY.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/8S53cAQyPbCmYGis5N5TKnHArpH.png",
+        "type": "PELICULA",
+        "descripcion": "En el año 2020 el comandante Luke Graham es seleccionado para dirigir la primera misión tripulada de la NASA a Marte. Una vez en el planeta rojo, descubre una antigua estructura con forma de domo que parece ser una especie de baliza. El domo mata a la tripulación y deja herido a Luc. El coronel Jim McConnell, recientemente enviudado, encabezará la segunda misión de rescate.",
+        "anio": "2000",
+        "genero": "Ciencia ficción, Aventura, Suspense",
+        "duracion": "114 min"
+      }
+    ]
+  },
+  {
     "name": "Comedia",
     "samples": [
       {
@@ -948,6 +982,23 @@
         "anio": "1973",
         "genero": "Comedia, Western",
         "duracion": "117 min"
+      }
+    ]
+  },
+  {
+    "name": "Comedia",
+    "samples": [
+      {
+        "name": "Mi yo del futuro",
+        "url": "http://144.217.70.79/VODS-M/1080P/My%20Old%20Ass%202024.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/e6AcxsoQny1iqsEVbrR1IjmDZpA.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/iPHsjvbFyGbeCEDC7u8Ib8U1zS6.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/YL5Ts1mBLnvbVjtKmMgKlRiB8T.png",
+        "type": "PELICULA",
+        "descripcion": "Elliott Labrant, a quien su futuro yo le ha aconsejado que no se enamore, está segura de que puede hacerlo después de recibir el consejo. Hasta que conoce al chico del que le advirtió su yo mayor.",
+        "anio": "2024",
+        "genero": "Comedia, Drama",
+        "duracion": "89 min"
       }
     ]
   },
@@ -3358,7 +3409,7 @@
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/j9xTJEarUcWLfMTHKZln6d1OagO.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/xmiRx9tG5SQLn1bPxJZTyAFhjCw.png",
         "type": "PELICULA",
-        "descripcion": "Un misterioso desconocido y posiblemente venido de otro mundo llega al rescate de un pueblo fronterizo que vive acosado por un grupo de pistoleros. La paz de esa pequeña comunidad minera se hizo añicos cuando LaHood Coy, el despiadado propietario de la poderosa empresa encargada de la extracción de la mina, tomó el control del territorio junto a su hijo Josh y sus mercenarios a sueldo. Es entonces cuando llega a lomos de un caballo pálido el Predicador, un forastero que une fuerzas con Hull Barrett, el líder de los mineros, y juntos plantan cara a LaHood y sus compinches. Hombre de escasas palabras, el Predicador y el aura de misterio que lo rodea van consiguiendo el favor de los locales. Poco a poco, junto a Hull irá organizando a los mineros para luchar contra los invasores y lograr expulsarlos del pueblo de una vez por todas y para siempre.",
+        "descripcion": "Un grupo de colonos buscadores de oro se establece en un lugar de California, pero sufren el acoso de los hombres de Lahood, el propietario del resto de las explotaciones mineras. Pero un día al poblado llega un misterioso y frío predicador (Clint Eastwood) que se pone de parte de los colonos, y comienza a enfrentarse al temido cacique local.",
         "anio": "1985",
         "genero": "Western, Drama",
         "duracion": "113 min"
@@ -9476,7 +9527,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Spaceballs%201987.mkv",
         "icono": "https://image.tmdb.org/t/p/original/kO0lVdkp5pawQFZl1YKCh30pXCU.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/i45FVfTSDu2n2DVpp99XAZguQJt.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/2CPWdG56oq5xYxVkJXwccY9QrBB.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/mIHcGYzDo4d2VaRSzmuMEjJJ2L4.png",
         "type": "PELICULA",
         "descripcion": "La princesa Vespa decide huir justo antes de su boda con el príncipe Valium, para ello se lleva a su robot Dot Matrix y una pequeña nave espacial. Ante esto su padre, el rey Roland de Druidia ofrece una recompensa a quien encuentre a su hija. La recompensa interesa mucho a Lone Starr y a su ayudante Vomito Barf  que deben mucho dinero a un delincuente llamado Pizza el Hutt. En su huida la princesa Vespa es interceptada por la nave del malvado Lord Casco Oscuro que trabaja para el presidente del planeta Spaceballs, que ansía el aire puro del planeta Druidia. Lone Starr, con la ayuda del maestro Yogurt, que le enseña a usar la suerte, debe rescatar a la princesa y acabar con los Spaceball.",
         "anio": "1987",
@@ -13722,6 +13773,23 @@
     "name": "Drama",
     "samples": [
       {
+        "name": "El Día que la Tierra se Detuvo",
+        "url": "http://144.217.70.79/VODS-M/1080P/The%20Day%20the%20Earth%20Stood%20Still%202008.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/goeKLdunnK9GClRVWSXm6bgiKoR.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/f76W2M4KW9gt7rJBpONAa26wAjR.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/1UMbVSDrFWYpTeYnzcL8rLtfDoi.png",
+        "type": "PELICULA",
+        "descripcion": "Un día la Dr. Helen Benson (Jennifer Connelly) es sacada repentinamente de su casa por la Agencia de Seguridad Nacional, y llevada junto a otros científicos para intentar explicar las causas de un misterioso objeto del espacio que va a chocar de forma inmintente contra la isla de Manhattan. Pero la colisión no se produce pues el OVNI, que resulta ser una nave espacial de origen desconocido, aterriza en medio de Central Park. Las extraordinarias circustancias que siguen a tan prodigioso acontecimiento, con el planeta entero en estado de shock, llevarán a Helen a conocer a Klaatu (Keanu Reeves), un extraterrestre humanoide que dice llegar a la Tierra -aparentemente con fines pacíficos- para advertir a la población...",
+        "anio": "2008",
+        "genero": "Drama, Ciencia ficción, Suspense",
+        "duracion": "110 min"
+      }
+    ]
+  },
+  {
+    "name": "Drama",
+    "samples": [
+      {
         "name": "The Death and Life of Bobby Z",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Death%20and%20Life%20of%20Bobby%20Z%202007.mkv",
         "icono": "https://image.tmdb.org/t/p/original/otL2H9nJOSuBS80qAjiE1YtoipY.jpg",
@@ -15313,6 +15381,23 @@
         "anio": "1992",
         "genero": "Drama, Suspense",
         "duracion": "110 min"
+      }
+    ]
+  },
+  {
+    "name": "Suspense",
+    "samples": [
+      {
+        "name": "El Fin de Los Tiempos",
+        "url": "http://144.217.70.79/VODS-M/1080P/The%20Happening%202008.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/c2MWgaiUkyoknS4lf0iFvPxuxR6.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/6moXpp6y1EZ6pfnSxnKFMrbFnWv.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/8JW5QYIYvPpux6bibi3IP9RXYvS.png",
+        "type": "PELICULA",
+        "descripcion": "En unos minutos, en las principales ciudades de Estados Unidos, se producen unas extrañas y escalofriantes muertes que escapan a toda explicación. Elliot Moore (Wahlberg), un profesor de ciencias de Filadelfia, intentando eludir este misterioso y letal fenómeno, se dirige a Pensilvania con su mujer (Deschanel), su amigo Julian (Leguizamo) y la hija de éste; sin embargo, pronto queda de manifiesto que ningún lugar es seguro. Pero, de repente, Elliot empieza a vislumbrar la verdadera naturaleza de lo que está ocurriendo…",
+        "anio": "2008",
+        "genero": "Suspense, Ciencia ficción",
+        "duracion": "89 min"
       }
     ]
   },
@@ -21216,6 +21301,23 @@
     ]
   },
   {
+    "name": "Comedia",
+    "samples": [
+      {
+        "name": "Sin previo aviso",
+        "url": "http://144.217.70.79/VODS-M/1080P/The%20Uninvited%202024.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/hykONDejqyakDsJuEgWeZwdOAOI.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/61u74L4YISOmFoCSjkgKNSLVivQ.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/3wHdQrp8yX9FjWeSTSBmOQCObxt.png",
+        "type": "PELICULA",
+        "descripcion": "Rose y su marido, el agente Sammy, organizan una glamurosa cena para impresionar a su importante cliente Gerald. La noche descarrila cuando un anciano desconocido y el ex de Rose, el encantador de Hollywood Lucien, se cuelan en la escena. Mientras las copas corren y los secretos se derraman, la ambición y la identidad chocan.",
+        "anio": "2025",
+        "genero": "Comedia, Drama",
+        "duracion": "98 min"
+      }
+    ]
+  },
+  {
     "name": "Crimen",
     "samples": [
       {
@@ -24765,6 +24867,23 @@
         "anio": "2000",
         "genero": "Terror, Misterio",
         "duracion": "97 min"
+      }
+    ]
+  },
+  {
+    "name": "Misterio",
+    "samples": [
+      {
+        "name": "Bienvenidos a Utopía",
+        "url": "http://144.217.70.79/VODS-M/1080P/Utopia%202024.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/81PlfsAsb2wLY56UsbnUpMn80xh.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/79tWkw0oc4Az96bzw5jGsMI05DS.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/tbC8T4a3lcoCNK2SnMfcNA5yZre.png",
+        "type": "PELICULA",
+        "descripcion": "Un soldado investiga la desaparición de su esposa y se infiltra en las instalaciones creyendo que ha sido víctima de la trata. Descubre que se trata de un parque de fantasía futurista en el que realidad e ilusión se confunden, lo que complica su búsqueda de la verdad sobre el destino de la mujer.",
+        "anio": "2024",
+        "genero": "Misterio, Suspense, Acción, Ciencia ficción",
+        "duracion": "93 min"
       }
     ]
   },

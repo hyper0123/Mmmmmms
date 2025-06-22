@@ -7653,23 +7653,6 @@
         "name": "",
         "samples": [
             {
-                "name": "Broke",
-                "url": "http://144.217.70.79/VODS-M/1080P/Broke%202025.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
                 "name": "Brokeback Mountain",
                 "url": "http://144.217.70.79/VODS-M/1080P/Brokeback%20Mountain%202005.mkv",
                 "icono": "",
@@ -11716,23 +11699,6 @@
         "name": "",
         "samples": [
             {
-                "name": "Deep Cover",
-                "url": "http://144.217.70.79/VODS-M/1080P/Deep%20Cover%202025.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
                 "name": "Deep Fear",
                 "url": "http://144.217.70.79/VODS-M/1080P/Deep%20Fear%202023.mkv",
                 "icono": "",
@@ -13858,23 +13824,6 @@
         "name": "",
         "samples": [
             {
-                "name": "Echo Valley",
-                "url": "http://144.217.70.79/VODS-M/1080P/Echo%20Valley%202025.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
                 "name": "Ederlezi Rising",
                 "url": "http://144.217.70.79/VODS-M/1080P/Ederlezi%20Rising%202018.mkv",
                 "icono": "",
@@ -15804,23 +15753,6 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2000",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "Final Destination Bloodlines",
-                "url": "http://144.217.70.79/VODS-M/1080P/Final%20Destination%20Bloodlines%202025.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
                 "genero": "",
                 "duracion": ""
             }
@@ -18431,23 +18363,6 @@
         "name": "",
         "samples": [
             {
-                "name": "Gunner",
-                "url": "http://144.217.70.79/VODS-M/1080P/Gunner%202024.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
                 "name": "Gunpowder Milkshake",
                 "url": "http://144.217.70.79/VODS-M/1080P/Gunpowder%20Milkshake%202021.mkv",
                 "icono": "",
@@ -19663,23 +19578,6 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "1981",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "Hitch",
-                "url": "http://144.217.70.79/VODS-M/1080P/Hitch%202005.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2005",
                 "genero": "",
                 "duracion": ""
             }
@@ -23803,23 +23701,6 @@
         "name": "",
         "samples": [
             {
-                "name": "Kingdom of Heaven",
-                "url": "http://144.217.70.79/VODS-M/1080P/Kingdom%20of%20Heaven%202005.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2005",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
                 "name": "Kingdom of Swords",
                 "url": "http://144.217.70.79/VODS-M/1080P/Kingdom%20of%20Swords%202018.mkv",
                 "icono": "",
@@ -27323,23 +27204,6 @@
         "samples": [
             {
                 "name": "Missing Link",
-                "url": "http://144.217.70.79/VODS-M/1080P/Missing%20Link%201988.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "1988",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "Missing Link",
                 "url": "http://144.217.70.79/VODS-M/1080P/Missing%20Link%202019.mkv",
                 "icono": "",
                 "iconoHorizontal": "",
@@ -28469,23 +28333,6 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "1973",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "My Old Ass",
-                "url": "http://144.217.70.79/VODS-M/1080P/My%20Old%20Ass%202024.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
                 "genero": "",
                 "duracion": ""
             }
@@ -41253,23 +41100,6 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2004",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "The Day the Earth Stood Still",
-                "url": "http://144.217.70.79/VODS-M/1080P/The%20Day%20the%20Earth%20Stood%20Still%202008.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2008",
                 "genero": "",
                 "duracion": ""
             }

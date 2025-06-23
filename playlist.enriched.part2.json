@@ -1,22 +1,5 @@
 [
   {
-    "name": "Acción",
-    "samples": [
-      {
-        "name": "Misión Imposible 5: Nación Secreta",
-        "url": "http://144.217.70.79/VODS-M/1080P/Mission%20impossible%20rogue%20nation%202015.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/q5twcJdIx9Swtl7CyzfvgQckWVK.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/39gQ0wzN2N2VPLgwpzr3ebbh0jl.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/uLxVOxhGqQjXfbjP6lKHbDPVyIc.png",
-        "type": "PELICULA",
-        "descripcion": "Ethan y su equipo se enfrentan a su misión más imposible hasta el momento cuando tienen que erradicar una organización internacional de delincuentes tan hábil como ellos y comprometida con la destrucción del FMI.",
-        "anio": "2015",
-        "genero": "Acción, Aventura",
-        "duracion": "131 min"
-      }
-    ]
-  },
-  {
     "name": "Ciencia ficción",
     "samples": [
       {
@@ -982,23 +965,6 @@
         "anio": "1973",
         "genero": "Comedia, Western",
         "duracion": "117 min"
-      }
-    ]
-  },
-  {
-    "name": "Comedia",
-    "samples": [
-      {
-        "name": "Mi yo del futuro",
-        "url": "http://144.217.70.79/VODS-M/1080P/My%20Old%20Ass%202024.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/e6AcxsoQny1iqsEVbrR1IjmDZpA.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/iPHsjvbFyGbeCEDC7u8Ib8U1zS6.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/YL5Ts1mBLnvbVjtKmMgKlRiB8T.png",
-        "type": "PELICULA",
-        "descripcion": "Elliott Labrant, a quien su futuro yo le ha aconsejado que no se enamore, está segura de que puede hacerlo después de recibir el consejo. Hasta que conoce al chico del que le advirtió su yo mayor.",
-        "anio": "2024",
-        "genero": "Comedia, Drama",
-        "duracion": "89 min"
       }
     ]
   },
@@ -13773,23 +13739,6 @@
     "name": "Drama",
     "samples": [
       {
-        "name": "El Día que la Tierra se Detuvo",
-        "url": "http://144.217.70.79/VODS-M/1080P/The%20Day%20the%20Earth%20Stood%20Still%202008.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/goeKLdunnK9GClRVWSXm6bgiKoR.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/f76W2M4KW9gt7rJBpONAa26wAjR.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/1UMbVSDrFWYpTeYnzcL8rLtfDoi.png",
-        "type": "PELICULA",
-        "descripcion": "Un día la Dr. Helen Benson (Jennifer Connelly) es sacada repentinamente de su casa por la Agencia de Seguridad Nacional, y llevada junto a otros científicos para intentar explicar las causas de un misterioso objeto del espacio que va a chocar de forma inmintente contra la isla de Manhattan. Pero la colisión no se produce pues el OVNI, que resulta ser una nave espacial de origen desconocido, aterriza en medio de Central Park. Las extraordinarias circustancias que siguen a tan prodigioso acontecimiento, con el planeta entero en estado de shock, llevarán a Helen a conocer a Klaatu (Keanu Reeves), un extraterrestre humanoide que dice llegar a la Tierra -aparentemente con fines pacíficos- para advertir a la población...",
-        "anio": "2008",
-        "genero": "Drama, Ciencia ficción, Suspense",
-        "duracion": "110 min"
-      }
-    ]
-  },
-  {
-    "name": "Drama",
-    "samples": [
-      {
         "name": "The Death and Life of Bobby Z",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Death%20and%20Life%20of%20Bobby%20Z%202007.mkv",
         "icono": "https://image.tmdb.org/t/p/original/otL2H9nJOSuBS80qAjiE1YtoipY.jpg",
@@ -15381,23 +15330,6 @@
         "anio": "1992",
         "genero": "Drama, Suspense",
         "duracion": "110 min"
-      }
-    ]
-  },
-  {
-    "name": "Suspense",
-    "samples": [
-      {
-        "name": "El Fin de Los Tiempos",
-        "url": "http://144.217.70.79/VODS-M/1080P/The%20Happening%202008.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/c2MWgaiUkyoknS4lf0iFvPxuxR6.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/6moXpp6y1EZ6pfnSxnKFMrbFnWv.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/8JW5QYIYvPpux6bibi3IP9RXYvS.png",
-        "type": "PELICULA",
-        "descripcion": "En unos minutos, en las principales ciudades de Estados Unidos, se producen unas extrañas y escalofriantes muertes que escapan a toda explicación. Elliot Moore (Wahlberg), un profesor de ciencias de Filadelfia, intentando eludir este misterioso y letal fenómeno, se dirige a Pensilvania con su mujer (Deschanel), su amigo Julian (Leguizamo) y la hija de éste; sin embargo, pronto queda de manifiesto que ningún lugar es seguro. Pero, de repente, Elliot empieza a vislumbrar la verdadera naturaleza de lo que está ocurriendo…",
-        "anio": "2008",
-        "genero": "Suspense, Ciencia ficción",
-        "duracion": "89 min"
       }
     ]
   },
@@ -21301,23 +21233,6 @@
     ]
   },
   {
-    "name": "Comedia",
-    "samples": [
-      {
-        "name": "Sin previo aviso",
-        "url": "http://144.217.70.79/VODS-M/1080P/The%20Uninvited%202024.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/hykONDejqyakDsJuEgWeZwdOAOI.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/61u74L4YISOmFoCSjkgKNSLVivQ.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/3wHdQrp8yX9FjWeSTSBmOQCObxt.png",
-        "type": "PELICULA",
-        "descripcion": "Rose y su marido, el agente Sammy, organizan una glamurosa cena para impresionar a su importante cliente Gerald. La noche descarrila cuando un anciano desconocido y el ex de Rose, el encantador de Hollywood Lucien, se cuelan en la escena. Mientras las copas corren y los secretos se derraman, la ambición y la identidad chocan.",
-        "anio": "2025",
-        "genero": "Comedia, Drama",
-        "duracion": "98 min"
-      }
-    ]
-  },
-  {
     "name": "Crimen",
     "samples": [
       {
@@ -23301,7 +23216,7 @@
         "type": "PELICULA",
         "descripcion": "Año 3208. La Tierra está siendo atacada por los malvados alienígenas Drej, una raza altamente evolucionada hecha de energía pura. En medio del caos, miles de naves han de despegar de la superficie de la Tierra; el científico Sam Tucker llama a su hijo, Cale, un niño de cinco años, y le manda lejos de la Tierra en una nave espacial para que esté a salvo. Tucker se marcha en la nave espacial Titan -la astronave mejor dotada de la galaxia- porque es el único rayo de esperanza ante el desastre que se presagia. De repente, una ráfaga de la nave nodriza de los Drej envía a la Tierra fuera de control...",
         "anio": "2000",
-        "genero": "Animación, Acción, Ciencia ficción, Familia, Aventura",
+        "genero": "Animación, Ciencia ficción, Aventura, Familia, Acción",
         "duracion": "90 min"
       }
     ]
@@ -23585,7 +23500,7 @@
         "name": "Toy Story 3",
         "url": "http://144.217.70.79/VODS-M/1080P/Toy%20Story%203%202010.mkv",
         "icono": "https://image.tmdb.org/t/p/original/pb547eLMX6XBV5U98BSGRYmM2VW.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/rtVRqcMq5zbimjlp2Dw1NbG9FeH.png",
         "type": "PELICULA",
         "descripcion": "Los juguetes son entregados por error a una guardería en lugar del ático justo antes de que Andy se vaya a la universidad, y depende de Woody convencer a los otros juguetes de que no fueron abandonados y volver a casa.",
@@ -24871,23 +24786,6 @@
     ]
   },
   {
-    "name": "Misterio",
-    "samples": [
-      {
-        "name": "Bienvenidos a Utopía",
-        "url": "http://144.217.70.79/VODS-M/1080P/Utopia%202024.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/81PlfsAsb2wLY56UsbnUpMn80xh.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/79tWkw0oc4Az96bzw5jGsMI05DS.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/tbC8T4a3lcoCNK2SnMfcNA5yZre.png",
-        "type": "PELICULA",
-        "descripcion": "Un soldado investiga la desaparición de su esposa y se infiltra en las instalaciones creyendo que ha sido víctima de la trata. Descubre que se trata de un parque de fantasía futurista en el que realidad e ilusión se confunden, lo que complica su búsqueda de la verdad sobre el destino de la mujer.",
-        "anio": "2024",
-        "genero": "Misterio, Suspense, Acción, Ciencia ficción",
-        "duracion": "93 min"
-      }
-    ]
-  },
-  {
     "name": "Historia",
     "samples": [
       {
@@ -25233,7 +25131,7 @@
       {
         "name": "Vivarium",
         "url": "http://144.217.70.79/VODS-M/1080P/Vivarium%202019.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/3gkAyLCMbqolDynUfJXN0vK7Ony.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/cWO9yPLhInkrLANC4KwKgFGedP8.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/zLa8fA7boGtNoNH7n6iYi9UqoaH.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/oW2houZgxJtbhQw9hGXnqX49lof.png",
         "type": "PELICULA",
@@ -25369,7 +25267,7 @@
       {
         "name": "Se Busca",
         "url": "http://144.217.70.79/VODS-M/1080P/Wanted%202008.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/jtBIX4I3jDVciEp0hoDN6Vwo5gs.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/6ZQIQ7GBwtZFW90kfI19KYGDX5.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/qqhzXiNyCotzJdyEbi41EtzYYYI.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/nkbw4hiQTHIv1Dzzjw7OFQ0kdmB.png",
         "type": "PELICULA",
@@ -25539,7 +25437,7 @@
       {
         "name": "La Última Pelea",
         "url": "http://144.217.70.79/VODS-M/1080P/Warrior%202011.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/p79k98xykfrbpA8oOGAqjqK2C4O.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/1Gf0SXdXYiqXiJO8SjVAEZd51kJ.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/1PnRPz4A4AguUEVOTcprIyctrax.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/lZjuyPWbbNxKXLqHsAS9xxZga6q.png",
         "type": "PELICULA",
@@ -27319,7 +27217,7 @@
     ]
   },
   {
-    "name": "Comedia",
+    "name": "Terror",
     "samples": [
       {
         "name": "Zombieland 2: Tiro de Gracia",
@@ -27330,7 +27228,7 @@
         "type": "PELICULA",
         "descripcion": "En esta secuela y empleando el característico sentido del humor del que hizo gala \"Zombieland\" (Tierra de Zombies), el grupo de protagonistas tendrá que viajar desde la Casa Blanca hasta el corazón de los Estados Unidos, sobreviviendo a nuevas clases de muertos vivientes que han evolucionado desde lo sucedido hace algunos años, así como a algunos supervivientes humanos rezagados. Pero, por encima de todo, tendrán que tratar de soportar los inconvenientes de convivir entre ellos.",
         "anio": "2019",
-        "genero": "Comedia, Terror, Acción",
+        "genero": "Terror, Comedia",
         "duracion": "99 min"
       }
     ]

@@ -7650,23 +7650,6 @@
     ]
   },
   {
-    "name": "Western",
-    "samples": [
-      {
-        "name": "Empezar de nuevo",
-        "url": "http://144.217.70.79/VODS-M/1080P/Broke%202025.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/4I0OOU9ALso0fjavHJRkXjUFMZo.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/x1MiX7zp3vBUKONBfvW3v5cnHK2.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/zalvUi4ZRIzuMrW4Aru2defpfhA.png",
-        "type": "PELICULA",
-        "descripcion": "True Brandywine es un jinete de caballos salvajes que se aferra a su decadente carrera en el rodeo. Cuando queda atrapado en una inesperada tormenta de nieve, deberá enfrentarse a heridas, enfermedades y un frío implacable. Mientras lucha por sobrevivir enfrentará las decisiones vitales que lo llevaron a su precaria situación.",
-        "anio": "2025",
-        "genero": "Western, Drama",
-        "duracion": "104 min"
-      }
-    ]
-  },
-  {
     "name": "Drama",
     "samples": [
       {
@@ -9628,7 +9611,7 @@
         "name": "Cocoon",
         "url": "http://144.217.70.79/VODS-M/1080P/Cocoon%201985.mkv",
         "icono": "https://image.tmdb.org/t/p/original/osyR4zl0hBivH7leFTy11vFGjhX.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/SOROsJCXjEkeJ9zohXi7lEC58R.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ekEK9tRvpZVYPl5rjUA5cSWKsER.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/9ROc9c9VIObj8pQDPEfhdBJvsp3.png",
         "type": "PELICULA",
         "descripcion": "Un grupo de ancianos que viven en una residencia descubren la fuente de la eterna juventud. El único problema es que el lugar mágico pertenece a un grupo de extraterrestres, y desconocen si sus intenciones son amigables. Un espléndido reparto y acertadas dosis de sentimentalismo hicieron de este drama fantástico un gran éxito de taquilla",
@@ -9645,7 +9628,7 @@
         "name": "Cocoon: El Regreso",
         "url": "http://144.217.70.79/VODS-M/1080P/Cocoon%20The%20Return%201988.mkv",
         "icono": "https://image.tmdb.org/t/p/original/aRbsVnyVKWmbeG4m20I1Fr44g5C.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hvMbN6oWjXo2pv3c8IpfkFetvtX.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sPEfFg7tAviTEaXtIXLVByGqH0J.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/52asrEzgs7tU73MWV16cMcV9jrX.png",
         "type": "PELICULA",
         "descripcion": "Tras haberse marchado con los alienígenas, los ancianos de la residencia vuelven a la tierra para que sus amigos extraterrestres recuperen otras cápsulas pérdidas en el océano que corren peligro.",
@@ -11709,23 +11692,6 @@
         "anio": "1999",
         "genero": "Acción, Terror, Ciencia ficción",
         "duracion": "105 min"
-      }
-    ]
-  },
-  {
-    "name": "Acción",
-    "samples": [
-      {
-        "name": "Acto encubierto",
-        "url": "http://144.217.70.79/VODS-M/1080P/Deep%20Cover%202025.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lOje1iz4VYWELYWRkZAwI7oIJd0.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/2FenUzfnAejGno4j5ymycXte1gf.png",
-        "type": "PELICULA",
-        "descripcion": "Kat es una profesora de teatro de improvisación que empieza a preguntarse si ha dejado pasar su oportunidad de triunfar. Cuando un policía encubierto le ofrece el papel de su vida, Kat recluta a dos de sus alumnos para infiltrarse en el mundo criminal londinense haciéndose pasar por peligrosos delincuentes.",
-        "anio": "2025",
-        "genero": "Acción, Comedia, Crimen",
-        "duracion": "99 min"
       }
     ]
   },
@@ -13855,23 +13821,6 @@
     ]
   },
   {
-    "name": "Suspense",
-    "samples": [
-      {
-        "name": "Echo Valley",
-        "url": "http://144.217.70.79/VODS-M/1080P/Echo%20Valley%202025.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/1E4WCgTodyS7zo8pSp1gZlPO0th.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/aQ5nvQGT6mM6TliOM5iSgrKVF4C.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/ryopo6lf7pobwiN9fG7bvL7RMb9.png",
-        "type": "PELICULA",
-        "descripcion": "La vida retirada de Kate se ve interrumpida cuando su afligida hija aparece asustada y cubierta en sangre que no es suya. Mientras descubre la verdad, Kate se da cuenta de lo lejos que llega por su hija.",
-        "anio": "2025",
-        "genero": "Suspense, Drama",
-        "duracion": "105 min"
-      }
-    ]
-  },
-  {
     "name": "Ciencia ficción",
     "samples": [
       {
@@ -15806,23 +15755,6 @@
         "anio": "2000",
         "genero": "Terror",
         "duracion": "98 min"
-      }
-    ]
-  },
-  {
-    "name": "Terror",
-    "samples": [
-      {
-        "name": "Destino final lazos de sangre",
-        "url": "http://144.217.70.79/VODS-M/1080P/Final%20Destination%20Bloodlines%202025.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/4yQQK7xollVtzEVL5tPWtodlkyL.png",
-        "type": "PELICULA",
-        "descripcion": "Atragantada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie regresa a casa para encontrar a la única persona que podría romper el ciclo y salvar a su familia de la horrible muerte que inevitablemente les espera a todos.",
-        "anio": "2025",
-        "genero": "Terror, Misterio",
-        "duracion": "100 min"
       }
     ]
   },
@@ -18350,7 +18282,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Grown%20Ups%202010.mkv",
         "icono": "https://image.tmdb.org/t/p/original/r1mDA1SLjw2yiYhhLiAjrd2Pt1l.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/AeGcldwZf1MN6680cx6HU6MVwjV.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/aMHicmwyDgZaNC5JLlM1sN6XjaI.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/a3zNaWXNccx9FtbIbxY88qTBWZE.png",
         "type": "PELICULA",
         "descripcion": "Después de muchos años, su antiguo entrenador de basquet muere y cinco amigos deciden pasar un fin de semana, ahora con sus respectivas familias, en la casa de  antaño donde celebraron, el campeonato.",
         "anio": "2010",
@@ -18424,23 +18356,6 @@
         "anio": "2020",
         "genero": "Terror",
         "duracion": "75 min"
-      }
-    ]
-  },
-  {
-    "name": "Acción",
-    "samples": [
-      {
-        "name": "Tirador Implacable",
-        "url": "http://144.217.70.79/VODS-M/1080P/Gunner%202024.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/AciCwxRVdWSa6qpaewmrZU7KZ7i.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/bxwKC4qAbceMgHU1xCCTBK1eYdn.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/niumeVwcUWQUBLjvSReSDxzEzCy.png",
-        "type": "PELICULA",
-        "descripcion": "El veterano de guerra Lee Gunner intenta salvar a sus hijos, Luke y Travis, de una peligrosa banda de narcotraficantes.",
-        "anio": "2024",
-        "genero": "Acción, Suspense, Crimen",
-        "duracion": "90 min"
       }
     ]
   },
@@ -19665,23 +19580,6 @@
         "anio": "1981",
         "genero": "Comedia",
         "duracion": "92 min"
-      }
-    ]
-  },
-  {
-    "name": "Comedia",
-    "samples": [
-      {
-        "name": "Hitch: Especialista en seducción",
-        "url": "http://144.217.70.79/VODS-M/1080P/Hitch%202005.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/oSAq1R4qtrkpIeZoOzvahuAE308.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fmDYTtZZQHLBAvvqgdXItqMXBNG.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/wVxHxmLoKe3CmIbg8lJ7x9LdPXf.png",
-        "type": "PELICULA",
-        "descripcion": "Alex Hitchens \"Hitch\" es conocido en su trabajo como el \"Doctor de las Citas\": es capaz de conseguir que una mujer se enamore del hombre más mediocre del que nunca imaginó que lo haría en tan solo tres citas. Hitch es un experto en mujeres, puede saber todo sobre ellas, más de lo que suelen imaginar ellas mismas, y se conoce todos los trucos que uno pueda imaginar para conseguir que sus clientes, normalmente personas inseguras y tímidas, acaben teniendo idilios con las mujeres más despampanantes de la ciudad. Cuando Sara Melas, una periodista sensacionalista procedente del mundo de los cotilleos, decide hundirle en los medios creándole una imagen de farsante, surgirá una gran atracción entre los dos, que pondrá a prueba todo lo que Hitch creía conocer sobre las mujeres.",
-        "anio": "2005",
-        "genero": "Comedia, Drama, Romance",
-        "duracion": "118 min"
       }
     ]
   },
@@ -23092,7 +22990,7 @@
         "name": "Jumanji",
         "url": "http://144.217.70.79/VODS-M/1080P/Jumanji%201995.mkv",
         "icono": "https://image.tmdb.org/t/p/original/m67M2wXLKblJLuJlvF7qaGrGfCa.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/pb0FOvhen6lVcNJ7j9z61gnwvcI.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/qSxeCfWUUyht9hZgaaYmtPtTkw2.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/yPzXJPowK1oxmqNWZhMlJzEafzR.png",
         "type": "PELICULA",
         "descripcion": "Alan Parrish queda atrapado durante 25 años en un juego de mesa mágico y muy antiguo llamado Jumanji. Cuando por fin, es liberado por dos niños, una manada de animales exóticos queda también en libertad.",
@@ -23229,7 +23127,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Jurassic%20park%20II%20the%20lost%20world%201997.mkv",
         "icono": "https://image.tmdb.org/t/p/original/80pXV9DEd81rBGqmlPBLbvr6h9a.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/wWaHCtC5VDZuzk5D85k3KRMcnYf.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/pqMWSc1vdezAm20ei9yHixO7pcd.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/5l0OQDeUTjhqV9tQJ68aKqMMOKb.png",
         "type": "PELICULA",
         "descripcion": "Han pasado cuatro años desde la devastación del Parque Jurásico, y el Dr Malcom está a punto de descubrir que algo ha sobrevivido. En una isla de Costa Rica perteneciente a la Costa de las Cinco Muertes, los dinosaurios viven y se reproducen en libertad. Se trata de la llamada zona B: el lugar que servía como laboratorio genético. Después de que John Hammond llevara a la empresa a la bancarrota, su sobrino Peter ha tomado las riendas y está dispuesto a levantar la compañía explotando la peligrosa zona.",
         "anio": "1997",
@@ -23796,23 +23694,6 @@
         "anio": "2021",
         "genero": "",
         "duracion": ""
-      }
-    ]
-  },
-  {
-    "name": "Drama",
-    "samples": [
-      {
-        "name": "Cruzada",
-        "url": "http://144.217.70.79/VODS-M/1080P/Kingdom%20of%20Heaven%202005.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/9RAdZn1pfRkeVSDwngvIQKsZd2Z.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/tJ5C1Ck3Y3YlyIBW8mlpHKJSHLJ.png",
-        "type": "PELICULA",
-        "descripcion": "Balian de Ibelin, un herrero francés se convierte en caballero durante las Cruzadas. En Tierra Santa, lucha por la paz y la justicia en medio del conflicto entre cristianos y musulmanes por el control de Jerusalén. Una historia épica de coraje, redención y sacrificio en medio del caos de la guerra.",
-        "anio": "2005",
-        "genero": "Drama, Acción, Aventura, Historia, Bélica",
-        "duracion": "144 min"
       }
     ]
   },
@@ -27319,23 +27200,6 @@
     ]
   },
   {
-    "name": "Aventura",
-    "samples": [
-      {
-        "name": "El eslabón",
-        "url": "http://144.217.70.79/VODS-M/1080P/Missing%20Link%201988.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/ipClUuR32dbJ5zP1TSrBWooQG6a.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lWwWIrggjwdW2pUSLezprlAezLr.jpg",
-        "iconpng": "",
-        "type": "PELICULA",
-        "descripcion": "Hace un millón de años, en África, el último de los australopitecos huye de los humanos, que mataron al resto de su clan. Solo, atraviesa estepas, desiertos y montañas hasta llegar a la costa. Pero allí ya hay humanos",
-        "anio": "1988",
-        "genero": "Aventura",
-        "duracion": "91 min"
-      }
-    ]
-  },
-  {
     "name": "Familia",
     "samples": [
       {
@@ -27485,6 +27349,23 @@
         "anio": "2011",
         "genero": "Acción, Suspense, Aventura",
         "duracion": "133 min"
+      }
+    ]
+  },
+  {
+    "name": "Acción",
+    "samples": [
+      {
+        "name": "Misión Imposible 5: Nación Secreta",
+        "url": "http://144.217.70.79/VODS-M/1080P/Mission%20impossible%20rogue%20nation%202015.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/q5twcJdIx9Swtl7CyzfvgQckWVK.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/39gQ0wzN2N2VPLgwpzr3ebbh0jl.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/uLxVOxhGqQjXfbjP6lKHbDPVyIc.png",
+        "type": "PELICULA",
+        "descripcion": "Ethan y su equipo se enfrentan a su misión más imposible hasta el momento cuando tienen que erradicar una organización internacional de delincuentes tan hábil como ellos y comprometida con la destrucción del FMI.",
+        "anio": "2015",
+        "genero": "Acción, Aventura",
+        "duracion": "131 min"
       }
     ]
   }

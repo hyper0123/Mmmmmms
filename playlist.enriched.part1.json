@@ -3558,7 +3558,7 @@
       {
         "name": "Annabelle",
         "url": "http://144.217.70.79/VODS-M/1080P/Annabelle%202014.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/wktIMdLEtHSS7o6XO6q57KRYPWi.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/sFxgTJizaUUI3NByNT80oCVnkA2.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/eLPXcqgJPCEOf2cMwyTEXejRhrC.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/55yXzqRXL2pBuXuYEVUWBvit8VK.png",
         "type": "PELICULA",
@@ -17532,12 +17532,12 @@
       {
         "name": "Feroz",
         "url": "http://144.217.70.79/VODS-M/1080P/Ginger%20Snaps%202000.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/iKDXZDh41nEMpefDWAaFYYlr1aB.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/4NmAtQdttqG4d1jyIK3vJvuyMov.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/7GAgYVK29A4NADWhPbqC9c44X7P.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/p1knRE4fBme56vSmTXncBXvkwRl.png",
         "type": "PELICULA",
         "descripcion": "Brigitte y su hermana Ginger son dos adolescentes muy unidas... y aburridas de su rutinaria vida. Pero cierta noche en que deciden gastar una broma a un chico, Ginger acaba siendo atacada por una extraña criatura. Aunque se recupera milagrosamente de las heridas, Ginger no está bien: comienzan a crecerle pelos en las cicatrices, una cola asoma por la base de su espina dorsal y siente un deseo irrefrenable de sangre humana... se está convirtiendo en una mujer-lobo. Brigitte tiene que ayudar a su hermana y recurre a Sam, un joven enigmático, con fama de chico malo y muy aficionado a la botánica... Y mientras Brigitte lucha por proteger a Ginger, se convierte en cómplice de sus crímenes violentos e incontrolables.",
-        "anio": "2000",
+        "anio": "2001",
         "genero": "Fantasía, Terror, Drama, Suspense",
         "duracion": "108 min"
       }
@@ -18281,7 +18281,7 @@
         "name": "Son Como Niños",
         "url": "http://144.217.70.79/VODS-M/1080P/Grown%20Ups%202010.mkv",
         "icono": "https://image.tmdb.org/t/p/original/r1mDA1SLjw2yiYhhLiAjrd2Pt1l.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/AeGcldwZf1MN6680cx6HU6MVwjV.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kARonxQpuSZdFraTKlCThWOBCtu.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/a3zNaWXNccx9FtbIbxY88qTBWZE.png",
         "type": "PELICULA",
         "descripcion": "Después de muchos años, su antiguo entrenador de basquet muere y cinco amigos deciden pasar un fin de semana, ahora con sus respectivas familias, en la casa de  antaño donde celebraron, el campeonato.",
@@ -18343,19 +18343,19 @@
     ]
   },
   {
-    "name": "Terror",
+    "name": "Comedia",
     "samples": [
       {
-        "name": "The House Guest",
+        "name": "La Casa de Huéspedes",
         "url": "http://144.217.70.79/VODS-M/1080P/Guest%20House%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/riKbX8qFhW7T4tcx6tTQ2xZJeDs.jpg",
-        "iconoHorizontal": "",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/joSZjIzoXWqdtb2tRGlIlibscv8.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ltEBcy1KzBmSlZbkIbzfPGtQ3FE.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/lpseuFLjmViHdEX3dMdJRBnxWrR.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "Una pareja ve cómo su sueño de encontrar su hogar perfecto se convierte en pesadilla cuando el anterior dueño de la misma se dedica a entrar en ella a hurtadillas. Esta situación lleva a ambas partes a protagonizar una guerra que acaba destrozando tanto la casa como su matrimonio y, en última instancia, también sus vidas.",
         "anio": "2020",
-        "genero": "Terror",
-        "duracion": "75 min"
+        "genero": "Comedia",
+        "duracion": "84 min"
       }
     ]
   },
@@ -24752,7 +24752,7 @@
     ]
   },
   {
-    "name": "Aventura",
+    "name": "Acción",
     "samples": [
       {
         "name": "Arma Mortal 3",
@@ -24763,7 +24763,7 @@
         "type": "PELICULA",
         "descripcion": "Martin Riggs y Roger Murtaugh, la inigualable pareja de policías de Los Ángeles, se enfrentan a un difícil caso: armas confiscadas y a punto de ser destruidas han desaparecido de las dependencias policiales y están llegando a manos de los delincuentes más peligrosos de la ciudad.",
         "anio": "1992",
-        "genero": "Aventura, Acción, Comedia, Suspense, Crimen",
+        "genero": "Acción, Comedia, Suspense, Crimen",
         "duracion": "118 min"
       }
     ]

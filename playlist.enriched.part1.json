@@ -10103,7 +10103,7 @@
       {
         "name": "Cowboys & Aliens",
         "url": "http://144.217.70.79/VODS-M/1080P/Cowboys%20and%20Aliens%202011.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/5MrKD5qkFA9sWxP0V2Y793koZYG.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/sGXCYMzr1sCnGNVuRpB2TOWPWDA.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/5eCXAaz0fz3X5uWoz6FdyW4GNlA.png",
         "type": "PELICULA",
@@ -13623,7 +13623,7 @@
         "name": "Dunas",
         "url": "http://144.217.70.79/VODS-M/1080P/Dune%201984.mkv",
         "icono": "https://image.tmdb.org/t/p/original/5qTvYDiy7bIdXyknlId9xZPDoF.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/cAOaUTJzUG8vfXcThFNIC5tUMig.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5wJ2tckpvwcxGCAgZiccodwEJpf.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/oHWCwbvFy3pFwvPyL4saM7BBdKr.png",
         "type": "PELICULA",
         "descripcion": "En el año 10,191, el mundo está en guerra por el control del planeta desierto Dune, el único lugar donde se puede encontrar la sustancia de viaje en el tiempo 'Spice'. Pero cuando un líder cede el control, es solo para poder dar un golpe con algunos personajes desagradables.",
@@ -17532,7 +17532,7 @@
       {
         "name": "Feroz",
         "url": "http://144.217.70.79/VODS-M/1080P/Ginger%20Snaps%202000.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/4NmAtQdttqG4d1jyIK3vJvuyMov.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/iKDXZDh41nEMpefDWAaFYYlr1aB.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/7GAgYVK29A4NADWhPbqC9c44X7P.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/p1knRE4fBme56vSmTXncBXvkwRl.png",
         "type": "PELICULA",
@@ -23868,7 +23868,7 @@
     ]
   },
   {
-    "name": "Acción",
+    "name": "Animación",
     "samples": [
       {
         "name": "Kung Fu Panda",
@@ -23879,7 +23879,7 @@
         "type": "PELICULA",
         "descripcion": "Cuando el Valle de la Paz se ve amenazado, el perezoso Po el panda descubre su destino como el “elegido” y se entrena para convertirse en un héroe de kung fu, pero no será fácil transformar al vago desaliñado en un valiente guerrero. Depende del Maestro Shifu y los Cinco Furiosos: Tigresa, Grulla, Mantis, Víbora y Mono: intentarlo.",
         "anio": "2008",
-        "genero": "Acción, Aventura, Animación, Familia, Comedia",
+        "genero": "Animación, Familia, Comedia, Acción, Aventura",
         "duracion": "92 min"
       }
     ]

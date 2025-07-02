@@ -21239,7 +21239,7 @@
         "name": "Los Intocables",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Untouchables%201987.mkv",
         "icono": "https://image.tmdb.org/t/p/original/pVcWaUbFDL76ObIsReIBQ5ILMHv.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sF2REAiVUcN90lrMeLfmEuHJl4B.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/rMZMcUchb7et72aVSATxhhO6ppM.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/9Gj3MPa6HzmJkLBvUQz9r9imk98.png",
         "type": "PELICULA",
         "descripcion": "Chicago, años 30. Época de la Ley Seca. El idealista agente federal Eliot Ness persigue implacablemente al gángster Al Capone, amo absoluto del crimen organizado en la ciudad. La falta de pruebas le impide acusarlo de asesinato, extorsión y comercio ilegal de alcohol, pero Ness, con la ayuda de un par de intachables policías reclutados con la ayuda de un astuto agente, intentará encontrar algún medio para inculparlo por otra clase de delitos.",
@@ -21709,19 +21709,19 @@
     ]
   },
   {
-    "name": "Comedia",
+    "name": "Terror",
     "samples": [
       {
-        "name": "Las Brujas",
+        "name": "La noche de la bruja",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Witches%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/s1y92244iBlKW04rEnaEK8i8tPY.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/4lWr2j3ZSEe8qlt3W3ma8TiiMQB.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/3yR8YY4BVbIIPOLVYRPIX8dKcXT.png",
+        "icono": "https://image.tmdb.org/t/p/original/bNF1u2noPXiD4m81YDoxbtzlRLR.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/unkSO4YbgRz7AcH11vsiZm3Ni8T.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/u6UXW5cadRi90Ild36peQamirLT.png",
         "type": "PELICULA",
-        "descripcion": "Cuenta la conmovedora historia de un pequeño huérfano que, a finales de 1967, se va a vivir con su querida abuela a Demopolis, un pueblo de Alabama. El niño y su abuela tienen extraños encuentros con algunas brujas aparentemente glamurosas pero absolutamente diabólicas, así que ella decide quitarse de en medio y llevarse al chico a un hotel de lujo en la costa. Por desgracia, llegan exactamente al mismo tiempo que la Gran Bruja que ha reunido a sus compinches de todo el planeta -que van de incógnito- para llevar a cabo sus horribles planes. Adaptación del libro \"Las brujas\" de Roald Dahl.",
-        "anio": "2020",
-        "genero": "Comedia, Fantasía, Familia, Terror",
-        "duracion": "104 min"
+        "descripcion": "Jill, una tenaz estudiante recién incorporada a la universidad, abandona todos sus estudios para realizar un viaje centrado en practicar snowboard. Cuando su vehículo desaparece sin motivo aparente, la temperatura comienza a hacer mella entre los miembros de su grupo, dando así comienzo a una caza de brujas.",
+        "anio": "2019",
+        "genero": "Terror, Misterio, Suspense",
+        "duracion": "90 min"
       }
     ]
   },

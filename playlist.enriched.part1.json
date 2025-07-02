@@ -23851,7 +23851,7 @@
     ]
   },
   {
-    "name": "Acción",
+    "name": "Animación",
     "samples": [
       {
         "name": "Kung Fu Panda 3",
@@ -23862,7 +23862,7 @@
         "type": "PELICULA",
         "descripcion": "Mientras visita una aldea secreta de pandas con su padre, Po se ve obligado a improvisar un peculiar ejército para detener a un espíritu malvado que amenaza a toda China.",
         "anio": "2016",
-        "genero": "Acción, Aventura, Animación, Comedia, Familia",
+        "genero": "Animación, Acción, Aventura, Comedia, Familia",
         "duracion": "94 min"
       }
     ]
@@ -26678,7 +26678,7 @@
       {
         "name": "Hombres de Negro 3",
         "url": "http://144.217.70.79/VODS-M/1080P/Men%20in%20Black%203%202012.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/aWFNNnaIjbgml8blv7Nlj3BKfqD.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/rcVJtZCGnp39obbDKYred2mT9sE.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/5AhpUb8CAP0jZ4Wrn7AsRUYjZxB.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/flrXAfLsvyEgEADBKjHXRUuYYwW.png",
         "type": "PELICULA",

@@ -13787,19 +13787,19 @@
     ]
   },
   {
-    "name": "Terror",
+    "name": "Suspense",
     "samples": [
       {
-        "name": "La casa bajo el agua",
+        "name": "深宅迷案",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Deep%20House%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/hJyI1ziAnWmmzE8bOaZzJN7IqgM.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hzPcEqyxZauvKZmUT2aJxntWPVf.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/qsk5wLCvMTK0qAU5IFsgSYjlN4C.png",
+        "icono": "https://image.tmdb.org/t/p/original/q3NgVXMoxBPffoMmLu6mf5b7RFR.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/33lZExmTThFmWfil86MYzmSQ27v.jpg",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Tina y Ben son una pareja de jóvenes YouTubers que se especializan en videos de exploración submarina. Mientras se sumergen en un lago francés aislado, descubren una casa sumergida en aguas profundas. Lo que inicialmente fue un descubrimiento único se convierte rápidamente en una pesadilla cuando se dan cuenta de que la casa fue el escenario de un crimen atroz. Atrapados, sus reservas de oxígeno disminuyendo peligrosamente, Tina y Ben se dan cuenta de que lo peor está por llegar: no están solos en la casa.",
+        "descripcion": "",
         "anio": "2021",
-        "genero": "Terror, Misterio",
-        "duracion": "85 min"
+        "genero": "Suspense, Terror",
+        "duracion": "90 min"
       }
     ]
   },
@@ -18520,7 +18520,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Old%20Guard%202020.mkv",
         "icono": "https://image.tmdb.org/t/p/original/ktkn6wc2sb7uQ08ZsHaKPZNRUab.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/tCmiOQr3Lg929IGER6NdBwigRKH.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/bvxzhwGqNQSMwsPvZjht2sjByGR.png",
         "type": "PELICULA",
         "descripcion": "Cuatro guerreros inmortales que llevan siglos protegiendo a la humanidad son perseguidos por sus misteriosos poderes, justo cuando descubren a una nueva integrante.",
         "anio": "2020",
@@ -18943,7 +18943,7 @@
       {
         "name": "El experimento Filadelfia",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Philadelphia%20Experiment%201984.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/w2kwfDyHC9lquiGuZhJA2LohL33.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/3rPYcUMkZLibA75wzpqt2ivXxkD.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/gdd7b77GYNkEHSlDJuxiuzveJyo.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/vuK5Twf0SyCtxpeS4Q7G2mlpcxC.png",
         "type": "PELICULA",
@@ -20581,7 +20581,7 @@
         "type": "PELICULA",
         "descripcion": "Mientras trabaja bajo tierra para arreglar una tubería de agua, los plomeros de Brooklyn Mario y su hermano Luigi son transportados por una misteriosa tubería y llegan a un nuevo mundo mágico. Pero cuando los hermanos se separan, Mario se embarca en una búsqueda épica para encontrar a Luigi. Con la ayuda de un residente del Reino Champiñón, Toad y algo de entrenamiento de la gobernante del Reino Champiñón, la Princesa Peach, Mario conocerá su propio poder.",
         "anio": "2023",
-        "genero": "Familia, Comedia, Aventura, Animación",
+        "genero": "Familia, Comedia, Aventura, Animación, Fantasía",
         "duracion": "92 min"
       }
     ]
@@ -22239,16 +22239,16 @@
     "name": "Familia",
     "samples": [
       {
-        "name": "El libro de la selva",
+        "name": "El Libro de la Selva",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20jungle%20book%202016.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/uBKffnwwHGIkQET18gVPsyeDdjC.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/zj8XS0l1cWStpKnuD1LFMB3VoV1.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/lyKPMBW2VmCi2pQBts8CbsjBveH.png",
+        "icono": "https://image.tmdb.org/t/p/original/pQGB08Kxyt3TLN4L01E175BRcvu.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/8oYykF1Qhrb8fC2qZqD71EzRywg.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/rxczMszrZnGR4DQAenulHnwrmaT.png",
         "type": "PELICULA",
-        "descripcion": "Bagheera, la pantera, y Baloo, el oso, tienen dificultades para convencer a un niño de que abandone la selva para ir a la civilización humana.",
-        "anio": "1967",
-        "genero": "Familia, Animación, Aventura",
-        "duracion": "78 min"
+        "descripcion": "Mowgli, un niño criado en la selva por una manada de lobos, emprende un fascinante viaje de autodescubrimiento cuando se ve obligado a abandonar el único hogar que ha conocido en toda su vida.",
+        "anio": "2016",
+        "genero": "Familia, Aventura, Drama, Fantasía, Animación",
+        "duracion": "106 min"
       }
     ]
   },

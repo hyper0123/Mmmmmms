@@ -13606,7 +13606,7 @@
         "name": "El Cuervo",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Crow%201994.mkv",
         "icono": "https://image.tmdb.org/t/p/original/ywQsxaKU3BTT0UMq134qsU9n4IT.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/f1JmD60vV383EDKr86lqmPB4sOu.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/cLqvQbP2utIKHRonwXnDjY3l1kk.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/c8sZZzTfIYCWTRBlhwQRy2Pm4DE.png",
         "type": "PELICULA",
         "descripcion": "En Detroit, Míchigan, el músico de rock Eric Draven, es brutalmente asesinado al ser arrojado por una ventana de su departamento y su novia, Shelly Webster, que tras ser violada por varios hombres es llevada al hospital donde, unas horas después, muere también. El doble crimen fue perpetrado por una banda liderada por Top Dollar, la cual asola las entrañas de la ciudad. El asesinato se produce en una noche llamada la noche del diablo (noche antes de Halloween).\r Un año más tarde, Eric resucita gracias a la ayuda de un cuervo que lo devuelve a la vida; regresa a la ciudad donde fue asesinado con el único objetivo de vengarse.",
@@ -13787,19 +13787,19 @@
     ]
   },
   {
-    "name": "Suspense",
+    "name": "Terror",
     "samples": [
       {
-        "name": "深宅迷案",
+        "name": "La casa bajo el agua",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Deep%20House%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/q3NgVXMoxBPffoMmLu6mf5b7RFR.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/33lZExmTThFmWfil86MYzmSQ27v.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/hJyI1ziAnWmmzE8bOaZzJN7IqgM.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hzPcEqyxZauvKZmUT2aJxntWPVf.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/qsk5wLCvMTK0qAU5IFsgSYjlN4C.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "Tina y Ben son una pareja de jóvenes YouTubers que se especializan en videos de exploración submarina. Mientras se sumergen en un lago francés aislado, descubren una casa sumergida en aguas profundas. Lo que inicialmente fue un descubrimiento único se convierte rápidamente en una pesadilla cuando se dan cuenta de que la casa fue el escenario de un crimen atroz. Atrapados, sus reservas de oxígeno disminuyendo peligrosamente, Tina y Ben se dan cuenta de que lo peor está por llegar: no están solos en la casa.",
         "anio": "2021",
-        "genero": "Suspense, Terror",
-        "duracion": "90 min"
+        "genero": "Terror, Misterio",
+        "duracion": "85 min"
       }
     ]
   },
@@ -18520,7 +18520,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Old%20Guard%202020.mkv",
         "icono": "https://image.tmdb.org/t/p/original/ktkn6wc2sb7uQ08ZsHaKPZNRUab.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/bvxzhwGqNQSMwsPvZjht2sjByGR.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/ordKvX0WbtxSbHrwTWlDiq2dI1J.png",
         "type": "PELICULA",
         "descripcion": "Cuatro guerreros inmortales que llevan siglos protegiendo a la humanidad son perseguidos por sus misteriosos poderes, justo cuando descubren a una nueva integrante.",
         "anio": "2020",

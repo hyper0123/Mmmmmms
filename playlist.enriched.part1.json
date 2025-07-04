@@ -9616,7 +9616,7 @@
         "type": "PELICULA",
         "descripcion": "Un grupo de ancianos que viven en una residencia descubren la fuente de la eterna juventud. El único problema es que el lugar mágico pertenece a un grupo de extraterrestres, y desconocen si sus intenciones son amigables. Un espléndido reparto y acertadas dosis de sentimentalismo hicieron de este drama fantástico un gran éxito de taquilla",
         "anio": "1985",
-        "genero": "Comedia, Ciencia ficción, Misterio",
+        "genero": "Comedia, Ciencia ficción, Misterio, Drama",
         "duracion": "117 min"
       }
     ]
@@ -10477,7 +10477,7 @@
       {
         "name": "Juegos sexuales",
         "url": "http://144.217.70.79/VODS-M/1080P/Cruel%20Intentions%201999.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/wolYGCJdYmVeAYIztSSe9vd44By.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/c4hIfeTlAjTcy2LRRcNXPMCyf0L.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/m2QvGozzKz5ux74gKocn4kFTGz1.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/krlYDuBf5Rl99XuZS3jwP8aFSrY.png",
         "type": "PELICULA",
@@ -14814,7 +14814,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Extraction%202020.mkv",
         "icono": "https://image.tmdb.org/t/p/original/cNu6VozUfD9jjQUjGuGBRoMlpYA.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/A0b72HQ1t19sFMJcmlDW7zBDdCT.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/295xrMGdHZnP24y1POTYNoqf0jA.png",
         "type": "PELICULA",
         "descripcion": "Tyler Rake, un intrépido mercenario que ofrece sus servicios en el mercado negro, emprende una peligrosa misión cuando es contratado para rescatar al hijo secuestrado de un señor del crimen de Bombay.",
         "anio": "2020",
@@ -20536,19 +20536,19 @@
     ]
   },
   {
-    "name": "Terror",
+    "name": "Drama",
     "samples": [
       {
-        "name": "Cacería",
+        "name": "El Cazador",
         "url": "http://144.217.70.79/VODS-M/1080P/Hunter%20Hunter%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/ylpUeO4MppzOy5px8Wn39A1ZkDW.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/4obIhFZBUxn0aRL1hO1wMyPca8o.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/iJpT2XPLd7WPRZdpfFDJHWAAQAM.png",
+        "icono": "https://image.tmdb.org/t/p/original/6Lc0iKaZSDHRl0rpaNsQM4N2adS.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/r2JmewF2iCH3jdad5RjcTk7pY5b.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/vB2eQIQkiONdmo4qUbi2jaoXeBk.png",
         "type": "PELICULA",
-        "descripcion": "Joseph y su familia viven en un lugar remoto como cazadores de pieles, hasta que su tranquilidad empieza a ser amenazada por un lobo.",
+        "descripcion": "",
         "anio": "2020",
-        "genero": "Terror, Suspense, Misterio",
-        "duracion": "93 min"
+        "genero": "Drama",
+        "duracion": "101 min"
       }
     ]
   },
@@ -22344,7 +22344,7 @@
         "name": "Tiburón",
         "url": "http://144.217.70.79/VODS-M/1080P/Jaws%201975.mkv",
         "icono": "https://image.tmdb.org/t/p/original/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/bW6GHF3Yg9fSsJGlRVHXlGY8vaM.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/zQkrucRvQd96JpDuboskaG3wgN6.png",
         "type": "PELICULA",
         "descripcion": "En la costa de un pequeño pueblo del Este de los Estados Unidos, un enorme tiburón ataca a varias personas. Por temor a los nefastos efectos que este hecho podría tener sobre el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón termina con la vida de un bañista. Cuando el terror se apodera de todos, un veterano cazador de tiburones, un oceanógrafo y el jefe de la policía local se unen para capturar al escualo.",

@@ -25248,23 +25248,6 @@
         "name": "",
         "samples": [
             {
-                "name": "Logan",
-                "url": "http://144.217.70.79/VODS-M/1080P/Logan%202017.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2017",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
                 "name": "Logans Run",
                 "url": "http://144.217.70.79/VODS-M/1080P/Logans%20Run%201976.mkv",
                 "icono": "",
@@ -32575,23 +32558,6 @@
         "name": "",
         "samples": [
             {
-                "name": "Pride and Prejudice",
-                "url": "http://144.217.70.79/VODS-M/1080P/Pride%20and%20Prejudice%202005.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2005",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
                 "name": "Priest",
                 "url": "http://144.217.70.79/VODS-M/1080P/Priest%202011.mkv",
                 "icono": "",
@@ -39196,23 +39162,6 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2021",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "The Addams Family",
-                "url": "http://144.217.70.79/VODS-M/1080P/The%20Addams%20Family%201991.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "1991",
                 "genero": "",
                 "duracion": ""
             }

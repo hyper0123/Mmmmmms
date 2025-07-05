@@ -30892,6 +30892,23 @@
         "name": "",
         "samples": [
             {
+                "name": "Paradox Effect",
+                "url": "http://144.217.70.79/VODS-M/1080P/Paradox%20Effect%202024.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
                 "name": "Paranormal Activity Next of Kin",
                 "url": "http://144.217.70.79/VODS-M/1080P/Paranormal%20Activity%20Next%20of%20Kin%202021.mkv",
                 "icono": "",
@@ -39172,6 +39189,23 @@
         "samples": [
             {
                 "name": "The Addams Family",
+                "url": "http://144.217.70.79/VODS-M/1080P/The%20Addams%20Family%201991.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "1991",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "The Addams Family",
                 "url": "http://144.217.70.79/VODS-M/1080P/The%20Addams%20Family%202019.mkv",
                 "icono": "",
                 "iconoHorizontal": "",
@@ -41049,6 +41083,23 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2004",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "The Day the Earth Blew Up A Looney Tunes Movie",
+                "url": "http://144.217.70.79/VODS-M/1080P/The%20Day%20the%20Earth%20Blew%20Up%20A%20Looney%20Tunes%20Movie%202024.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
                 "genero": "",
                 "duracion": ""
             }

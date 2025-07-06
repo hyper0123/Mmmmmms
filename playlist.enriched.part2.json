@@ -1,22 +1,5 @@
 [
   {
-    "name": "Ciencia ficción",
-    "samples": [
-      {
-        "name": "Misión a Marte",
-        "url": "http://144.217.70.79/VODS-M/1080P/Mission%20to%20Mars%202000.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/6awYCvjGebF0I4vTV5tY3JZFU9U.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sEOUoGpJWIk1T58nU9qcXR398jY.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/8S53cAQyPbCmYGis5N5TKnHArpH.png",
-        "type": "PELICULA",
-        "descripcion": "En el año 2020 el comandante Luke Graham es seleccionado para dirigir la primera misión tripulada de la NASA a Marte. Una vez en el planeta rojo, descubre una antigua estructura con forma de domo que parece ser una especie de baliza. El domo mata a la tripulación y deja herido a Luc. El coronel Jim McConnell, recientemente enviudado, encabezará la segunda misión de rescate.",
-        "anio": "2000",
-        "genero": "Ciencia ficción, Aventura, Suspense",
-        "duracion": "114 min"
-      }
-    ]
-  },
-  {
     "name": "Comedia",
     "samples": [
       {
@@ -720,7 +703,7 @@
         "name": "Mufasa: El rey león",
         "url": "http://144.217.70.79/VODS-M/1080P/Mufasa%20The%20Lion%20King%202024.mkv",
         "icono": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/hP7eihpJolSy4LXgyNfghYgPztG.png",
         "type": "PELICULA",
         "descripcion": "Mufasa era un cachorro huérfano, perdido y solo hasta que conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
@@ -3536,6 +3519,23 @@
     ]
   },
   {
+    "name": "Acción",
+    "samples": [
+      {
+        "name": "Efecto paradoja",
+        "url": "http://144.217.70.79/VODS-M/1080P/Paradox%20Effect%202024.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/aRnCzJL8spJkfoiuld78LKOabiD.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xYyPLClpJiA5pq687pGjRel5qgf.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/p8U0rXAvQKIILiomv8eGFl1sM3D.png",
+        "type": "PELICULA",
+        "descripcion": "Susan (Olga Kurylenko) es testigo de un tiroteo detrás del restaurante en el que trabaja. Antes de que pueda huir de la escena del crimen, Covek, el asesino, la secuestra. En realidad, Covek es un policía corrupto amenazado por Silo (Harvey Keitel), un criminal que tiene a su hijo secuestrado. Susan hará todo lo posible para escapar, pero Covek, desesperado, hace que Silo secuestre a la hija de Susan para forzarla a que le ayude. Susan no tendrá otra opción que colaborar con Covek para salvar así la vida de los dos niños.",
+        "anio": "2024",
+        "genero": "Acción, Suspense",
+        "duracion": "88 min"
+      }
+    ]
+  },
+  {
     "name": "Terror",
     "samples": [
       {
@@ -5202,23 +5202,6 @@
     ]
   },
   {
-    "name": "Drama",
-    "samples": [
-      {
-        "name": "Orgullo y Prejuicio",
-        "url": "http://144.217.70.79/VODS-M/1080P/Pride%20and%20Prejudice%202005.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/x4OYcZVHggyZHOrvkCo2HH9kLkF.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/vuyRQbu5GHZcZ1Ky6SXLjO0QHnb.png",
-        "type": "PELICULA",
-        "descripcion": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
-        "anio": "2005",
-        "genero": "Drama, Romance",
-        "duracion": "127 min"
-      }
-    ]
-  },
-  {
     "name": "Acción",
     "samples": [
       {
@@ -5463,7 +5446,7 @@
         "name": "Pumpkinhead",
         "url": "http://144.217.70.79/VODS-M/1080P/Pumpkinhead%201988.mkv",
         "icono": "https://image.tmdb.org/t/p/original/iNbwe74Zn1reutmYTo5ZQStNUL.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xFIydr1zfzm3tgfZggSgRS1wtQ2.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/vCNXAsuDHxHT1ylHqTDSDqaehUG.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/xUsi0B8J18sdCbOPL6BJdboYXUH.png",
         "type": "PELICULA",
         "descripcion": "Ed Harley vive tranquila y despreocupada con su pequeño hijo Billy en una aldea remota y desierta en la América rural. Los dos dirigen una gasolinera en ruinas que puede servir como un centro de refrigerios para todos los viajeros que pasan de vez en cuando. Una mañana, poco después del horario de apertura, unos chicos llegan al lugar con la intención de pasar unas vacaciones inolvidables disfrutando del motocross. La llegada de ese pequeño grupo de chicos representará el principio del fin para el pobre Ed: de hecho, el pequeño Billy se verá envuelto en un fatal accidente provocado por una motocicleta. Y Harley, cegada por la ira y la desesperación por haber perdido a su amado hijo, se vuelve hacia una anciana, que se dice que es una bruja en el pueblo, para vengarse. La vieja bruja despertará, por deseo de Ed, el Pumpkinhead, un demonio monstruoso que inmediatamente irá tras los chicos para llevar a cabo una sangrienta venganza.",
@@ -8494,7 +8477,7 @@
         "type": "PELICULA",
         "descripcion": "Cuando el despiadado asesino en masa Horace Pinker es electrocutado por sus horribles crímenes, un pacto con el diablo le transforma en algo incluso más aterrador, un demonio sobrecargado capaz de poseer el cuerpo y la mente de los demás... y está decidido a seguir con su escalada de violencia.",
         "anio": "1989",
-        "genero": "Terror, Suspense, Comedia",
+        "genero": "Terror, Suspense",
         "duracion": "105 min"
       }
     ]
@@ -9339,7 +9322,7 @@
         "name": "Sorcerer",
         "url": "http://144.217.70.79/VODS-M/1080P/Sorcerer%201977.mkv",
         "icono": "https://image.tmdb.org/t/p/original/bQDI2LFEoNJWgmsQIaVvfV0jnOi.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5CQ6Qn1ujXRs21BtvAuJxHfL1sF.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/g7prwSflNODkHZI6792MYoU4qoh.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/3qMm2tVsmG4rncmjK3BCU8UcAVD.png",
         "type": "PELICULA",
         "descripcion": "",
@@ -9985,7 +9968,7 @@
         "name": "Star Wars: Episodio III - La Venganza de los Sith",
         "url": "http://144.217.70.79/VODS-M/1080P/Star%20Wars%20Episode%20III%20Revenge%20of%20the%20Sith%202005.mkv",
         "icono": "https://image.tmdb.org/t/p/original/5dj0ERxM8NxoiWBdlY6TT9PJmKi.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/aQX9Hc4pCdbkzf4Oz6FMSpujagV.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/76j2A4GsdfqLBcGymKOCY4qdxOx.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/uqVHXsqPzsLyq1M4xfsglaZSN7l.png",
         "type": "PELICULA",
         "descripcion": "Años después del inicio de las Guerras Clon, los nobles Caballeros Jedi lideran un masivo ejército clon en una batalla de galaxia contra los Separatistas. Cuando los siniestros Sith revelan un complot de mil años para gobernar la galaxia, la República se derrumba y de sus cenizas surge el malvado Imperio Galáctico. El héroe Jedi Anakin Skywalker es seducido por el lado oscuro de la Fuerza para convertirse en el nuevo aprendiz del Emperador: Darth Vader. Los Jedi están diezmados, mientras Obi-Wan Kenobi y el Maestro Jedi Yoda son forzados a esconderse. La única esperanza para la galaxia es la descendencia de Anakin: los hijos gemelos nacidos en secreto que crecerán y se convertirán en héroes.",
@@ -11582,7 +11565,7 @@
       {
         "name": "Terrifier",
         "url": "http://144.217.70.79/VODS-M/1080P/Terrifier%202016.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/4lwh4MX2yCogHflyAYMRbfdnpnm.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/z1mv8jZa7wzyGGWy10iMUyGyHVX.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/8jhC6AOSa6cj9brcQFHpk1hagk7.png",
         "type": "PELICULA",
@@ -12053,7 +12036,7 @@
     ]
   },
   {
-    "name": "Crimen",
+    "name": "Acción",
     "samples": [
       {
         "name": "El Arte De La Guerra",
@@ -12064,7 +12047,7 @@
         "type": "PELICULA",
         "descripcion": "Cuando los terroristas despiadados amenazan con derribar las Naciones Unidas, enmarcan a un hombre que creen los puede parar: un experto de seguridad internacional llamó a Shaw. Ahora debe correr de sus propios aliados y hacerse una fuerza solitaria para siempre, ya que trata de parar lo que se podría hacer la Tercera Guerra Mundial.",
         "anio": "2000",
-        "genero": "Crimen, Acción, Aventura",
+        "genero": "Acción, Suspense, Crimen",
         "duracion": "117 min"
       }
     ]
@@ -13152,7 +13135,7 @@
         "type": "PELICULA",
         "descripcion": "Mike Myers protagoniza esta película en el papel del travieso visitante felino con sombrero que enseña a dos niños que \"es divertido divertirse pero hay que saber cómo hacerlo\". Dakota Fanning y Spencer Breslin encarnan a los dos niños que tienen el placer de presenciar la anárquica conducta del gato y su habilidad para divertirse desafiando las leyes de la gravedad. Kelly Preston hace el papel de la madre y Alec Baldwin es Lawrence Quinn, el vecino que aspira a convertirse en padrastro de los niños, para desesperación de éstos.",
         "anio": "2003",
-        "genero": "Familia, Comedia, Aventura, Fantasía",
+        "genero": "Familia, Fantasía, Comedia, Aventura",
         "duracion": "81 min"
       }
     ]
@@ -13732,6 +13715,23 @@
         "anio": "2004",
         "genero": "Acción, Aventura, Ciencia ficción, Suspense",
         "duracion": "117 min"
+      }
+    ]
+  },
+  {
+    "name": "Familia",
+    "samples": [
+      {
+        "name": "El día que la Tierra explotó: Una película de Looney Tunes",
+        "url": "http://144.217.70.79/VODS-M/1080P/The%20Day%20the%20Earth%20Blew%20Up%20A%20Looney%20Tunes%20Movie%202024.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/xSd2zSbIIuyz6MYZmCXzeVvlxsz.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5U3VLeWr2H4Nd3G7IkHItFimsIz.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/AbwI9krWWbLKalfCfvVjeVhZ140.png",
+        "type": "PELICULA",
+        "descripcion": "Porky y el Pato Lucas, la clásica pareja de dibujos animados, se convierten en héroes improbables cuando sus travesuras en la fábrica de chicles local destapan un complot secreto de control mental alienígena. Contra todo pronóstico, los dos están decididos a salvar su ciudad y el mundo.",
+        "anio": "2024",
+        "genero": "Familia, Comedia, Aventura, Animación, Ciencia ficción",
+        "duracion": "91 min"
       }
     ]
   },
@@ -17091,7 +17091,7 @@
         "name": "El Faro",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Lighthouse%202019.mkv",
         "icono": "https://image.tmdb.org/t/p/original/atwJGO4Ks8k9aUcGN968YFvnwbB.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/bM9Dn5Fx89YeYJVbM59xnpgTm8p.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/fRVX8Dbp4EVa1lblWNIuhGePQOZ.png",
         "type": "PELICULA",
         "descripcion": "Ambientada a finales del siglo XIX, cuenta la historia de dos fareros que trabajan juntos en una misteriosa isla perdida de Nueva Inglaterra.",
@@ -18943,7 +18943,7 @@
       {
         "name": "El experimento Filadelfia",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Philadelphia%20Experiment%201984.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/3rPYcUMkZLibA75wzpqt2ivXxkD.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/atDuBHmN6u2zViaC7P5d4fZjj4c.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/gdd7b77GYNkEHSlDJuxiuzveJyo.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/vuK5Twf0SyCtxpeS4Q7G2mlpcxC.png",
         "type": "PELICULA",
@@ -22162,7 +22162,7 @@
         "type": "PELICULA",
         "descripcion": "Illumination y Universal Pictures presentan El Grinch, basada en el amado clásico del Dr. Seuss. El Grinch cuenta la historia de un cínico gruñón que va en una misión para robarse la Navidad, sólo para descubrir que su corazón ha cambiado gracias al generoso espíritu de una pequeña niña. Divertida, conmovedora y visualmente impresionante, ¡El Grinch es diversión para toda la familia!",
         "anio": "2018",
-        "genero": "Familia, Comedia, Animación, Fantasía",
+        "genero": "Familia, Fantasía, Comedia, Animación",
         "duracion": "85 min"
       }
     ]
@@ -23024,7 +23024,7 @@
         "name": "Thor: un mundo oscuro",
         "url": "http://144.217.70.79/VODS-M/1080P/Thor%20the%20dark%20world%202013.mkv",
         "icono": "https://image.tmdb.org/t/p/original/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/90seuFwm25GWNbF1ydkaPa4DrdO.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/kyvEexSLg4TYAhoXmvuRipXW5Wj.png",
         "type": "PELICULA",
         "descripcion": "Cuando los Elfos Oscuros intentan hundir el universo en la oscuridad, Thor debe embarcarse en un peligroso y personal viaje que lo reunirá con la doctora Jane Foster.",

@@ -721,7 +721,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/300%20Rise%20of%20an%20Empire%202014.mkv",
         "icono": "https://image.tmdb.org/t/p/original/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/chjkfyo57JexWo1YeIZRMk8wA4m.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/f08dPKTegtNK0srF4ikuZdA2xP0.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/6ypVf2p9wU4zS8KkL84oRqbDDjh.png",
         "type": "PELICULA",
         "descripcion": "Este nuevo capítulo de la saga épica lleva la acción a un nuevo campo de batalla, en el mar, mientras el general griego Themistokles intenta unir toda Grecia liderando la carga que cambiará el curso de la guerra. \"300: El Nacimiento de un Imperio\" enfrenta a Themistokles contra las masivas fuerzas invasoras persas lideradas por el mortal convertido en dios Xerxes y Artemesia, el vengativo comandante de la armada persa.",
         "anio": "2014",
@@ -10139,7 +10139,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Crank%202006.mkv",
         "icono": "https://image.tmdb.org/t/p/original/zSzDbylthJBPL4YX0khc9Sr6sew.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/6EX31EmX6lo0SPZB93Ls2ReBfbd.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/xVSFFVIe0FoaTeNHcPp3jMopJji.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/yAl3GZTLH5XOvD4LuBgjLeBgJ2.png",
         "type": "PELICULA",
         "descripcion": "Chev Chelios, un asesino a sueldo de Los Ángeles, ha sido envenenado mientras dormía y que sólo le queda una hora de vida. La única oportunidad que tiene Chev de sobrevivir es mantenerse en movimiento para impedir que el veneno le llegue al corazón. El tiempo pasa y corre enloquecido por las calles de Los Ángeles para salvar a su novia y encontrar un antídoto que le salve la vida.",
         "anio": "2006",
@@ -20462,7 +20462,7 @@
         "type": "PELICULA",
         "descripcion": "Dentro de un copo de nieve existe la tierra mágica de Villa Quien. En Villa Quien, viven los Quienes, que aman la Navidad, pero justo fuera de su querida villa quien vive el Grinch. El Grinch es una criatura desagradable que odia la Navidad, y trama  robarla de los Quien, a quienes igualmente aborrece. Sin embargo, una niña pequeña, Cindy Lou Quien, decide intentar hacer amistad con el Grinch.",
         "anio": "2000",
-        "genero": "Familia, Comedia, Fantasía",
+        "genero": "Familia, Fantasía, Comedia",
         "duracion": "104 min"
       }
     ]
@@ -24179,7 +24179,7 @@
       {
         "name": "Rescate Imposible",
         "url": "http://144.217.70.79/VODS-M/1080P/Land%20of%20Bad%202024.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/iKqItVltY6r0eJeIRdIZV8IrBpz.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/pw1cM9IicLuUZzwFOszV7ZZX8Er.png",
         "type": "PELICULA",
@@ -25241,23 +25241,6 @@
         "anio": "1989",
         "genero": "Acción, Crimen, Drama, Suspense",
         "duracion": "115 min"
-      }
-    ]
-  },
-  {
-    "name": "Acción",
-    "samples": [
-      {
-        "name": "Logan: Wolverine",
-        "url": "http://144.217.70.79/VODS-M/1080P/Logan%202017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/d0ktjN9eKww26HhM8or8iUB1I68.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/gnDoAFjw860MtW03VXVZOHU9XIs.png",
-        "type": "PELICULA",
-        "descripcion": "Sin sus poderes, por primera vez, Wolverine es verdaderamente vulnerable. Después de una vida de dolor y angustia, sin rumbo y perdido en el mundo donde los X-Men son leyenda, su mentor Charles Xavier lo convence de asumir una última misión: proteger a una joven que será la única esperanza para la raza mutante… Tercera y última película protagonizada por Hugh Jackman en el papel de Wolverine.",
-        "anio": "2017",
-        "genero": "Acción, Drama, Ciencia ficción",
-        "duracion": "138 min"
       }
     ]
   },
@@ -27366,6 +27349,23 @@
         "anio": "2015",
         "genero": "Acción, Aventura",
         "duracion": "131 min"
+      }
+    ]
+  },
+  {
+    "name": "Ciencia ficción",
+    "samples": [
+      {
+        "name": "Misión a Marte",
+        "url": "http://144.217.70.79/VODS-M/1080P/Mission%20to%20Mars%202000.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/6awYCvjGebF0I4vTV5tY3JZFU9U.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sEOUoGpJWIk1T58nU9qcXR398jY.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/8S53cAQyPbCmYGis5N5TKnHArpH.png",
+        "type": "PELICULA",
+        "descripcion": "En el año 2020 el comandante Luke Graham es seleccionado para dirigir la primera misión tripulada de la NASA a Marte. Una vez en el planeta rojo, descubre una antigua estructura con forma de domo que parece ser una especie de baliza. El domo mata a la tripulación y deja herido a Luc. El coronel Jim McConnell, recientemente enviudado, encabezará la segunda misión de rescate.",
+        "anio": "2000",
+        "genero": "Ciencia ficción, Aventura, Suspense",
+        "duracion": "114 min"
       }
     ]
   }

@@ -12886,19 +12886,19 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Documental",
     "samples": [
       {
-        "name": "Los chicos de la banda",
+        "name": "The Boys in the Band: Something Personal",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Boys%20in%20the%20Band%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/ajzVxjwq4DkzlDq1yk2h6CKkbIP.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/wX1n8ndD7l6PsHSUmo66GRJHcwG.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/y1Lwdw3iq7lJUNGpVvm57xtWFn5.png",
+        "icono": "https://image.tmdb.org/t/p/original/mGu4RHBAeOxdRW8ADzfbcrqlAOS.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/8Yp4ONT0tmNJU71JRXmMv7UJziz.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/woB4TVMUXquZD3HghkFXloVNyQS.png",
         "type": "PELICULA",
-        "descripcion": "Un grupo de homosexuales se reúne en un apartamento de Nueva York para celebrar el cumpleaños de un amigo. Cuando transcurren las horas, después de beber y de subir el volumen de la música, la velada comienza a exponer las fisuras que existen entre su amistad y el dolor auto-infligido que amenaza con hacer trizas su concepto de la solidaridad.",
+        "descripcion": "",
         "anio": "2020",
-        "genero": "Drama",
-        "duracion": "121 min"
+        "genero": "Documental",
+        "duracion": "28 min"
       }
     ]
   },
@@ -14914,7 +14914,7 @@
       {
         "name": "El Padrino",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Godfather%201972.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/dfEQMuZMIcPgC7nt07D9uVQi7Tv.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/mxRcPMGsEi3nwDqZwuUVZklnsQ5.png",
         "type": "PELICULA",
@@ -16034,9 +16034,9 @@
     "name": "Terror",
     "samples": [
       {
-        "name": "Invitación al Infierno",
+        "name": "La Invitación",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Invitation%202022.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/oHVR6249rkhCJkdBc7vk166KLMF.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/aGNwpNvmieIClw6a9XZGKPL3p4Z.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/m1FOYkc7125mV7vMYlIf56zQ7vL.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/5xgVU98FZWgSAxOI20KnMumxx1D.png",
         "type": "PELICULA",
@@ -16240,14 +16240,14 @@
       {
         "name": "Karate Kid",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Karate%20Kid%202010.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/tHoASPhXRGJM6XFvDooJHIFcP3r.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fZFSvqWsN8bQiwVmJmcgeoL9awe.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/aIZLLk29r4HtBbjpSqyCYumqps.png",
+        "icono": "https://image.tmdb.org/t/p/original/qupC1Jxss4YH5Y2ZeIB4XXokGcd.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/j1xaeJZOEOiVBD1rk3dg4YaAk23.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/5xvdB55ZiJ3XUIaNDqvn4NkASxl.png",
         "type": "PELICULA",
-        "descripcion": "Dre Parker podría haber sido el más popular en Detroit, pero la carrera profesional de su madre los lleva a ambos a China. Allí logra hacer conexión con su compañera de clase Mei Ying y el sentimiento es mutuo, hasta que las diferencias culturales hacen que su amistad sea imposible. Para que la situación empeore, Dre se consigue un enemigo, el peleonero de la clase, Cheng. Dre no tiene amigos a quién acudir, excepto el encargado de mantenimiento, el Sr. Han.",
-        "anio": "2010",
+        "descripcion": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos.",
+        "anio": "1984",
         "genero": "Acción, Aventura, Drama, Familia",
-        "duracion": "140 min"
+        "duracion": "126 min"
       }
     ]
   },
@@ -16303,19 +16303,19 @@
     ]
   },
   {
-    "name": "Fantasía",
+    "name": "Comedia",
     "samples": [
       {
-        "name": "Mi Encuentro Conmigo",
+        "name": "The Kid",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Kid%202000.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/fkfSJooU4fMhJzT3LKfzmC6CHqH.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jEMYEoQw7jF0aoKRgaa1TbHojUT.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/Ab8tEvn2CHyjScB3BoHmTwD2cJD.png",
+        "icono": "https://image.tmdb.org/t/p/original/we8AMv9ufyoXgmOlfX0SmubKOrd.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/mAhCW7QbpL5kwvCWGsfyY3ILoW6.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/c5CN2VOt2qFv1gT9y7pM8TqvNE4.png",
         "type": "PELICULA",
-        "descripcion": "Un consultor de imagen infeliz y disgustado tiene una segunda oportunidad en la vida cuando se enfrenta misteriosamente a una versión de sí mismo de ocho años.",
-        "anio": "2000",
-        "genero": "Fantasía, Comedia, Familia",
-        "duracion": "105 min"
+        "descripcion": "Una mujer londinense, sumamente pobre, se ve en la necesidad de abandonar a su hijo en una casa de millonarios, aunque por una serie de circustancias el niño terminará siendo cuidado por un vagabundo que se convierte así en su padre. Cinco años después, y con la madre convertida en una popular cantante, el destino tratará de separarlos...",
+        "anio": "1921",
+        "genero": "Comedia, Drama",
+        "duracion": "68 min"
       }
     ]
   },
@@ -17170,19 +17170,19 @@
     ]
   },
   {
-    "name": "Aventura",
+    "name": "Familia",
     "samples": [
       {
         "name": "El rey león",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Lion%20king%202019.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/eGfq90BF8QGCMpncF2ag0lGTgKk.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/kAwjlcjFVCg2TN0FmcEojIR4NZ1.png",
+        "icono": "https://image.tmdb.org/t/p/original/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/476j8du5ibBZGeHJzXFZjsc3nCo.png",
         "type": "PELICULA",
-        "descripcion": "La nueva versión de acción real de EL REY LEÓN de Disney, del director Jon Favreau, nos lleva a la sabana africana donde un futuro rey ha nacido. Simba idolatra a su padre, el rey Mufasa, y está entusiasmado con su destino real. Pero no todos en el reino celebran la llegada del nuevo cachorro. Scar, el hermano de Mufasa y antiguo heredero al trono, tiene sus propios planes. La batalla de Pride Rock se ve teñida de traición, tragedia y drama, y acaba forzando a Simba al exilio. Con la ayuda de una curiosa pareja de amigos nuevos, Simba tendrá que arreglárselas para crecer y recuperar lo que legítimamente le corresponde.",
-        "anio": "2019",
-        "genero": "Aventura, Drama, Familia, Animación",
-        "duracion": "118 min"
+        "descripcion": "El príncipe león Simba y su padre son el blanco de su amargado tío, que quiere ascender al trono.",
+        "anio": "1994",
+        "genero": "Familia, Animación, Drama",
+        "duracion": "85 min"
       }
     ]
   },
@@ -23290,19 +23290,19 @@
     ]
   },
   {
-    "name": "Comedia",
+    "name": "Animación",
     "samples": [
       {
-        "name": "Tom y Jerry",
+        "name": "Tom y Jerry y el valiente Robin Hood",
         "url": "http://144.217.70.79/VODS-M/1080P/Tom%20and%20Jerry%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/orzPlWUbf0S5HeWmpP3TeHvduwn.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/69USXLJEXcgMzlhZi7bmaCORxHn.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/xChGsU2saMlGSbkpAlBLAdaRWJq.png",
+        "icono": "https://image.tmdb.org/t/p/original/osFsGZKeaxQlCMYdrfuHrrxP7Rc.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/cXI35VgXZ0RtrNlnOnxp7wzXv1E.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/pfJ9ZzC4ACBM2W5Qw3Xk10ZNaum.png",
         "type": "PELICULA",
-        "descripcion": "Jerry, un ratón travieso que se ha instalado en el mejor hotel de la ciudad de Nueva York en vísperas de \"la boda del siglo\", obliga a la desesperada planificadora del evento, una joven empleada llamada Kayla, para contratar a un gato callejero llamado Tom para deshacerse de él.",
-        "anio": "2021",
-        "genero": "Comedia, Familia, Animación",
-        "duracion": "101 min"
+        "descripcion": "Jerry, el miembro más pequeño de la banda de Robin Hood, se encuentra con Tom, un felino escudero de Lady Marion. No sólo son adversarios como gato y ratón, sino que Tom está trabajando en secreto como espía para el sheriff de Nottingham y el malvado príncipe Juan. Pero, cuando los villanos logran capturar a Robin, Tom, horrorizado, se da cuenta de que también pretenden dañar a Marion. Así que decide aliarse con Jerry.",
+        "anio": "2012",
+        "genero": "Animación, Comedia, Aventura, Familia",
+        "duracion": "55 min"
       }
     ]
   },
@@ -23772,7 +23772,7 @@
         "name": "Temblores",
         "url": "http://144.217.70.79/VODS-M/1080P/Tremors%201990.mkv",
         "icono": "https://image.tmdb.org/t/p/original/gGg2haDaZF3vklYQXPPQ6ccCNj0.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/grXTsQ4cxBQ7DToJCl93yzA664x.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ojVlJoGsysPmdmLrIbGW7ljn7JH.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/rEecMWoZd3Y6MXnQZ8rQtGvpWiB.png",
         "type": "PELICULA",
         "descripcion": "Hick handymen Val McKee y Earl Bassett apenas pueden ganarse la vida en la aldea Nevada de Perfection, por lo que deciden irse de la ciudad, a pesar de una advertencia de una estudiante de sismología que está aprendiendo extrañas lecturas de su equipo. En poco tiempo, Val y Earl descubren lo que es responsable de esas lecturas: gusanos carnívoros de 30 pies de largo con una tendencia a chupar a su presa bajo tierra.",
@@ -26765,7 +26765,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Wrong%20Turn%202%20Dead%20End%202007.mkv",
         "icono": "https://image.tmdb.org/t/p/original/chskPoHeqWIiWzeZLpuQSeXLBtM.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/8GWfHRApMYUQl1JSX1drAMs5aY1.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/kRAderOoThceOXQpl42MNCQZ0Bz.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/zLaegAWbbhE66Fukq5xWxhdQ9Xg.png",
         "type": "PELICULA",
         "descripcion": "Dale Murphy es el presentador de The Apocalypse, un reality-show en el que los participantes son aislados en un remoto paraje y obligados a sobrevivir por sus propios medios. Lejos están de imaginar que el bosque donde acaban de instalarse es el hogar de un grupo de mutantes caníbales y que el juego no va a tardar en convertirse en terrorífica realidad.",
         "anio": "2007",

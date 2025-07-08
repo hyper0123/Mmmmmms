@@ -3150,7 +3150,7 @@
       {
         "name": "Francotirador",
         "url": "http://144.217.70.79/VODS-M/1080P/American%20Sniper%202014.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/kSAdNmbIcmjtZrf9qtFwgHhZxl3.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/ntso1nvAVIEdzjc4Tc9nB7MPSKu.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/xy11zFneiF7yflq1IRseKPs5w8e.png",
         "type": "PELICULA",
@@ -11244,7 +11244,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Days%20of%20Thunder%201990.mkv",
         "icono": "https://image.tmdb.org/t/p/original/ePPRlLtTJkLLZLG0ekA6d2O83i5.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/voc0qPuvMtJN8cF2tIu1fVvnneu.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/ifiuGLX6WIu2GlRA8VvEpPobxCq.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/p43ZlspHwnqSn1d4ELFE6a4Oe3h.png",
         "type": "PELICULA",
         "descripcion": "Cole Trickle es un joven temerario que busca en la emoción de pilotar un bólido la audacia que le haga perder todos los miedos. Entra con buen pie en el complejo mundo de las carreras y no sólo se rodea de un buen equipo, sino que además cuenta con la inestimable ayuda de Harry, un buen amigo que sabe cómo estimularlo para alcanzar la gloria.",
         "anio": "1990",
@@ -17561,19 +17561,19 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Suspense",
     "samples": [
       {
-        "name": "Girl",
+        "name": "La Carta",
         "url": "http://144.217.70.79/VODS-M/1080P/Girl%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/eRtBDVZVhnqih9dcnIj4g4xKZQ.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/iGCHoFp4VUwMoolO2C2u12AgiKl.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/nZIt74tXcKTFTITpwxVlKLMKYOX.svg",
+        "icono": "https://image.tmdb.org/t/p/original/gZNojMv3yGwiGRDw8yALBo7Ypr.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/17ju88cCKGVpE06dl5XPxOH3mom.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/oN8PEhDxinLmQX6m21mqjxjKAdu.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2018",
-        "genero": "Drama",
-        "duracion": "105 min"
+        "descripcion": "Una joven regresa a su pequeña ciudad natal para asesinar a su padre violento, pero alguien lo hizo el día anterior. Emprende una búsqueda para desentrañar el crimen y los secretos familiares, aunque un sheriff siniestro se interpone en su camino.",
+        "anio": "2020",
+        "genero": "Suspense",
+        "duracion": "90 min"
       }
     ]
   },
@@ -21964,19 +21964,19 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Comedia",
     "samples": [
       {
-        "name": "Itinéraire d'un enfant gâté",
+        "name": "Let It Ride",
         "url": "http://144.217.70.79/VODS-M/1080P/It%201990.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/9yZaH3bmvrN5EQktVZouaRTGKgQ.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/g1xaIqVQuE1DILjnfrT3Lm6FXxH.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/oNI7yrUwh2qGsGyXc9yymdnP6NN.png",
+        "icono": "https://image.tmdb.org/t/p/original/t5sJfj99wACezWFz2jtHQplQkUM.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fueSelRteRlnC9pM4pZ9O7a2yEW.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/b4egKYCgORoVnGN4tUlCrwdo1Ue.png",
         "type": "PELICULA",
         "descripcion": "",
-        "anio": "1988",
-        "genero": "Drama, Aventura",
-        "duracion": "135 min"
+        "anio": "1989",
+        "genero": "Comedia",
+        "duracion": "90 min"
       }
     ]
   },
@@ -22345,7 +22345,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Jaws%201975.mkv",
         "icono": "https://image.tmdb.org/t/p/original/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/zQkrucRvQd96JpDuboskaG3wgN6.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/ldEdyu47fbiVl4vwdYMuPYYp4po.png",
         "type": "PELICULA",
         "descripcion": "En la costa de un pequeño pueblo del Este de los Estados Unidos, un enorme tiburón ataca a varias personas. Por temor a los nefastos efectos que este hecho podría tener sobre el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón termina con la vida de un bañista. Cuando el terror se apodera de todos, un veterano cazador de tiburones, un oceanógrafo y el jefe de la policía local se unen para capturar al escualo.",
         "anio": "1975",

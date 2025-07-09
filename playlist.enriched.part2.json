@@ -459,19 +459,19 @@
     ]
   },
   {
-    "name": "Acción",
+    "name": "Suspense",
     "samples": [
       {
-        "name": "最も危険な遊戯",
+        "name": "Most Dangerous Game",
         "url": "http://144.217.70.79/VODS-M/1080P/Most%20Dangerous%20Game%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/4jg5eo93qFI4frOFea4t8JohF0Y.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/nRG7Mk1JttNzGph79iKXBT6bLWu.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/2nQHQpfcjLWM0TcllKsNmUL6JHp.png",
+        "icono": "https://image.tmdb.org/t/p/original/pg6Pt7bNq1B8mXnoBk3S6K61Msz.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/3hwnv37I408Sn4l2IoeCPBoEeGd.jpg",
+        "iconpng": "",
         "type": "PELICULA",
         "descripcion": "",
-        "anio": "1978",
-        "genero": "Acción, Crimen",
-        "duracion": "89 min"
+        "anio": "2020",
+        "genero": "Suspense, Acción, Drama",
+        "duracion": "130 min"
       }
     ]
   },
@@ -4573,19 +4573,19 @@
     ]
   },
   {
-    "name": "Aventura",
+    "name": "Animación",
     "samples": [
       {
         "name": "Pocahontas",
         "url": "http://144.217.70.79/VODS-M/1080P/Pocahontas%201995.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/cW4D4KPUwEhijFEOrB0DcXMcWEl.png",
+        "icono": "https://image.tmdb.org/t/p/original/wpwFGXyvNAWrM6LCHUb2VUgkopw.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uoRriEVC0iH19vnOLTXf75dkZDZ.jpg",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "La historia viene gloriosamente a la vida en la historia épica de Disney sobre el amor y la aventura en el Nuevo Mundo. Pocahontas es una mujer nativa americana cuyo padre ha arreglado para que ella se case con el mejor guerrero de su pueblo. Pero una visión le dice que el cambio está llegando, y pronto ella se encuentra cara a cara con ella en la forma del Capitán John Smith.",
+        "descripcion": "",
         "anio": "1995",
-        "genero": "Aventura, Animación, Familia, Romance",
-        "duracion": "81 min"
+        "genero": "Animación",
+        "duracion": "50 min"
       }
     ]
   },
@@ -4695,16 +4695,16 @@
     "name": "Terror",
     "samples": [
       {
-        "name": "Muerte instantánea",
+        "name": "Polaroid",
         "url": "http://144.217.70.79/VODS-M/1080P/Polaroid%202019.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/ghNua7wru2APolXOutWqO5kpJrI.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kptx2smAhNvp1K7ln2bYWTeCxxe.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/71QyikuPGWQXqAJ39zbTkADulBy.png",
+        "icono": "https://image.tmdb.org/t/p/original/s2abswphACud7RsUQT65cx1FPiK.jpg",
+        "iconoHorizontal": "",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Una adolescente solitaria, Bird Fitcher, se tropieza con una antigua Polaroid y pronto descubre que la cámara alberga un terrible secreto: cualquiera que se toma una fotografía con ella, tiene un final trágico y violento. Ella y sus amigos deben sobrevivir una noche para resolver el misterio de la cámara “embrujada”. Adaptación cinematográfica del cortometraje homónimo.",
+        "descripcion": "",
         "anio": "2019",
-        "genero": "Terror, Misterio, Suspense",
-        "duracion": "88 min"
+        "genero": "Terror",
+        "duracion": "5 min"
       }
     ]
   },
@@ -6824,7 +6824,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/RoboCop%202%201990.mkv",
         "icono": "https://image.tmdb.org/t/p/original/bIWSkAKxCUCRuaxef9a9HACwXvN.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/cT0YCYCtAQC8wi56VWK1JRGgk3a.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/mOq0T1f14I0zuqvpPcWgj45xxQk.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/9URvLewLXyjnmaGXpiAwzUVt7kk.png",
         "type": "PELICULA",
         "descripcion": "Después de un despliegue exitoso de la unidad de la Aplicación de la ley Robocop, OCP ve su objetivo de la pacificación urbana venir más cerca y más cerca, pero ya que esto se desarrolla, un nuevo narcótico conocido ya que «la Bomba nuclear» invade las calles conducidas por la Caña del líder Delirante por Dios. Cuando esta amenaza crece, puede resultar ser demasiado para Murphy para manejarse. OCP trata de reproducir el éxito de la primera unidad, pero termina con prototipos fracasados con cuestiones suicidas... hasta el Dr. Faxx, un científico que se extravía lejos del camino del OCP, usa la Caña como el nuevo sujeto para el proyecto de Robocop 2, Dios vivo.",
         "anio": "1990",
@@ -6857,7 +6857,7 @@
         "name": "RoboCop",
         "url": "http://144.217.70.79/VODS-M/1080P/RoboCop%201987.mkv",
         "icono": "https://image.tmdb.org/t/p/original/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/8g7x7AuY6Dj2MWVlKaPXq6oCyGl.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/vMGkly71Jm2KwHN407mxheMGUYR.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/AvYbrVeIu3W5aSjpkqZ4eLMae0l.png",
         "type": "PELICULA",
         "descripcion": "En un Detroit violento, casi apocalíptico, la empresa malvada Omni Consumer Products gana un contrato del gobierno de la ciudad para privatizar la fuerza policial. Para probar sus cyborgs de erradicación del crimen, la compañía lleva al policía de la calle Alex Murphy a una confrontación armada con el señor del crimen Boddicker para que puedan usar su cuerpo para respaldar su prototipo RoboCop no probado. Pero cuando RoboCop se entera de los planes nefastos de la compañía, se convierte en su maestro.",
@@ -10285,19 +10285,19 @@
     ]
   },
   {
-    "name": "Terror",
+    "name": "Ciencia ficción",
     "samples": [
       {
-        "name": "La maldición del diablo",
+        "name": "Still Born",
         "url": "http://144.217.70.79/VODS-M/1080P/Still%20Born%202017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/m08JPaYvs2RxXbgR6D7CXToOX3a.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/nvxj7TwfyY9j2AnQDaNkLawaHAn.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/ggt23nO4v6vB9vSH6VFNgYEaOwa.png",
+        "icono": "https://image.tmdb.org/t/p/original/oC1mbALBAJYLDnXb065WhuzJxrR.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sjgAhHc8TPp6T2Oc3YHecTijfIB.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/w8IVEfKYE0y6QylGJ2suKfbx4Nz.png",
         "type": "PELICULA",
-        "descripcion": "Mary está embarazada de gemelos, pero, en el parto, uno de los bebés muere. Diagnosticada con depresión postparto, la mujer entra en una espiral de neurosis, sobre todo cuando descubre las historias sobre un ente demoníaco que se alimenta de las madres y los recién nacidos. ¿Será eso lo que la atormenta por las noches, o se trata de sus terrores íntimos?",
-        "anio": "2018",
-        "genero": "Terror",
-        "duracion": "87 min"
+        "descripcion": "",
+        "anio": "2017",
+        "genero": "Ciencia ficción",
+        "duracion": "24 min"
       }
     ]
   },
@@ -18717,19 +18717,19 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Película de TV",
     "samples": [
       {
-        "name": "La otra Reina",
+        "name": "Las hermanas Bolena",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Other%20Boleyn%20Girl%202008.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/eLU4zvrXkHwgfzlD0N8rlYZ19mG.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jovVe4UGpmQEAE6ZEmV5xa6Kk1f.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/kEytgfRgdw5EVBiN7ye0HU4movL.png",
+        "icono": "https://image.tmdb.org/t/p/original/70pAJXRmqr6hab23aimtA43NLSp.jpg",
+        "iconoHorizontal": "",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Inglaterra, siglo XVI. Narra la historia de dos hermanas, Ana y María Bolena (Portman & Johansson). El padre y el tío de ambas, movidos por la ambición de mejorar el nivel social y el poder de la familia, convencen a las jóvenes para que conquisten el amor de Enrique VIII (Eric Bana), Rey de Inglaterra. Ana y María abandonan su vida en el campo para trasladarse al peligroso y apasionante mundo de la corte. Pero, pronto surge entre ellas una rivalidad sin cuartel para obtener el amor del Rey. Al principio, el Rey escoge como amante a María y tiene con ella un bastardo. Pero Ana, que es muy inteligente y astuta, consigue eclipsar a su hermana e, incluso, que el rey repudie a Catalina de Aragón, su legítima esposa.",
-        "anio": "2008",
-        "genero": "Drama, Romance, Historia",
-        "duracion": "115 min"
+        "descripcion": "Siglo XVI. Enrique VIII (Jared Harris) está casado con Catalina de Aragón, pero no tarda en buscarse una amante; la elegida es María Bolena (Natascha McElhone), una joven de 24 años casada con un miembro de la corte. Al verse presionada por su propia familia para seguir ejerciendo de amante en contra de su propia voluntad, María comienza a apartarse de los suyos, encontrando finalmente apoyo en un joven del que quedará embarazada. La huida parece la única manera de escapar a este nuevo problema para su torturada existencia.",
+        "anio": "2003",
+        "genero": "Película de TV, Drama, Historia, Romance",
+        "duracion": "90 min"
       }
     ]
   },
@@ -26044,19 +26044,19 @@
     ]
   },
   {
-    "name": "Acción",
+    "name": "Aventura",
     "samples": [
       {
-        "name": "Colmillo blanco",
+        "name": "White Fang",
         "url": "http://144.217.70.79/VODS-M/1080P/White%20Fang%201991.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/umnGhfxqepSVammxXWn7wW2qJ2.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/1DcKVybwLpvnybtZ3Du8RTOu4MK.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/ogk7gY2FdMh6WmGkhfb02JkgIWz.png",
+        "icono": "https://image.tmdb.org/t/p/original/hbG8BWJApjiMdZ7dxLhyuoAdSMr.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lwsm8akIZLwtircwHicapin7aSB.jpg",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "A finales del siglo XIX, el joven Jack Conroy llega a Alaska en plena fiebre del oro, dispuesto a reclamar la herencia de su difunto padre. Allí entablará una estrecha relación con Colmillo Blanco, un cruce de lobo y perro.",
+        "descripcion": "",
         "anio": "1991",
-        "genero": "Acción, Aventura, Drama, Familia",
-        "duracion": "107 min"
+        "genero": "Aventura, Animación",
+        "duracion": "50 min"
       }
     ]
   },
@@ -26098,7 +26098,7 @@
     "name": "Romance",
     "samples": [
       {
-        "name": "La Serpiente Blanca",
+        "name": "La leyenda de La serpiente",
         "url": "http://144.217.70.79/VODS-M/1080P/White%20Snake%202019.mkv",
         "icono": "https://image.tmdb.org/t/p/original/yqRNgQy12np7UDIDFAai4nliN3y.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/jIAyjJMrEIDjojxQDdZemDwqr82.jpg",

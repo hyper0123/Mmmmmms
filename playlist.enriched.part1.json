@@ -448,7 +448,7 @@
         "name": "Exterminio",
         "url": "http://144.217.70.79/VODS-M/1080P/28%20Days%20Later%202002.mkv",
         "icono": "https://image.tmdb.org/t/p/original/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/3s7uwQKH0WmaeO7VCqAOK3C5gjF.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/uMgpTebsqkCkinX83ya0PGeQnhc.png",
         "type": "PELICULA",
         "descripcion": "Cuatro semanas después de que un misterioso e incurable virus se extendiera por todo el Reino Unido, un puñado de supervivientes intentan encontrar refugio.",
@@ -9979,19 +9979,19 @@
     ]
   },
   {
-    "name": "Terror",
+    "name": "Drama",
     "samples": [
       {
-        "name": "Contagion",
+        "name": "Contagio",
         "url": "http://144.217.70.79/VODS-M/1080P/Contagion%202011.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/nqpMKUmSYoAuAr5gBrFX4hklbJd.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/tXEmPn73M7dM7lJoZS49l5XNx1.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/jNXIFpIiWfsIgOBUWQjxoYI276j.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/bdmyvEdrmnj7J3RWaKXEOwYggRv.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/Aw7ilTSKSjntKLmBcccjyepnVEy.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2010",
-        "genero": "Terror, Acción, Suspense, Ciencia ficción",
-        "duracion": "87 min"
+        "descripcion": "De repente, sin saber cuál es su origen, aunque todo hace sospechar que comienza con el viaje de una norteamericana a un casino de Hong Kong, un virus mortal comienza a propagarse por todo el mundo. En pocos días, la enfermedad empieza a diezmar a la población. El contagio se produce por mero contacto entre los seres humanos. Un thriller realista y sin efectos especiales sobre los efectos de una epidemia.",
+        "anio": "2011",
+        "genero": "Drama, Suspense, Ciencia ficción",
+        "duracion": "106 min"
       }
     ]
   },
@@ -21289,7 +21289,7 @@
       {
         "name": "El Día de la Independencia",
         "url": "http://144.217.70.79/VODS-M/1080P/Independence%20day%201996.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/6WJVfMFeLQJ8LuoduATLiM57v1d.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/rVpykXtwuMpyDOpub5QURybdZ8u.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/zOavlrw2Oilbr1cMDSuvnlZh4k2.png",
         "type": "PELICULA",
@@ -21386,19 +21386,19 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Acción",
     "samples": [
       {
-        "name": "Inferno",
+        "name": "Van Damme's Inferno",
         "url": "http://144.217.70.79/VODS-M/1080P/Inferno%201999.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/VhotqsQBZzpBR3vhSIFTvRUVwT.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/aAlP29UUGb33BslJFlMHPZTQoh1.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/upyGy8UxuO0ANqqhGJJjQBwYJeu.png",
+        "icono": "https://image.tmdb.org/t/p/original/c5A6rdGrfFBas8trY75uHBvHaVV.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/vRx6kzCItpqwnYCcj2z8qf70gv3.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/5USMRlyeUyYroe7tW5WTeoFGcIe.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "Un hombre acabado, al borde del suicidio, llega a la ciudad de Inferno, donde en un esfuerzo por recuperar todo aquello que le ha sido arrebatado, recobrará su fuerza y su espíritu. Allí se dará cuenta de que, por más que intente evitarlo, no le quedará más remedio que enfrentarse a los villanos para defender a sus habitantes, a pesar de que en un principio no son para él más que un puñado de desconocidos.",
         "anio": "1999",
-        "genero": "Drama",
-        "duracion": "114 min"
+        "genero": "Acción, Drama, Romance",
+        "duracion": "95 min"
       }
     ]
   },
@@ -24044,7 +24044,7 @@
         "name": "Lady Bird",
         "url": "http://144.217.70.79/VODS-M/1080P/Lady%20bird%202017.mkv",
         "icono": "https://image.tmdb.org/t/p/original/kfst6DxzGXbdibQPawxQSSuDh09.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/AeGKPTnhODr6ua9YeVS0e0FCqBa.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/pcWxKfFNCznTKYy0E8M9nG1cwL4.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/muT4uWh5BpgUk3PD1i3MeN2EIan.png",
         "type": "PELICULA",
         "descripcion": "Christine, que se hace llamar \"Lady Bird\", es una adolescente de Sacramento en su último año de instituto. La joven, con inclinaciones artísticas y que sueña con vivir en la costa Este, trata de ese modo encontrar su propio camino y definirse fuera de la sombra protectora de su madre.",
@@ -24718,19 +24718,19 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Documental",
     "samples": [
       {
-        "name": "Que haya luz",
+        "name": "Let There Be Light",
         "url": "http://144.217.70.79/VODS-M/1080P/Let%20There%20Be%20Light%202017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/a1lCoSdAEYEs4ezvm5PcufEUVti.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/listgoAFIjSpTrS45HpQ2Xlnaub.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/sR0D8fl87lsdXweBqPOUfEsYQQG.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hMBO8XzoDl2IokUmU0wPciJxUag.jpg",
         "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "El ateo más famoso del mundo sufre una experiencia cercana a la muerte que le lleva a replantearse todas sus ideas. A partir de ese instante, en su cabeza solo habrá una idea: salvar su alma y las de sus seres queridos.",
+        "descripcion": "",
         "anio": "2017",
-        "genero": "Drama",
-        "duracion": "100 min"
+        "genero": "Documental",
+        "duracion": "90 min"
       }
     ]
   },

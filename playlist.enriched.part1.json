@@ -1864,7 +1864,7 @@
         "type": "PELICULA",
         "descripcion": "El detective Ace Ventura, especializado en rescatar animales secuestrados, recibe el encargo de localizar y rescatar el delfin Copo de Nieve, mascota del equipo de fútbol de Miami, que ha sido secuestrado el día anterior a la gran final que debe disputar el equipo.",
         "anio": "1994",
-        "genero": "Comedia, Misterio, Crimen, Aventura",
+        "genero": "Comedia, Misterio, Crimen",
         "duracion": "85 min"
       }
     ]
@@ -7616,19 +7616,19 @@
     ]
   },
   {
-    "name": "Fantasía",
+    "name": "Drama",
     "samples": [
       {
-        "name": "Bright",
+        "name": "Helle Nächte",
         "url": "http://144.217.70.79/VODS-M/1080P/Bright.2017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/4xWEhLPlP9yg3DJbkKaBayBN98V.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hu4psJoKxDYezvvS4GlLF531fom.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/yazC609ouMEi4LoaoINBUNVCGZ4.png",
+        "icono": "https://image.tmdb.org/t/p/original/en0BCsDfGzWF97B5GoanfMqx221.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/8mMZOampCmRsUPbdA6pzla1Iu1o.jpg",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Ambientado en el presente alternativo donde criaturas mágicas viven entre humanos, dos policías de Los Ángeles, un humano y su compañero orco, se ven envueltos en una batalla territorial con un poderoso y mágico objetó.",
+        "descripcion": "",
         "anio": "2017",
-        "genero": "Fantasía, Acción, Suspense",
-        "duracion": "117 min"
+        "genero": "Drama",
+        "duracion": "86 min"
       }
     ]
   },
@@ -8643,7 +8643,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Catwoman%20Hunted%202022.mkv",
         "icono": "https://image.tmdb.org/t/p/original/bQ2DkTs3g1fUp6IyVerXfMwYYmV.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/g9HtCtdLpYv7C20MMirEbpE628v.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/9DhFtZI3KpoGuZ6bPZqXf0uwWFB.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/n89ODAQ0pd9W9riPhtg0hajVMqX.png",
         "type": "PELICULA",
         "descripcion": "Tras robar una valiosa joya, Catwoman se convierte en el objetivo principal de la Interpol, Batwoman y un gran número de poderosos villanos de Gotham.",
         "anio": "2022",
@@ -14671,19 +14671,19 @@
     ]
   },
   {
-    "name": "Terror",
+    "name": "Misterio",
     "samples": [
       {
-        "name": "Due occhi diabolici",
+        "name": "Mal de ojo",
         "url": "http://144.217.70.79/VODS-M/1080P/Evil%20Eye%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/A1cAnTTXeWTtyOZQBpPCDYgcWkU.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/wWucXwUmJiA5iUNqegJHbcy2Mzy.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/2sJhAMB6KwojPG5H8K1rQJVyZm3.png",
+        "icono": "https://image.tmdb.org/t/p/original/3KVwganYfJgrLXu26BuW82BJo73.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xTGJ4ZPDLoCIJkTjDkb0d1j7AUI.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/rRhEGwilxFKx7Nr0jOQQ1Y9aNMQ.png",
         "type": "PELICULA",
-        "descripcion": "",
-        "anio": "1990",
-        "genero": "Terror",
-        "duracion": "120 min"
+        "descripcion": "La historia es sobre una madre supersticiosa que está convencida de que el nuevo novio de su hija es la reencarnación de un hombre que intentó matarla hace 30 años.",
+        "anio": "2020",
+        "genero": "Misterio, Suspense, Terror",
+        "duracion": "79 min"
       }
     ]
   },
@@ -22310,7 +22310,7 @@
         "name": "Tiburón 2",
         "url": "http://144.217.70.79/VODS-M/1080P/Jaws%202%201978.mkv",
         "icono": "https://image.tmdb.org/t/p/original/gQgHcjBWzjCvdfFNY6PGMEzMN93.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/7lg2NdSZmTHcTatHj0b1MnMgFDE.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/qNsLlAE9Sp34AYkaMw5083Xa660.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/mrHccnSgQsEYttdsVcZdIrIUjGf.png",
         "type": "PELICULA",
         "descripcion": "A pesar de que ya han pasado cuatro años desde que un gran tiburón blanco aterrorizara al pequeño pueblo costero de Amity, el jefe de policía Brody sigue preocupado. Sin embargo, el alcalde no duda en poner en marcha varios proyectos para atraer de nuevo al turismo. Dos submarinistas exploran la zona donde había aparecido el peligroso escualo y son devorados. Su desaparición alerta a Brody: es verano y al pueblo están llegando muchos turistas. Mientras tanto, un grupo de chicos, entre los que están los hijos de Brody, van de excursión a una península cercana.",
@@ -22851,15 +22851,15 @@
     "name": "Acción",
     "samples": [
       {
-        "name": "Viaje al centro de la Tierra",
+        "name": "Journey to the Center of the Earth",
         "url": "http://144.217.70.79/VODS-M/1080P/Journey%20to%20the%20Center%20of%20the%20Earth%202008.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/uWWKeB6iPtn5PIckZK0L4yw3Fg2.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/egciaCIny5dTo3Zt5MyacW7KGJ2.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/iLXKHG3UcVdMAfj3BpT7xxzEtg1.png",
+        "icono": "https://image.tmdb.org/t/p/original/on6hrhmind13nVHVtk8M6IepEjh.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ozvYshUvQHExvEbgN75AKV9WHea.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/98dQ4dTvJztUXDTUIIjsDrDH9Ds.png",
         "type": "PELICULA",
-        "descripcion": "Durante una expedición científica en Islandia, el científico y visionario Trevor Anderson, su sobrino Sean y la bella guía local, Hannah, quedan inesperadamente atrapados en una cueva y la única forma de escape posible les lleva a adentrarse cada vez más en las entrañas de la tierra.",
+        "descripcion": "",
         "anio": "2008",
-        "genero": "Acción, Ciencia ficción, Aventura, Comedia, Familia",
+        "genero": "Acción, Aventura, Ciencia ficción, Fantasía",
         "duracion": "87 min"
       }
     ]
@@ -23925,7 +23925,7 @@
         "name": "LEGO Star Wars: Historias Aterradoras",
         "url": "http://144.217.70.79/VODS-M/1080P/LEGO%20Star%20Wars%20Terrifying%20Tales%202021.mkv",
         "icono": "https://image.tmdb.org/t/p/original/bcPzH8PjdISs6yrqCIDEEPpRX7O.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/f53Jujiap580mgfefID0T0g2e17.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/oCbmC3LCck1BnA70tzbpovFmTgK.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/7Rllucp7U5ZLFaoOu6n8TLZqTEs.png",
         "type": "PELICULA",
         "descripcion": "Después de un aterrizaje forzoso en el planeta volcánico Mustafar, Poe y BB-8 buscan ayuda dentro del espeluznante castillo de Darth Vader. Allí, se encuentran con un hutt intrigante, un valiente mecánico y al antiguo asistente de Darth Vader, Vaneé, que les cuenta tres historias aterradoras relacionadas con artefactos antiguos y villanos icónicos de todas las eras de Star Wars.",

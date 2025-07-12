@@ -466,7 +466,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/28%20Weeks%20Later%202007.mkv",
         "icono": "https://image.tmdb.org/t/p/original/8PJEQ63WebiLJ4vtuyXx68Jehmh.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/83ownpZPvBHJD5UVNShzQfa3LaW.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/oFqoSbOxTkLj6fAhehmbqRx0IFS.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/9wzmFxbDKc7VbTDVGVUUQ7ma3A0.png",
         "type": "PELICULA",
         "descripcion": "Seis meses después de que el virus de la rabia fuera infligido a la población de Gran Bretaña, el ejército de los EE.UU. ayuda a asegurar una pequeña área de Londres para que los sobrevivientes se repoblen y comiencen de nuevo. Pero no todo va de acuerdo al plan.",
         "anio": "2007",
@@ -11316,7 +11316,7 @@
         "type": "PELICULA",
         "descripcion": "En 1897, el veterano cazarrecompensas Max Borlund se adentra en México, donde se encuentra con el jugador profesional y forajido Joe Cribbens, un enemigo jurado que envió a prisión años antes. Max tiene la misión de encontrar y devolver a Rachel Kidd, la esposa de un rico hombre de negocios, quien, según cuenta la historia a Max, ha sido secuestrada por Buffalo Soldier Elijah Jones. Max finalmente se enfrenta a un enfrentamiento para salvar el honor.",
         "anio": "2022",
-        "genero": "Western, Suspense, Acción, Drama",
+        "genero": "Western, Suspense, Acción",
         "duracion": "106 min"
       }
     ]
@@ -14351,16 +14351,16 @@
     "name": "Terror",
     "samples": [
       {
-        "name": "La Maldicion de la caja calavera",
+        "name": "Escape Room: Sin Salida",
         "url": "http://144.217.70.79/VODS-M/1080P/Escape%20Room%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/t0i88TFalwvcELDGkyW8AD9qQet.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/1e5GyqXhpgfKZFI8lgAknJYKgQU.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/q9caNLfcdLX0Q6HctTCEHGnWW5P.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/mWLljCmpqlcYQh7uh51BBMwCZwN.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/hJn0nzjZoUzuGtkXdHbLy5YjjsJ.png",
         "type": "PELICULA",
-        "descripcion": "Cuatro amigos se encuentran atrapados en una habitación, junto a un asesino poseído por un demonio. Ahora tienen menos de una hora para resolver los puzzles necesarios para escapar del lugar con vida.",
-        "anio": "2017",
-        "genero": "Terror, Suspense, Fantasía",
-        "duracion": "86 min"
+        "descripcion": "Seis extraños que se ven envueltos en circunstancias más allá de su control deben usar su ingenio para sobrevivir.",
+        "anio": "2019",
+        "genero": "Terror, Suspense, Misterio",
+        "duracion": "100 min"
       }
     ]
   },
@@ -14609,7 +14609,7 @@
         "name": "El despertar del diablo 2",
         "url": "http://144.217.70.79/VODS-M/1080P/Evil%20Dead%202%201987.mkv",
         "icono": "https://image.tmdb.org/t/p/original/d4o4F8n0brc2vrpZBTvVFgB2Kk8.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/1lKLVY9OlSaRHmN7oVrQp5cHtp.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/nVYP0AT2cH635Nda6VIMT7yA2yR.png",
         "type": "PELICULA",
         "descripcion": "Ash es el único sobreviviente del ataque violento de parte de los crueles demonios que se queda en la cabaña con un grupo de extraños mientras los demonios continúan su ataque.",
@@ -14626,7 +14626,7 @@
         "name": "El ejército de las tinieblas",
         "url": "http://144.217.70.79/VODS-M/1080P/Evil%20Dead%203%20Army%20of%20Darkness%201992.mkv",
         "icono": "https://image.tmdb.org/t/p/original/aWko0iXOEbqvWZa8NVKrUbBMJYy.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/8WIufsaJgm7VWgAc5ALWdJ8v2kB.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xErw1pfmyWYQcXIlXipPY3O9uRH.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/qPa6xEfLeFQ3zrQagJU30UH6PTH.png",
         "type": "PELICULA",
         "descripcion": "Un hombre se transporta accidentalmente al 1300 d.C., donde debe combatir con un ejército de muertos y recuperar Necronomicón para poder volver a su época.",
@@ -22344,7 +22344,7 @@
         "name": "Tiburón",
         "url": "http://144.217.70.79/VODS-M/1080P/Jaws%201975.mkv",
         "icono": "https://image.tmdb.org/t/p/original/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xgU3KkqiME9pGe5gGCNpUYkoSWg.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/ldEdyu47fbiVl4vwdYMuPYYp4po.png",
         "type": "PELICULA",
         "descripcion": "En la costa de un pequeño pueblo del Este de los Estados Unidos, un enorme tiburón ataca a varias personas. Por temor a los nefastos efectos que este hecho podría tener sobre el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón termina con la vida de un bañista. Cuando el terror se apodera de todos, un veterano cazador de tiburones, un oceanógrafo y el jefe de la policía local se unen para capturar al escualo.",
@@ -24389,7 +24389,7 @@
         "type": "PELICULA",
         "descripcion": "Una pareja que se dirige a Florida en plena crisis sentimental se detiene en una gasolinera en mitad del desierto de Texas para repostar gasolina. Allí son acosados por el encargado que, iracundo al ser despreciado por la chica y refrenado por su compañero, ataca con una escopeta a la pareja que milagrosamente consigue huir. En el camino se cruzarán con el temible Leatherface y su moto sierra eléctrica pero nuevamente lograrán escapar, esta vez, por un excursionista armado con un fusil. La familia de caníbales no descansará hasta que estos tres pasen por su parrilla y conseguir su cena.",
         "anio": "1990",
-        "genero": "Terror, Suspense",
+        "genero": "Terror",
         "duracion": "85 min"
       }
     ]
@@ -24718,19 +24718,19 @@
     ]
   },
   {
-    "name": "Documental",
+    "name": "Drama",
     "samples": [
       {
-        "name": "Let There Be Light",
+        "name": "Que haya luz",
         "url": "http://144.217.70.79/VODS-M/1080P/Let%20There%20Be%20Light%202017.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/sR0D8fl87lsdXweBqPOUfEsYQQG.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hMBO8XzoDl2IokUmU0wPciJxUag.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/a1lCoSdAEYEs4ezvm5PcufEUVti.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/listgoAFIjSpTrS45HpQ2Xlnaub.jpg",
         "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "El ateo más famoso del mundo sufre una experiencia cercana a la muerte que le lleva a replantearse todas sus ideas. A partir de ese instante, en su cabeza solo habrá una idea: salvar su alma y las de sus seres queridos.",
         "anio": "2017",
-        "genero": "Documental",
-        "duracion": "90 min"
+        "genero": "Drama",
+        "duracion": "100 min"
       }
     ]
   },

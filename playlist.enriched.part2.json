@@ -6841,7 +6841,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/RoboCop%203%201993.mkv",
         "icono": "https://image.tmdb.org/t/p/original/nEPpCbdh5UKspPgaH57SFzFJYw.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/fOgOvKmQKYKrik00FXipZyXAeBf.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/pKKd4BP2dvADt34C0OHZOZh7JZi.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/kGP4qEtHVwOjyZolrynt4lYIyFh.png",
         "type": "PELICULA",
         "descripcion": "La corporación súper Omni Productos de consumo todavía está resuelta a crear su proyecto favorito, Ciudad del Delta, para sustituir la ciudad que se pudre de Detroit. Lamentablemente, los habitantes del área no tienen intención de abandonar sus casas simplemente para deseos de la compañía. A este final, OCP han decidido obligarlos a irse empleando a un ejército mercenario despiadado para atacarlos y acosarlos. Una resistencia subterránea comienza y en esta lucha, Robocop debe decidir donde su lealtad está.",
         "anio": "1993",
@@ -6868,19 +6868,19 @@
     ]
   },
   {
-    "name": "Ciencia ficción",
+    "name": "Acción",
     "samples": [
       {
         "name": "RoboCop",
         "url": "http://144.217.70.79/VODS-M/1080P/RoboCop%202014.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/yTBJM8tkPFixHmC3iSi5ZeH05Cd.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xACuC5FwpCdayrcCsJPxYzrl8BO.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/i3twADDnmJ9JVwwmRkBFJjSIeLR.png",
+        "icono": "https://image.tmdb.org/t/p/original/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/AnQOYkORBcZ6LPyW5k2GDsOlZip.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/AvYbrVeIu3W5aSjpkqZ4eLMae0l.png",
         "type": "PELICULA",
-        "descripcion": "Año 2028. La compañía multinacional OmniCorp domina la tecnología robótica. Sus robots han ganado todo tipo de guerras fuera de los Estados Unidos y ahora quieren probarlos dentro del país. Por su parte, Alex Murphy, un policía de Detroit, trata de acabar con la ola de crímenes que arrasa la ciudad. Cuando Alex resulta gravemente herido en acto de servicio, OmniCorp utiliza sus conocimientos de ciencia robótica para salvarlo y también para dotarlo de extraordinarias habilidades que le permitirán afrontar problemas fuera de lo común.",
-        "anio": "2014",
-        "genero": "Ciencia ficción, Acción, Crimen",
-        "duracion": "113 min"
+        "descripcion": "En un Detroit violento, casi apocalíptico, la empresa malvada Omni Consumer Products gana un contrato del gobierno de la ciudad para privatizar la fuerza policial. Para probar sus cyborgs de erradicación del crimen, la compañía lleva al policía de la calle Alex Murphy a una confrontación armada con el señor del crimen Boddicker para que puedan usar su cuerpo para respaldar su prototipo RoboCop no probado. Pero cuando RoboCop se entera de los planes nefastos de la compañía, se convierte en su maestro.",
+        "anio": "1987",
+        "genero": "Acción, Suspense, Ciencia ficción",
+        "duracion": "102 min"
       }
     ]
   },
@@ -16240,14 +16240,14 @@
       {
         "name": "Karate Kid",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Karate%20Kid%202010.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/qupC1Jxss4YH5Y2ZeIB4XXokGcd.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/j1xaeJZOEOiVBD1rk3dg4YaAk23.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/5xvdB55ZiJ3XUIaNDqvn4NkASxl.png",
+        "icono": "https://image.tmdb.org/t/p/original/tHoASPhXRGJM6XFvDooJHIFcP3r.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fZFSvqWsN8bQiwVmJmcgeoL9awe.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/aIZLLk29r4HtBbjpSqyCYumqps.png",
         "type": "PELICULA",
-        "descripcion": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos.",
-        "anio": "1984",
+        "descripcion": "Dre Parker podría haber sido el más popular en Detroit, pero la carrera profesional de su madre los lleva a ambos a China. Allí logra hacer conexión con su compañera de clase Mei Ying y el sentimiento es mutuo, hasta que las diferencias culturales hacen que su amistad sea imposible. Para que la situación empeore, Dre se consigue un enemigo, el peleonero de la clase, Cheng. Dre no tiene amigos a quién acudir, excepto el encargado de mantenimiento, el Sr. Han.",
+        "anio": "2010",
         "genero": "Acción, Aventura, Drama, Familia",
-        "duracion": "126 min"
+        "duracion": "140 min"
       }
     ]
   },
@@ -16320,19 +16320,19 @@
     ]
   },
   {
-    "name": "Western",
+    "name": "Comedia",
     "samples": [
       {
-        "name": "The Kid (Sin piedad)",
+        "name": "The Kid",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Kid%202019.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/5pcvDorwyuUNxbiSEt2urKUvKYI.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/qogeijTQKJB3XtopMolADVQcnBG.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/iSBE24pLjWjOrsVCzCShB3q8RFX.png",
+        "icono": "https://image.tmdb.org/t/p/original/we8AMv9ufyoXgmOlfX0SmubKOrd.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/mAhCW7QbpL5kwvCWGsfyY3ILoW6.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/c5CN2VOt2qFv1gT9y7pM8TqvNE4.png",
         "type": "PELICULA",
-        "descripcion": "Un muchacho está viviendo los peores momentos de su vida: su tío ha asesinado a su padre y se ha llevado a su hermana para que ejerza la prostitución. El joven tiene que hacer algo frente a esta situación y decide pedir ayuda a su héroe: Billy El Niño. Intenta que el vaquero vengue a su padre y salve a su hermana… sin ningún resultado. Es entonces cuando aparece el sheriff Pat Garrett asombrando al chico con lo que consigue.",
-        "anio": "2019",
-        "genero": "Western, Drama, Acción",
-        "duracion": "100 min"
+        "descripcion": "Una mujer londinense, sumamente pobre, se ve en la necesidad de abandonar a su hijo en una casa de millonarios, aunque por una serie de circustancias el niño terminará siendo cuidado por un vagabundo que se convierte así en su padre. Cinco años después, y con la madre convertida en una popular cantante, el destino tratará de separarlos...",
+        "anio": "1921",
+        "genero": "Comedia, Drama",
+        "duracion": "68 min"
       }
     ]
   },
@@ -19012,7 +19012,7 @@
         "name": "La Pantera Rosa",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Pink%20Panther%202006.mkv",
         "icono": "https://image.tmdb.org/t/p/original/5wYfVgR8hIGeeCk8vifYHZteWdk.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/m10v2akkOffv5YE9EUwc1PHknvg.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/qWM3HxnKBCJmTIJemhMFxzFPUTE.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/xOJpuZVTQ7tUiBtsXhGO7c4VWWa.png",
         "type": "PELICULA",
         "descripcion": "Cuando el entrenador de un equipo de fútbol es asesinado en un estadio, su valioso anillo con el diamante Pantera Rosa es robado. El ambicioso Director Dreyfus asignará el caso al torpe Clouseau para que lo resuelva, nombrándole al mismo tiempo inspector. Sin embargo, su verdadera intención es distraer a la prensa mientras trata de resolver el mismo el caso.",
@@ -22423,7 +22423,7 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Terror",
     "samples": [
       {
         "name": "La noche devoró al mundo",
@@ -22434,7 +22434,7 @@
         "type": "PELICULA",
         "descripcion": "Tras despertarse y encontrarse completamente solo en un apartamento donde la noche anterior se celebraba una fiesta multitudinaria, Sam se ve obligado inmediatamente a enfrentarse a una realidad aterradora: los muertos vivientes han invadido las calles de París.",
         "anio": "2018",
-        "genero": "Drama, Terror, Suspense",
+        "genero": "Terror, Suspense, Ciencia ficción",
         "duracion": "94 min"
       }
     ]
@@ -24741,7 +24741,7 @@
         "name": "Leyenda urbana",
         "url": "http://144.217.70.79/VODS-M/1080P/Urban%20Legend%201998.mkv",
         "icono": "https://image.tmdb.org/t/p/original/51xghNQVIrkdg7T6NknFWCDzpfC.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/vYSNCWtat7O0fsOzz0I81japMF8.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sWYtXkNr4iGDd2khTqBxtoAM555.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/z3aZV5osOueh5dtYkUPiNrhvNB3.png",
         "type": "PELICULA",
         "descripcion": "Todo el mundo ha oído hablar de leyendas urbanas, pero no hay pruebas de que realmente ocurriesen. Pero las míticas leyendas, de pronto, se ejecutan con fatales resultados: Michelle aparece con la cabeza cortada por un hacha, Damon ahorcado en un arbol... ¿Quién está haciendo eso y por qué?... Algunos tendrán que aprender las lecciones de una manera dura.",

@@ -632,7 +632,7 @@
     "name": "Familia",
     "samples": [
       {
-        "name": "Las Vacaciones de Mr. Bean",
+        "name": "Las vacaciones de Mr. Bean",
         "url": "http://144.217.70.79/VODS-M/1080P/Mr%20Beans%20Holiday2007.mkv",
         "icono": "https://image.tmdb.org/t/p/original/67boPPEDTXpLi7X18SGKzV45A1T.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/6bsZQV3CBFs7JQySYVX5npZWkh0.jpg",
@@ -1747,23 +1747,6 @@
         "anio": "2021",
         "genero": "Terror, Misterio, Suspense",
         "duracion": "75 min"
-      }
-    ]
-  },
-  {
-    "name": "Acción",
-    "samples": [
-      {
-        "name": "Retroceder Nunca, Rendirse Jamás",
-        "url": "http://144.217.70.79/VODS-M/1080P/No%20Retreat%20No%20Surrender%201986.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/sMSPeec7sDXl0JBvCtJtVThbIP.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hcmzlQHqeTglKTgo0do9Qxr72NN.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/ArzkqVMOVOIIiM02MP2N6N9UQkA.png",
-        "type": "PELICULA",
-        "descripcion": "Jason Stillwell (Kurt McKinney) es un joven estudiante de karate que entrena en el dōjō de su padre en Los Ángeles. Una noche después que el entrenamiento ha terminado, el dojo es visitado por miembros de un sindicato del crimen organizado con el fin de reclutar al padre de Jason para ser su matón. El padre de Jason es atacado y herido por el ruso Ivan Kraschinsky (Jean-Claude Van Damme), matón a sueldo del jefe de la mafia.",
-        "anio": "1986",
-        "genero": "Acción, Comedia, Crimen, Drama",
-        "duracion": "94 min"
       }
     ]
   },
@@ -27060,6 +27043,23 @@
         "anio": "2002",
         "genero": "Drama, Aventura, Acción, Historia",
         "duracion": "99 min"
+      }
+    ]
+  },
+  {
+    "name": "Suspense",
+    "samples": [
+      {
+        "name": "Furia asesina",
+        "url": "http://144.217.70.79/VODS-M/1080P/You%20Cant%20Run%20Forever%202024.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/zUYEt6OWkppLIJuDpxVqLVLq5JY.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xgotqsHt0x23gs6pC6wM0IGQjYR.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/tQRjoWLyqqezF7XDZkPWA66bQN6.png",
+        "type": "PELICULA",
+        "descripcion": "Una adolescente que padece ansiedad debido a un trágico suceso de su pasado se ve acechada por un sociópata que la persigue por el bosque.",
+        "anio": "2024",
+        "genero": "Suspense",
+        "duracion": "102 min"
       }
     ]
   },

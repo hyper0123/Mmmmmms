@@ -1201,7 +1201,7 @@
         "type": "PELICULA",
         "descripcion": "Durante una misión de rescate, un equipo de Navy Seals descubre que un grupo terrorista tiene acceso a los misiles Stinger construidos por los EE. UU. Y debe establecerse para localizarlos y destruirlos antes de que puedan usarse.",
         "anio": "1990",
-        "genero": "Acción",
+        "genero": "Acción, Aventura, Suspense",
         "duracion": "113 min"
       }
     ]
@@ -2822,19 +2822,19 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "",
     "samples": [
       {
         "name": "Ophelia",
         "url": "http://144.217.70.79/VODS-M/1080P/Ophelia%202018.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/7ItW1N2L2YIWVlZh1cg2Ylh3i8f.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/z58p4iLs8NEUn0CFMyDF2LUwJKv.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/iWCVqQ78BzKvqN8nEpbCQyxjnnj.png",
+        "icono": "https://image.tmdb.org/t/p/original/dyNtV1iZEztMa2GNpJpze8Irygu.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/2tx305lIUjiRRnfVZ3ERsSwGVPz.jpg",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Ophelia (Daisy Ridley), es una joven adolescente e impetuosa que reside en el castillo de Elsinore como una de las personas de confianza de la Reina Gertrude (Naomi Watts). Su personalidad no pasa desapercibida ante los ojos del Príncipe Hamlet (George MacKay), a quien conquista rápidamente. Ambos se enzarzan en un apasionado romance secreto mientras su reino se encuentra al borde de entrar en guerra, plagado de traición y de intrigas palaciegas. Cuando el padre de Hamlet es asesinado, llevando al príncipe a una sed implacable de venganza, Ophelia trata de contener a las altas esferas del poder danés mientras que lucha por decidir entre ser fiel a su corazón o huir para conservar su propia vida. Versión de Hamlet desde la perspectiva de Ofelia.",
-        "anio": "2019",
-        "genero": "Drama, Romance, Historia",
-        "duracion": "114 min"
+        "descripcion": "",
+        "anio": "2018",
+        "genero": "",
+        "duracion": "17 min"
       }
     ]
   },
@@ -3451,7 +3451,7 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Aventura",
     "samples": [
       {
         "name": "Papillon: La gran fuga",
@@ -3462,7 +3462,7 @@
         "type": "PELICULA",
         "descripcion": "Henri “Papillon” Charrière está en la cárcel por un crimen que no ha cometido. Condenado a cadena perpetua y enviado a una prisión de la Guayana Francesa, salva la vida a otro preso, Louis Dega, un falsificador de documentos que decide ayudarle a escapar. Juntos planean el más increíble plan de fuga.",
         "anio": "2017",
-        "genero": "Drama",
+        "genero": "Aventura, Crimen, Drama",
         "duracion": "133 min"
       }
     ]
@@ -7232,7 +7232,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Rush%20Hour%202%202001.mkv",
         "icono": "https://image.tmdb.org/t/p/original/no3uHLYK0lQyjXiIXIj82fgUsZX.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/vPJwn9pp5f58CqdaXU3eOSLoJkl.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/bVIK7Jq6Rxk1TllhWpx2ekPEOEx.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/9WWepdNpSHo99Z28OMEyMq9TDLs.png",
         "type": "PELICULA",
         "descripcion": "El detective James Carter se encuentra de vacaciones en Hong Kong con su buen amigo el detective Lee. Mientras Carter está ansioso por dedicarse a la juerga y las mujeres, Lee tiene que enfrentarse con un jefe de las Tríadas, responsable del asesinato de dos funcionarios de la embajada norteamericana. Conforme avancen en la investigación, descubrirán una trama de distribución de billetes falsos.",
         "anio": "2001",
@@ -16223,14 +16223,14 @@
       {
         "name": "Karate Kid",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Karate%20Kid%202010.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/tHoASPhXRGJM6XFvDooJHIFcP3r.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fZFSvqWsN8bQiwVmJmcgeoL9awe.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/aIZLLk29r4HtBbjpSqyCYumqps.png",
+        "icono": "https://image.tmdb.org/t/p/original/qupC1Jxss4YH5Y2ZeIB4XXokGcd.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/j1xaeJZOEOiVBD1rk3dg4YaAk23.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/5xvdB55ZiJ3XUIaNDqvn4NkASxl.png",
         "type": "PELICULA",
-        "descripcion": "Dre Parker podría haber sido el más popular en Detroit, pero la carrera profesional de su madre los lleva a ambos a China. Allí logra hacer conexión con su compañera de clase Mei Ying y el sentimiento es mutuo, hasta que las diferencias culturales hacen que su amistad sea imposible. Para que la situación empeore, Dre se consigue un enemigo, el peleonero de la clase, Cheng. Dre no tiene amigos a quién acudir, excepto el encargado de mantenimiento, el Sr. Han.",
-        "anio": "2010",
+        "descripcion": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos.",
+        "anio": "1984",
         "genero": "Acción, Aventura, Drama, Familia",
-        "duracion": "140 min"
+        "duracion": "126 min"
       }
     ]
   },
@@ -19710,7 +19710,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Rocketeer%201991.mkv",
         "icono": "https://image.tmdb.org/t/p/original/cUJa72hNjxbG3rX8tMqyvWmF3eG.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/glLgVtOI4njeUlwtYCtVi8OR1qr.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/AkSWc6KtOU8k2Suu0Yjn6A4p68M.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/tiwPtOJVx7NPK5XZOFSvATBe5At.png",
         "type": "PELICULA",
         "descripcion": "Rocketeer recrea los años 1930 en Hollywood, completo de gángsteres, espías nazis y el crecimiento de la Edad de la Aviación. El piloto joven Cliff Secord tropieza con un paquete, el cohete secreto superior y con la ayuda de su mecánico/consejero, Peevy, intenta salvar a su muchacha y parar a los nazis bajo el nombre de Rocketeer.",
         "anio": "1991",

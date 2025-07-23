@@ -21287,40 +21287,6 @@
         "name": "",
         "samples": [
             {
-                "name": "Independence day",
-                "url": "http://144.217.70.79/VODS-M/1080P/Independence%20day%201996.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "1996",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "Independence day resurgence",
-                "url": "http://144.217.70.79/VODS-M/1080P/Independence%20day%20resurgence%202016.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2016",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
                 "name": "Indiana Jones Raiders of the Lost Ark",
                 "url": "http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20Raiders%20of%20the%20Lost%20Ark%201981.mkv",
                 "icono": "",

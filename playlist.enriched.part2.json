@@ -1,22 +1,5 @@
 [
   {
-    "name": "Comedia",
-    "samples": [
-      {
-        "name": "El casete de los recuerdos",
-        "url": "http://144.217.70.79/VODS-M/1080P/Mixtape%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/9dh0rzwmE6IHMaWi11SBQz6SMQf.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kl5LXP7St8ct25BaBUehDGXT3gd.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/tC5vphFdRmTk2k1MVEFzhKElfJM.png",
-        "type": "PELICULA",
-        "descripcion": "",
-        "anio": "2021",
-        "genero": "Comedia, Familia",
-        "duracion": "94 min"
-      }
-    ]
-  },
-  {
     "name": "Animación",
     "samples": [
       {
@@ -2454,7 +2437,7 @@
         "name": "Un millón de años a. C.",
         "url": "http://144.217.70.79/VODS-M/1080P/One%20Million%20Years%20BC%201966.mkv",
         "icono": "https://image.tmdb.org/t/p/original/78YyaNsGtc0ZoE4xSlaZ4yawEWG.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/rYKTvq6xsrc81Gie9Pjeb29I4EZ.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9rR2D1RyBd2Gq1qWhMNen7UHskR.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/q8p4dtLbUGWLfv4jB2dJkM6biKm.png",
         "type": "PELICULA",
         "descripcion": "En tiempos prehistóricos, los hombres se guian por sus instintos de supervivencia, compitiendo contra las grandes depredadores y las tribus rivales. En una de ellas, Tumak es expulsado de su clan, el Pueblo de las Piedras, por haberse peleado con su padre. Tras vagar durante días, es salvado por el pacífico Pueblo de las Conchas, y allá Tumak se enamora de Loana, una de sus miembros.",
@@ -3114,16 +3097,16 @@
     "name": "Comedia",
     "samples": [
       {
-        "name": "Un mar de líos",
+        "name": "Hombre nuevo, vida nueva",
         "url": "http://144.217.70.79/VODS-M/1080P/Overboard%201987.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/otAbYgU15lEbVrS1rQMlfL42LCB.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/yEfTuYAwYwX6ajLNBW6ok3YZnDt.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/lekXv2HA6pbhNicUGgGn74yhKFK.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/x4n4gT5zExTJ7F9UsU3qKFcwFom.png",
         "type": "PELICULA",
         "descripcion": "Joanna Stayton, una rica y presuntuosa heredera, contrata al carpintero Dean Proffitt porque necesita en su yate un armario para guardar su lujoso vestuario. Cuando Dean fracasa en su encargo, ella lo despide sin pagarle. Poco después, al caerse por la borda, Joanna recibe un golpe que le provoca amnesia. Enterado del hecho por la tele, Dean se inventa una historia para hacerse pasar por su marido.",
         "anio": "1987",
         "genero": "Comedia, Romance",
-        "duracion": "112 min"
+        "duracion": "106 min"
       }
     ]
   },
@@ -4444,7 +4427,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Planet%20of%20the%20Apes%202001.mkv",
         "icono": "https://image.tmdb.org/t/p/original/rRvUkYCByrlVMy4GMME3iDAe6er.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/1N0MYYFvYwpM5fi3mjw4150ReoR.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/vhlhtG2t2nNgUiybCSB8JyNlBKm.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/dOP6RGX8T6USTOVAlLy1QRw8goE.png",
         "type": "PELICULA",
         "descripcion": "Luego de un espectacular aterrizaje forzoso en un planeta inexplorado, el intrépido astronauta Leo Davidson se encuentra atrapado en un mundo salvaje donde los monos parlantes dominan a la raza humana. Desesperado por encontrar un camino a casa, Leo debe evadir al invencible ejército de gorilas liderado por el despiadado general Thade.",
         "anio": "2001",
@@ -11142,7 +11125,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Taxi%20Driver%201976.mkv",
         "icono": "https://image.tmdb.org/t/p/original/mZMl0YVHJOrkCUSH9oDOEgDwbHT.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/ibfzLjnMMfPBPh9ybiS3DejnBOH.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/kQgmuG9V3NbDsnthAZQ8XATKE3t.png",
         "type": "PELICULA",
         "descripcion": "Para sobrellevar el insomnio crónico que sufre desde su regreso de Vietnam, Travis Bickle (Robert De Niro) trabaja como taxista nocturno en Nueva York. Es un hombre insociable que apenas tiene contacto con los demás, se pasa los días en el cine y vive prendado de Betsy (Cybill Shepherd), una atractiva rubia que trabaja como voluntaria en una campaña política. Pero lo que realmente obsesiona a Travis es comprobar cómo la violencia, la sordidez y la desolación dominan la ciudad. Y un día decide pasar a la acción.",
         "anio": "1976",
@@ -11308,7 +11291,7 @@
     "name": "Acción",
     "samples": [
       {
-        "name": "Tortugas Ninja 2: Fuera de las Sombras",
+        "name": "Tortugas Ninja 2: Fuera de las sombras",
         "url": "http://144.217.70.79/VODS-M/1080P/Teenage%20Mutant%20Ninja%20Turtles%20Out%20of%20the%20Shadows%202016.mkv",
         "icono": "https://image.tmdb.org/t/p/original/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/41objfan7PDTBG5MFXQl4ownQzJ.jpg",
@@ -11741,7 +11724,7 @@
         "type": "PELICULA",
         "descripcion": "Durante una tormenta, una plataforma submarina en ultra mar queda incomunicada de la superficie. Dentro de ella, además del equipo técnico de la propia plataforma, se encuentra un grupo de militares, que deben recuperar unas cabezas explosivas. Todo se complica con la aparición de unos extraños seres que vienen de las profundidades abisales.",
         "anio": "1989",
-        "genero": "Aventura, Acción, Suspense, Ciencia ficción",
+        "genero": "Aventura, Suspense, Ciencia ficción",
         "duracion": "140 min"
       }
     ]
@@ -17194,7 +17177,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Little%20Things%202021.mkv",
         "icono": "https://image.tmdb.org/t/p/original/j62o61KqXrYeThdmNOtm3UplUSl.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/vfuzELmhBjBTswXj2Vqxnu5ge4g.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/v6wUm66sXjPxpmcisuK7f6KFnQB.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/gpqI6QokoKdTPOwjPPy2uBNj0oX.png",
         "type": "PELICULA",
         "descripcion": "Deke, un ayudante del sheriff del condado de Kern quemado, CA se une a Baxter, un detective experto en LASD, para atrapar a un asesino en serie. El olfato de Deke para las \"pequeñas cosas\" resulta inquietantemente preciso, pero su voluntad de eludir las reglas envuelve a Baxter en un dilema desgarrador. Mientras tanto, Deke debe luchar con un oscuro secreto de su pasado.",
         "anio": "2021",
@@ -18163,7 +18146,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Mothman%20Prophecies%202002.mkv",
         "icono": "https://image.tmdb.org/t/p/original/poYhzoLWvxDGCsSfGBLjc90VN1e.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/AubfNk0tFLzHikn6eO37CCw55t.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/b5yFBXR5AuuIiMzsjXmRgPwnyHk.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/yH3zEI4V4F7RK3si8gA7G7Ts8n9.png",
         "type": "PELICULA",
         "descripcion": "El periodista John Klein se sumerge en un mundo de terror imposible y caos impensable cuando el destino lo lleva a un pueblo somnoliento de Virginia Occidental cuyos residentes están siendo visitados por una gran forma alada que siembra pesadillas horribles y visiones febriles.",
         "anio": "2002",
@@ -18724,7 +18707,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Other%20Guys%202010.mkv",
         "icono": "https://image.tmdb.org/t/p/original/bICF08SgTCMqqyDcTXBlupnEKQL.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/nHyri67CN6juBR6hmOefCn9oGf8.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/bgDaJE5ahhll0OexMDGtujmwVDy.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/gUW9Fq91G6V6TjbxOOJQNvI2uVf.png",
         "type": "PELICULA",
         "descripcion": "Allen Gamble (Will Ferrell) y Terry Hoitz (Mark Wahlberg) son dos policías de Nueva York que viven a la sombra de los héroes del cuerpo, los superagentes Christopher Danson (Dwayne Johnson) y P.K. Highsmith (Samuel L. Jackson). Pero cuando las cosas se tuerzan en la gran manzana, esta peculiar pareja tendrá que abandonar la comisaría y entrar en acción.",
         "anio": "2010",
@@ -23807,7 +23790,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Triggered%202020.mkv",
         "icono": "https://image.tmdb.org/t/p/original/zd1Uq8Iz6fhgs2ciAMABpcy45ON.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/gto0QO51dbuFqeZ6gZ7MjQDRlz0.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/7vXtETEBtuEgvehqXQlYrETDW8z.png",
+        "iconpng": "",
         "type": "PELICULA",
         "descripcion": "Nueve amigos, todos con un oscuro secreto, acampan en el bosque. Después de una noche salvaje de fiesta, se despiertan con bombas suicidas atadas al pecho, todas con tiempos variables en sus relojes de cuenta atrás. Deciden averiguar cómo desarmar las bombas o buscar ayuda, hasta que descubren que pueden “tomarse” el tiempo unos a otros matándose unos a otros.",
         "anio": "2020",
@@ -25099,7 +25082,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Virus%201999.mkv",
         "icono": "https://image.tmdb.org/t/p/original/5Np88iigCfnXvMlMKmCcbPVIbYQ.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/j3Nvs9rZDjsOU3jwtxUwyEum1pn.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/pzRZuKasbjJMp7WHLzkiz0ASWQh.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/aCeBWU0hgg0mHgjj0CzAMF3FOSY.png",
         "type": "PELICULA",
         "descripcion": "La estación espacial rusa MIR sufre el impacto de una poderosa tormenta eléctrica proveniente del espacio exterior mientras transmitía señales al barco Akademik Vladislav Volkov. La MIR queda destruida, mientras que una extraña pero extremadamente avanzada inteligencia artificial toma el control de las computadoras a bordo del Akademik. La nave queda devastada y aparentemente la tripulación abandona el barco a la deriva.",
         "anio": "1999",
@@ -25511,7 +25494,7 @@
         "type": "PELICULA",
         "descripcion": "Cuando un sórdido ejecutivo de televisión les ofrece a Wayne y Garth un gran contrato para grabar su programa de acceso público nocturno en su red, no pueden creer su buena fortuna. Pero pronto descubren que el camino desde el sótano hasta el gran momento es retorcido, lleno de peligros, tentaciones y oportunidades de fiesta.",
         "anio": "1992",
-        "genero": "Comedia, Música",
+        "genero": "Comedia",
         "duracion": "95 min"
       }
     ]

@@ -850,7 +850,7 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Suspense",
     "samples": [
       {
         "name": "7500",
@@ -861,7 +861,7 @@
         "type": "PELICULA",
         "descripcion": "Tobias es el joven copiloto de un avión que es secuestrado por unos terroristas, quedando él como único negociador con los atacantes desde dentro de la cabina sellada. Cuando los secuestradores matan a un pasajero y amenazan con matar a más gente inocente si Tobias no abre la puerta de la cabina, este hombre normal se enfrentará a la prueba de su vida.",
         "anio": "2019",
-        "genero": "Drama, Suspense, Acción",
+        "genero": "Suspense",
         "duracion": "94 min"
       }
     ]
@@ -8656,7 +8656,7 @@
     "name": "Acción",
     "samples": [
       {
-        "name": "Celular",
+        "name": "Celular: Llamada desesperada",
         "url": "http://144.217.70.79/VODS-M/1080P/Cellular%202004.mkv",
         "icono": "https://image.tmdb.org/t/p/original/6F0Rz5SObtMlbT6U0kGVKcdTXN2.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/5KoOfHVSYvnKbCqCxJokTYlPoPP.jpg",
@@ -15153,7 +15153,7 @@
         "name": "Rápidos y furiosos",
         "url": "http://144.217.70.79/VODS-M/1080P/Fast%20and%20Furious%204%202009.mkv",
         "icono": "https://image.tmdb.org/t/p/original/b4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/aZGJeO9va2S7EFelJRQM4srtxpW.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/acktCBsLJcgEJsjTuyiQhJipCD6.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/AcSNp8Xw9NXKBPcqCeoOp857gcG.png",
         "type": "PELICULA",
         "descripcion": "El fugitivo Dom Toretto (Vin Diesel) y el detective Brian O’Conner (Paul Walker) vuelven a encontrarse en Los Ángeles, pero sus relaciones no mejoran. Sin embargo, obligados a enfrentarse a un enemigo común, no les queda más remedio que unir sus fuerzas si quieren vencerlo. Después del atraco a un convoy, los dos protagonistas averiguan que si quieren vengarse, deberán llegar al límite de sus posibilidades al volante.",

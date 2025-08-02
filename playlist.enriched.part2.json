@@ -6431,7 +6431,7 @@
       {
         "name": "Rez Ball",
         "url": "http://144.217.70.79/VODS-M/1080P/Rez%20Ball%202024.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/5MKpjuiCTk8nYnsUf5QegiPKEDh.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/b3wlEN6rrITSm6SUzu2NbEFmDdB.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/gPok6BQpPvPHqcvga60Lq40UwGl.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/1pGaU2a6xfKaKT2hr5SfwgO8HXe.png",
         "type": "PELICULA",
@@ -6834,19 +6834,19 @@
     ]
   },
   {
-    "name": "Acción",
+    "name": "Ciencia ficción",
     "samples": [
       {
         "name": "RoboCop",
         "url": "http://144.217.70.79/VODS-M/1080P/RoboCop%202014.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/AvYbrVeIu3W5aSjpkqZ4eLMae0l.png",
+        "icono": "https://image.tmdb.org/t/p/original/2ej8wIzOYBgWQ5XlpeFulnkHAoI.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hTDAWiohFTwJaKNcCNlsKs64bip.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/i3twADDnmJ9JVwwmRkBFJjSIeLR.png",
         "type": "PELICULA",
-        "descripcion": "En un Detroit violento, casi apocalíptico, la empresa malvada Omni Consumer Products gana un contrato del gobierno de la ciudad para privatizar la fuerza policial. Para probar sus cyborgs de erradicación del crimen, la compañía lleva al policía de la calle Alex Murphy a una confrontación armada con el señor del crimen Boddicker para que puedan usar su cuerpo para respaldar su prototipo RoboCop no probado. Pero cuando RoboCop se entera de los planes nefastos de la compañía, se convierte en su maestro.",
-        "anio": "1987",
-        "genero": "Acción, Suspense, Ciencia ficción",
-        "duracion": "102 min"
+        "descripcion": "Año 2028. La compañía multinacional OmniCorp domina la tecnología robótica. Sus robots han ganado todo tipo de guerras fuera de los Estados Unidos y ahora quieren probarlos dentro del país. Por su parte, Alex Murphy, un policía de Detroit, trata de acabar con la ola de crímenes que arrasa la ciudad. Cuando Alex resulta gravemente herido en acto de servicio, OmniCorp utiliza sus conocimientos de ciencia robótica para salvarlo y también para dotarlo de extraordinarias habilidades que le permitirán afrontar problemas fuera de lo común.",
+        "anio": "2014",
+        "genero": "Ciencia ficción, Acción, Crimen",
+        "duracion": "113 min"
       }
     ]
   },
@@ -9633,7 +9633,7 @@
         "type": "PELICULA",
         "descripcion": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man (El Hombre Araña). Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
         "anio": "2017",
-        "genero": "Acción, Aventura, Ciencia ficción, Drama",
+        "genero": "Acción, Aventura, Ciencia ficción",
         "duracion": "133 min"
       }
     ]
@@ -11410,7 +11410,7 @@
     "name": "Acción",
     "samples": [
       {
-        "name": "Terminator 2: El Juicio Final",
+        "name": "Terminator 2: El juicio final",
         "url": "http://144.217.70.79/VODS-M/1080P/Terminator%202%20El%20Juicio%20Final%201991.mkv",
         "icono": "https://image.tmdb.org/t/p/original/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/vINgGecnz95iDL6fjQMARDsocgG.jpg",
@@ -11798,19 +11798,19 @@
     ]
   },
   {
-    "name": "Comedia",
+    "name": "Familia",
     "samples": [
       {
         "name": "Los Locos Addams",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Addams%20Family%202019.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/ro7bdsSGp1jtvMxSWEfLLCK33PO.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/w4GExspvGJkVCGwyLsImtKR338z.png",
+        "icono": "https://image.tmdb.org/t/p/original/307Y96L1iJ6gujCfuGPWNTqgbBd.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uCAy0n0WHTGU4d3LMJtE0fQxCej.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/bGaI0KeDpd1snbkAgKJaqQLHNkb.png",
         "type": "PELICULA",
-        "descripcion": "El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar.",
-        "anio": "1991",
-        "genero": "Comedia, Fantasía",
-        "duracion": "100 min"
+        "descripcion": "Los integrantes de la espeluznante familia Addams preparan una fiesta a la que asistirán sus terroríficos familiares, pero una amenaza se cierne sobre todos ellos: una estrella de la televisión se ha dado cuenta de que la lúgubre mansión de la familia le impide vender todas las casas del vecindario y hará lo que sea necesario para deshacerse de ellos.",
+        "anio": "2019",
+        "genero": "Familia, Animación, Comedia, Fantasía",
+        "duracion": "87 min"
       }
     ]
   },
@@ -12756,7 +12756,7 @@
         "name": "La supremacía Bourne",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Bourne%20Supremacy%202004.mkv",
         "icono": "https://image.tmdb.org/t/p/original/kTFFwQHdaTUb5MJmB8KBGO7lh7N.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/unmI2cUB0RvlpXj7AfSgphzDsUt.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xTl1KkHSnMIYnYMukoAQUOewcrY.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/kiYZOSShHDgYul2SodVA7UUUWNj.png",
         "type": "PELICULA",
         "descripcion": "Cuando Jason Bourne es incriminado en una operación de la CIA que salió mal, se ve obligado a reanudar su vida anterior como asesino entrenado para sobrevivir.",
@@ -15119,7 +15119,7 @@
         "name": "Milagros Inesperados",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Green%20Mile%201999.mkv",
         "icono": "https://image.tmdb.org/t/p/original/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/ySvIuGcBZSs779zcyICSeJc9A4.png",
         "type": "PELICULA",
         "descripcion": "Las vidas de los guardias del corredor de la muerte se ven afectadas por uno de sus cargos: un hombre negro acusado de asesinato y violación de niños, pero que tiene un misterioso don.",

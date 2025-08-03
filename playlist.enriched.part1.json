@@ -793,7 +793,7 @@
         "type": "PELICULA",
         "descripcion": "Un ranchero simple pero orgulloso en el año 1922 conspira para asesinar a su esposa para obtener ganancias financieras, convenciendo a su hijo adolescente para que participe.",
         "anio": "2017",
-        "genero": "Terror, Crimen, Drama",
+        "genero": "Terror, Crimen, Drama, Misterio, Suspense",
         "duracion": "102 min"
       }
     ]
@@ -13640,7 +13640,7 @@
         "name": "Duna",
         "url": "http://144.217.70.79/VODS-M/1080P/Dune%202021.mkv",
         "icono": "https://image.tmdb.org/t/p/original/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/wYMbnrdRCREjNLwFlG5SLWzBjui.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/woifx7xduIyJYq8ktCiN36zt9Xu.png",
         "type": "PELICULA",
         "descripcion": "Paul Atreides, un joven brillante y talentoso nacido en un gran destino más allá de su entendimiento, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y de su pueblo.",
@@ -19876,9 +19876,9 @@
     "name": "Aventura",
     "samples": [
       {
-        "name": "Querida, Encogí a los Niños",
+        "name": "Querida, encogí a los niños",
         "url": "http://144.217.70.79/VODS-M/1080P/Honey%20I%20Shrunk%20The%20Kids%201989.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/xv4CVVG2s5iLLbAULHwxXR4m9CV.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/qJTnjQRxnMAxgjplIORxGdQswhW.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/d9xVUFkEKNxyOIihbpvAVdjzcL.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/51rwpkUa5Z2NdDDkdrZjzHK4OPY.png",
         "type": "PELICULA",

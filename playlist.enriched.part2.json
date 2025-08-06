@@ -1756,7 +1756,7 @@
       {
         "name": "Sin tiempo para morir",
         "url": "http://144.217.70.79/VODS-M/1080P/No%20Time%20to%20Die%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/rDfYClNuplM26KwPbyFAE7CDZo4.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/r9kkyXTEibeNAvCTJ32VfTuklBm.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/bz7pwNGCbV576COsDcYN9MbEACC.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/h02wT4F1aPBkQ94NlSx3ypOI5xl.png",
         "type": "PELICULA",
@@ -6477,19 +6477,19 @@
     ]
   },
   {
-    "name": "Acción",
+    "name": "Suspense",
     "samples": [
       {
-        "name": "Into Pitch Black",
+        "name": "Riddick: Criaturas de la noche",
         "url": "http://144.217.70.79/VODS-M/1080P/Riddick%20Pitch%20Black%202000.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/daB2WDVkOXzaWohtuxvOArpRF4X.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/bPw2N56vdHgAjgNAWBD68WYGFVU.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/hsrBRkY7j4aLMil3dy52lKQJPlD.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/mZGwhwIwYuF0G9XLS8j23dhNfUC.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/tOiD7y4mQd0kjoj0Ni16e2wuc0P.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "Cuando su barco hace un aterrizaje forzoso en un planeta remoto, los pasajeros marooned pronto aprenden que el presidiario evitado Riddick no es la única cosa que tienen que temer. Las criaturas mortales están al acecho en las sombras, esperando a atacar en la oscuridad, y el planeta se sumerge rápidamente en la oscuridad completa de un eclipse total. Con la rebelión del número de muertos, los sobrevivientes condenados se obligan a dar vuelta a Riddick con sus ojos misteriosos para dirigirlos a través de la oscuridad a la seguridad. Con el tiempo agotándose, hay sólo una regla: Quédese en la luz.",
         "anio": "2000",
-        "genero": "Acción, Ciencia ficción, Crimen, Película de TV",
-        "duracion": "44 min"
+        "genero": "Suspense, Ciencia ficción, Acción",
+        "duracion": "108 min"
       }
     ]
   },
@@ -8248,13 +8248,13 @@
     "name": "Drama",
     "samples": [
       {
-        "name": "Shadow of the Vampire",
+        "name": "La sombra del vampiro",
         "url": "http://144.217.70.79/VODS-M/1080P/Shadow%20of%20the%20Vampire%202000.mkv",
         "icono": "https://image.tmdb.org/t/p/original/vW22B922eE010y8qkG3YXMCeQUY.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/cKKhk85c1TZSYy6ZF94QpUH8bRw.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/hJxLmz3rgLTEpZsiOR8uPqe9wtj.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "Año 1921. Para hacer \"Nosferatu\", Murnau ha decidido contratar a Max Schreck, un vampiro auténtico, como protagonista. Trata de justificar ante el equipo de rodaje el peculiar comportamiento de Schreck, explicando que se trata de un actor formado por el mismísimo Stanislavsky. Si Schreck es capaz de actuar siguiendo las directrices de Murnau y de controlar hasta el final sus primitivas necesidades, recibirá como premio el sabroso cuello de Greta, la protagonista de la película.",
         "anio": "2000",
         "genero": "Drama, Terror",
         "duracion": "95 min"
@@ -13101,7 +13101,7 @@
         "type": "PELICULA",
         "descripcion": "Mike Myers protagoniza esta película en el papel del travieso visitante felino con sombrero que enseña a dos niños que \"es divertido divertirse pero hay que saber cómo hacerlo\". Dakota Fanning y Spencer Breslin encarnan a los dos niños que tienen el placer de presenciar la anárquica conducta del gato y su habilidad para divertirse desafiando las leyes de la gravedad. Kelly Preston hace el papel de la madre y Alec Baldwin es Lawrence Quinn, el vecino que aspira a convertirse en padrastro de los niños, para desesperación de éstos.",
         "anio": "2003",
-        "genero": "Familia, Fantasía, Comedia, Aventura",
+        "genero": "Familia, Comedia, Aventura",
         "duracion": "81 min"
       }
     ]
@@ -14133,7 +14133,7 @@
         "name": "El Paciente Inglés",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20English%20Patient%201996.mkv",
         "icono": "https://image.tmdb.org/t/p/original/rFrE4iRB9Cdj2T3H1JeeV6DOuL8.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/yYe63HwFBNFDcnWtBm8KR6NSAeg.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hJcHZ36093DQPZY1cF0UoSHZ3pM.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/4cooEV7H9Ca2FA2n9mghJCpzu5.png",
         "type": "PELICULA",
         "descripcion": "Finales de la Segunda Guerra Mundial (1939-1945). Un hombre herido viaja en un convoy sanitario por una carretera italiana, pero su estado es tan grave que tiene que quedarse en un monasterio deshabitado y semiderruido, donde se encarga de cuidarlo Hana, una enfermera canadiense. Aunque su cuerpo está totalmente quemado a consecuencia de un accidente sufrido en África, tiene todavía ánimo para contarle a Hana la trágica historia de su vida.",
@@ -22128,7 +22128,7 @@
         "type": "PELICULA",
         "descripcion": "Illumination y Universal Pictures presentan El Grinch, basada en el amado clásico del Dr. Seuss. El Grinch cuenta la historia de un cínico gruñón que va en una misión para robarse la Navidad, sólo para descubrir que su corazón ha cambiado gracias al generoso espíritu de una pequeña niña. Divertida, conmovedora y visualmente impresionante, ¡El Grinch es diversión para toda la familia!",
         "anio": "2018",
-        "genero": "Familia, Fantasía, Comedia, Animación",
+        "genero": "Familia, Comedia, Animación",
         "duracion": "85 min"
       }
     ]
@@ -23520,7 +23520,7 @@
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/2pViauhiZLhAUb1lsY6wRir69SF.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/pQ5xs9ORLHUV1aNUQW9tqQypPM3.png",
         "type": "PELICULA",
-        "descripcion": "Louis Winthorpe III, un ejecutivo de clase alta, y Billy Ray Valentine, un estafador, son objeto de apuestas de Mortimer y Randolph Duke. Un empleado de los Duke, Winthorpe es incriminado por un delito que no cometió. Los hermanos ponen a Valentine en su lugar. Cuando Winthorpe y Valentine revelan el plan, ponen manos a la obra para vengarse de los Duke.",
+        "descripcion": "Dos hombres de negocios sostienen distintas tesis sobre las condiciones de la naturaleza humana. Para uno es cuestión de genética, para el otro es cuestión de educación. Para corroborar sus teorías hacen una apuesta para lo cual cambian los destinos de dos personas socialmente antagónicas.",
         "anio": "1983",
         "genero": "Comedia",
         "duracion": "117 min"
@@ -24180,7 +24180,7 @@
         "name": "Gemelos",
         "url": "http://144.217.70.79/VODS-M/1080P/Twins%201988.mkv",
         "icono": "https://image.tmdb.org/t/p/original/z17mNScwFyZ9sOplnd2R9aQOmlr.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lqB8L6JFxylBtVrTUxhreGceB9c.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/sAtK99PjOX1IzDUV24N2nab803R.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/cB2TNwHNicOJK3sdQPusCeIv03S.png",
         "type": "PELICULA",
         "descripcion": "Dos gemelos que vinieron al mundo por un experimento de carácter científico se encuentran al cabo de los años, tras haber pasado la mayor parte de sus vidas separados. Una vez juntos tratan de encontrar a su madre que según parece reside cerca de la frontera de México. El viaje hasta allí será aprovechado por uno de ellos para entregar una valiosa mercancía.",

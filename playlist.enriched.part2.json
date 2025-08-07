@@ -6477,19 +6477,19 @@
     ]
   },
   {
-    "name": "Suspense",
+    "name": "Acción",
     "samples": [
       {
-        "name": "Riddick: Criaturas de la noche",
+        "name": "Into Pitch Black",
         "url": "http://144.217.70.79/VODS-M/1080P/Riddick%20Pitch%20Black%202000.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/hsrBRkY7j4aLMil3dy52lKQJPlD.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/mZGwhwIwYuF0G9XLS8j23dhNfUC.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/tOiD7y4mQd0kjoj0Ni16e2wuc0P.png",
+        "icono": "https://image.tmdb.org/t/p/original/daB2WDVkOXzaWohtuxvOArpRF4X.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/bPw2N56vdHgAjgNAWBD68WYGFVU.jpg",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Cuando su barco hace un aterrizaje forzoso en un planeta remoto, los pasajeros marooned pronto aprenden que el presidiario evitado Riddick no es la única cosa que tienen que temer. Las criaturas mortales están al acecho en las sombras, esperando a atacar en la oscuridad, y el planeta se sumerge rápidamente en la oscuridad completa de un eclipse total. Con la rebelión del número de muertos, los sobrevivientes condenados se obligan a dar vuelta a Riddick con sus ojos misteriosos para dirigirlos a través de la oscuridad a la seguridad. Con el tiempo agotándose, hay sólo una regla: Quédese en la luz.",
+        "descripcion": "",
         "anio": "2000",
-        "genero": "Suspense, Ciencia ficción, Acción",
-        "duracion": "108 min"
+        "genero": "Acción, Ciencia ficción, Crimen, Película de TV",
+        "duracion": "44 min"
       }
     ]
   },
@@ -8165,7 +8165,7 @@
       {
         "name": "Session 9",
         "url": "http://144.217.70.79/VODS-M/1080P/Session%209%202001.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/A3Au37c3KJX29BDvldzGiYtaU5B.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/FQxPGP7BKt3bMTVkFGeHmZvi3Z.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/q00YpCIaO4ke4qstYnds9PtAz3t.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/hhBu8Ce7Yw5H5C9d346RBSsAXTo.png",
         "type": "PELICULA",
@@ -13031,7 +13031,7 @@
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/nj0rIFyjZ0GUOQYnGM8YyGR3CmS.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/6i2Zh6bCBgnnH1CX1OvPnJjSnVs.png",
         "type": "PELICULA",
-        "descripcion": "Cuando Steven, que acaba de quedarse soltero, se muda a su nuevo apartamento, Chip, el chico de la televisión por cable, llega para ayudarlo... y no lo deja ir.",
+        "descripcion": "Steven Kovacs es un joven que acaba de romper con su novia y que pretende instalar en su casa un servicio de televisión por cable de forma gratuita. Pero Kovacs se encuentra con un instalador un tanto peculiar, que busca incansablemente un amigo con el que compartir su vida. Desde el momento en el que el \"Chico del Cable\" entra en casa del protagonista, intenta adentrarse en la vida de éste hasta arruinársela... y poco a poco se va convirtiendo en un ser peligroso, capaz de hacer cualquier cosa por mantener la incipiente amistad con su cliente.",
         "anio": "1996",
         "genero": "Comedia, Drama, Suspense",
         "duracion": "96 min"
@@ -13442,7 +13442,7 @@
         "descripcion": "América, años veinte. El Cotton Club es el night club de jazz más famoso de Harlem (Nueva York). Su historia es la historia de la gente que frecuenta el local: Dixie Dwyer (Richard Gere), un atractivo trompetista que busca el éxito y cuya suerte cambia radicalmente cuando salva la vida del gángster Dutch Schultz; Sandman Williams (Gregory Hines), un brillante bailarín negro que sueña con convertirse en estrella, o Vera Cicero (Diane Lane), la novia de Dutch Schultz, una joven bella y ambiciosa cuya vida corre peligro debido a la pasión prohibida que siente por Dixie.",
         "anio": "1984",
         "genero": "Crimen, Drama",
-        "duracion": "139 min"
+        "duracion": "130 min"
       }
     ]
   },
@@ -24265,7 +24265,7 @@
         "name": "U-571 La Batalla del Atlántico",
         "url": "http://144.217.70.79/VODS-M/1080P/U-571%202000.mkv",
         "icono": "https://image.tmdb.org/t/p/original/rClVtpK6BXLlSJLzZZ3N71Gb6Ci.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/rH5iGrkU1crJRY9Jmi7UDHG2x2h.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lLWTiGXchR54rGizSIdK9Ibaylx.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/7MUgEp2CXc8YnEXXcFSNMnulmNj.png",
         "type": "PELICULA",
         "descripcion": "En 1942, en plena Segunda Guerra Mundial, la flota alemana está causándole a los Aliados un gran número de bajas. Los submarinos de Hitler hunden cientos de barcos gracias a un sistema de comunicaciones llamado \"enigma\", que permite establecer con extraordinaria exactitud la posición de los objetivos que hay que destruir. Un capitán norteamericano ha conseguido, sin embargo, detectar que las señales del codificador \"enigma\" proceden de un submarino alemán averiado, el U-571, que se encuentra en mitad del Atlántico Norte. Rápidamente, un grupo de oficiales aliados que se hacen pasar por alemanes, son enviados para reducir a la tripulación del U-571 y apoderarse del codificador con el fin de interceptar las comunicaciones alemanas.",
@@ -25948,7 +25948,7 @@
         "name": "Mientras dormías",
         "url": "http://144.217.70.79/VODS-M/1080P/While%20You%20Were%20Sleeping%201995.mkv",
         "icono": "https://image.tmdb.org/t/p/original/uBKNw0PPwJJi2gMP526UDeNELg.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/8z9FAuMxfF3qg8uLZ2BUFCDmpbd.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/41aN5d8FbhW4bRmwQSfHLIyKAE4.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/drqIG8WKSL4qLEXsULWhon67Ign.png",
         "type": "PELICULA",
         "descripcion": "Lucy es una joven taquillera del metro con poca suerte en el amor. Su sueño es salir con Peter, un guapo ejecutivo que todos los días coge el metro sin fijarse en ella. Un día Peter tiene un accidente en el metro y, aunque Lucy le salva la vida, queda en estado de coma. Cuando va a visitarlo al hospital, y los familiares de Peter creen que ella es su prometida, Lucy no se atreve a decirles la verdad. La situación se complica porque Jack, el hermano de Peter, empieza a sospechar que Lucy no es la novia de su hermano.",

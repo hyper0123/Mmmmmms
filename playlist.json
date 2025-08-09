@@ -25894,23 +25894,6 @@
         "name": "",
         "samples": [
             {
-                "name": "Maleficent",
-                "url": "http://144.217.70.79/VODS-M/1080P/Maleficent%202014.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2014",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
                 "name": "Maleficent Mistress of Evil",
                 "url": "http://144.217.70.79/VODS-M/1080P/Maleficent%20Mistress%20of%20Evil%202019.mkv",
                 "icono": "",
@@ -41381,6 +41364,23 @@
         "name": "",
         "samples": [
             {
+                "name": "The Doors",
+                "url": "http://144.217.70.79/VODS-M/1080P/The%20Doors%201991.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "1991",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
                 "name": "The Duel",
                 "url": "http://144.217.70.79/VODS-M/1080P/The%20Duel%202016.mkv",
                 "icono": "",
@@ -54462,23 +54462,6 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "1990",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "Young Guns",
-                "url": "http://144.217.70.79/VODS-M/1080P/Young%20Guns%201988.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "1988",
                 "genero": "",
                 "duracion": ""
             }

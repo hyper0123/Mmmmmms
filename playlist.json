@@ -29719,6 +29719,57 @@
         "name": "",
         "samples": [
             {
+                "name": "Once Upon a Time in China",
+                "url": "http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20China%201991.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "1991",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "Once Upon a Time in China II",
+                "url": "http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20China%20II%201992.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "1992",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "Once Upon a Time in China IIII",
+                "url": "http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20China%20IIII%201992.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "1992",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
                 "name": "Once Upon a Time in Mexico",
                 "url": "http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20Mexico%202003.mkv",
                 "icono": "",
@@ -31291,6 +31342,23 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2019",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "Peter Pans Neverland Nightmare",
+                "url": "http://144.217.70.79/VODS-M/1080P/Peter%20Pans%20Neverland%20Nightmare%202025.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
                 "genero": "",
                 "duracion": ""
             }

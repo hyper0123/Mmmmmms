@@ -1643,7 +1643,7 @@
         "type": "PELICULA",
         "descripcion": "Jack McCall es un agente literario que habla muy rápido, que puede cerrar cualquier trato, en cualquier momento y de cualquier manera. Ha puesto su mirada en el gurú de la Nueva Era, el Dr. Sinja (Cliff Curtis) para sus propios fines egoístas. Pero el Dr. Sinja se da cuenta, y, para darle una leccion...\r la vida de Jack se desmorona después de que un árbol mágico de Bodhi aparece misteriosamente en su patio trasero. Con cada palabra que Jack habla, una hoja cae del árbol y pronto se da cuenta de que cuando caiga la última hoja, tanto para él como para el árbol será su fin. Las palabras nunca le han faltado a Jack McCall, pero ahora tiene que dejar de hablar y evocar algunas formas escandalosas de comunicarse o todo habrá terminado antes de encontrar una solución a todo esto.",
         "anio": "2012",
-        "genero": "Drama, Comedia",
+        "genero": "Drama, Comedia, Fantasía",
         "duracion": "91 min"
       }
     ]
@@ -10240,7 +10240,7 @@
         "name": "Creed. Corazón de campeón",
         "url": "http://144.217.70.79/VODS-M/1080P/Creed%202015.mkv",
         "icono": "https://image.tmdb.org/t/p/original/fTdozSSr2cTZcioldjfVUbBzhrW.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lBX2EklMBEK5I0OIJWVJFr3DtmS.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kODNw6GJNdgldUMEhKPlCw8wQCr.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/jAsPTPMr6ydDHYt5c441lp4DUfm.png",
         "type": "PELICULA",
         "descripcion": "Adonis Johnson nunca conoció a su padre famoso, el campeón mundial de peso pesado Apollo Creed, quien murió antes de que él naciera. Sin embargo, no se puede negar que el boxeo corre por sus venas; así que Adonis se dirige a Filadelfia, el lugar de la legendaria pelea donde Apollo Creed enfrentó a un rudo advenedizo llamado Rocky Balboa. Una vez en la Ciudad del Amor Fraternal, Adonis rastrea a Rocky y le pide que sea su entrenador.",
@@ -15987,7 +15987,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Flamin%20Hot%202023.mkv",
         "icono": "https://image.tmdb.org/t/p/original/gHghpc8mhVi7P5YilodDt7NLEtU.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/yYEOYzgqPB31mkSsuPdCvXH3zHv.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/qlND6TtomznGJGzeVkRmAbUuopp.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/9kFmkNAtcwJavIwiRqkcK1b6i9N.png",
         "type": "PELICULA",
         "descripcion": "La motivadora historia de Richard Montañez, el conserje de Frito Lay quien encausó su herencia mexicana americana para transformar los icónicos Cheetos Flamin’ Hot en una botana que revolucionaría la industria de los alimentos y se convertiría en un fenómeno de la cultura pop mundial.",
         "anio": "2023",
@@ -24891,16 +24891,16 @@
     "name": "Drama",
     "samples": [
       {
-        "name": "De tal padre",
+        "name": "そして父になる",
         "url": "http://144.217.70.79/VODS-M/1080P/Like%20father%202018.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/4F9Cr7EmSapex05iE6yzDWxJY4U.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/pDQvWtaF4ujUooN4lojronauIFU.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/j80cZfMt6bmK2UsrM3P2KL2F50L.png",
+        "icono": "https://image.tmdb.org/t/p/original/1oF7tadi6Aczz4CrSpU6v8xfCOR.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpBl6nGmRaUKmvASc1S3hB9F71q.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/xpRuSfPsJaXxrTIzCAV6q1MhZhz.png",
         "type": "PELICULA",
-        "descripcion": "Luego de quedar plantada en el altar, una ejecutiva de publicidad adicta al trabajo acaba de luna de miel en el Caribe con su padre abandónico.",
-        "anio": "2018",
+        "descripcion": "Ryoata, un arquitecto obsesionado por el éxito profesional, vive felizmente con su esposa y su hijo de seis años; pero su mundo se viene abajo cuando los responsables del hospital donde nació su hijo le comunican que, debido a una confusión, el niño fue cambiado por otro.",
+        "anio": "2013",
         "genero": "Drama",
-        "duracion": "103 min"
+        "duracion": "120 min"
       }
     ]
   },

@@ -1,56 +1,5 @@
 [
   {
-    "name": "Animación",
-    "samples": [
-      {
-        "name": "Moana 2",
-        "url": "http://144.217.70.79/VODS-M/1080P/Moana%202%202024.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/bit1B5F7IQydiWqdwAAD8f9TkXs.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/6y1b2fmGr4ZoIxMcQRBF0PQ6Sw.png",
-        "type": "PELICULA",
-        "descripcion": "Después de recibir una llamada inesperada de sus antepasados ​​navegantes, Moana viajará a los lejanos mares de Oceanía, donde vivirá una peligrosa aventura con su nueva tripulación.",
-        "anio": "2024",
-        "genero": "Animación, Aventura, Familia, Comedia",
-        "duracion": "100 min"
-      }
-    ]
-  },
-  {
-    "name": "Aventura",
-    "samples": [
-      {
-        "name": "Moana: Un mar de aventuras",
-        "url": "http://144.217.70.79/VODS-M/1080P/Moana%202016.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/megWWuC8tSODx90i0gP0fVM1wVo.png",
-        "type": "PELICULA",
-        "descripcion": "En la antigua Polinesia, cuando una terrible maldición del semidiós Maui llega a la isla de Moana, ella responde al llamado del océano para buscar al semidiós y arreglar las cosas.",
-        "anio": "2016",
-        "genero": "Aventura, Comedia, Familia, Animación",
-        "duracion": "107 min"
-      }
-    ]
-  },
-  {
-    "name": "Drama",
-    "samples": [
-      {
-        "name": "Mob Town",
-        "url": "http://144.217.70.79/VODS-M/1080P/Mob%20Town%202019.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/1BL0X6TKtKuYjd6CsZLzZvAYRlb.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/rbtjeAjtfKrOxVpKmZadmuvgE3H.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/4AwbakeOOAm1OwrHzoNSoXeQVlY.png",
-        "type": "PELICULA",
-        "descripcion": "Basado en la historia real de la famosa \"cumbre de la mafia\" de 1957 en el estado de Nueva York. Encabezados por Vito Genovese, más de 50 líderes de los sindicatos del crimen organizado de todo el país se reunieron en la tranquila ciudad para discutir los próximos planes de expansión. Sus planes se frustran cuando el policía local Ed Croswell descubre sus actividades y, en consecuencia, expone a la mafia al público estadounidense. Las acciones de Croswell arrojan luz sobre la red masiva de corrupción y cambiaron la cara de la policía para siempre.",
-        "anio": "2019",
-        "genero": "Drama, Crimen",
-        "duracion": "90 min"
-      }
-    ]
-  },
-  {
     "name": "Comedia",
     "samples": [
       {
@@ -2383,6 +2332,57 @@
     "name": "Acción",
     "samples": [
       {
+        "name": "Érase una vez en China",
+        "url": "http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20China%201991.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/ooSXekSYeZ0o2AB4pKZI6eMdZRr.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/shl0ELODK3VgHr7pu8VTz2a8olW.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/7n94ArXu2rIJA00hVFuXyV2Pmif.png",
+        "type": "PELICULA",
+        "descripcion": "Érase una vez en China, cuyo título internacional es Once Upon a Time in China es una serie cinematográfica china, creada en 1991 por Tsui Hark, Yuen Kai Chi, Edward Leung y Elsa Tang, \"remake\" de la serie cinematográfica The Story of Wong Fei Hung, creada en 1949 por Ng Yat Siu y Chu Yu Chai.",
+        "anio": "1991",
+        "genero": "Acción, Drama",
+        "duracion": "133 min"
+      }
+    ]
+  },
+  {
+    "name": "Acción",
+    "samples": [
+      {
+        "name": "Érase una vez en China II",
+        "url": "http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20China%20II%201992.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/vx8yYEchEUancS4gJmJ3QKcd82r.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/zrSmI2wP2WIkWrgfP7IDSY1F9fW.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/inFDAz9Cja14V2tO4cJaK9RKKjE.png",
+        "type": "PELICULA",
+        "descripcion": "Segunda parte de la serie wuxia Once Upon a Time in China con Jet Li. El héroe Wong Fei Hung viaja a un congreso médico en Cantón en el siglo XIX, donde conoce a la secta del Loto Blanco, que quiere prevenir el imperialismo europeo en China. Ella toma todos los medios para hacer esto.",
+        "anio": "1992",
+        "genero": "Acción, Comedia",
+        "duracion": "113 min"
+      }
+    ]
+  },
+  {
+    "name": "Acción",
+    "samples": [
+      {
+        "name": "Érase una vez en China III",
+        "url": "http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20China%20III%201993.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/4aWhBrnScZEqxdp4hASzeL8TEin.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/8W9dXK2Q0lajJnE5jZSTwAduTu2.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/sjeH7efAOXDBSa2jlyygQZrAVNZ.png",
+        "type": "PELICULA",
+        "descripcion": "Fei Hung Wong va a Pekín a visitar a su padre, un maestro de la danza del león. Allí tendrá que defender la escuela de su padre de una escuela rival. Al mismo tiempo, la prima Yee se encuentra con un antiguo pretendiente que está involucrado en un complot para asesinar al Gobernador Chino. Éste le regala a la prima Yee una cámara de cine en la que se registra una prueba del complot, y descubren que el asesinato está previsto durante la competición de la danza del león. Fei Hung Wong entra en la competición para evitar el asesinato...",
+        "anio": "1993",
+        "genero": "Acción",
+        "duracion": "112 min"
+      }
+    ]
+  },
+  {
+    "name": "Acción",
+    "samples": [
+      {
         "name": "Érase una vez en México",
         "url": "http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20Mexico%202003.mkv",
         "icono": "https://image.tmdb.org/t/p/original/jWofPn9h93Out6ePI1ip4EiyE7P.jpg",
@@ -3957,6 +3957,23 @@
         "anio": "2019",
         "genero": "Terror, Suspense",
         "duracion": "100 min"
+      }
+    ]
+  },
+  {
+    "name": "Terror",
+    "samples": [
+      {
+        "name": "Peter Pan: Pesadilla  en la tierra del nunca jamás",
+        "url": "http://144.217.70.79/VODS-M/1080P/Peter%20Pans%20Neverland%20Nightmare%202025.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/oyd8yTJ8nF7uob9bq1zKDCuKOhb.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/w3R8LTPU3ocl6oXuNkXmqw5bIFi.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/4PuBmnWzem630v43SNq8Mg42qum.png",
+        "type": "PELICULA",
+        "descripcion": "Wendy Darling se adentra en un Nunca Jamás convertido en pesadilla para rescatar a su hermano, enfrentándose a un Peter Pan cruel y a una Campanilla consumida por una adicción autodestructiva.",
+        "anio": "2025",
+        "genero": "Terror, Suspense, Fantasía",
+        "duracion": "89 min"
       }
     ]
   },
@@ -14025,6 +14042,23 @@
     ]
   },
   {
+    "name": "Música",
+    "samples": [
+      {
+        "name": "The Doors",
+        "url": "http://144.217.70.79/VODS-M/1080P/The%20Doors%201991.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/xa5dn3u0pwFcbWqANxZt0LTQCka.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/g6RGgpftXp59bVvy7pMi9ERYOt.png",
+        "type": "PELICULA",
+        "descripcion": "Jim Morrison, cabeza visible de The Doors, para muchos fue un regalo de Dios; para otros, un vástago del Diablo. Vivió al límite, en una anárquica carrera autodestructiva salpicada de escándalos y arrebatos de ira y de pasión que lo hundieron en un abismo de sexo, alcohol y drogas.",
+        "anio": "1991",
+        "genero": "Música, Drama, Historia",
+        "duracion": "140 min"
+      }
+    ]
+  },
+  {
     "name": "Western",
     "samples": [
       {
@@ -15662,7 +15696,7 @@
       {
         "name": "Los juegos del hambre",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Hunger%20Games%202012.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/kFC9H1K1FeiWdbxayX4CskmWpS5.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/qSEn7KsGchT7qB08HlviyeTPrEr.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/p2i9vE7mu2ZTmwYbEiimgHeKpq5.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/28IgVztvlvzVAhLwcmBC5pydYwJ.png",
         "type": "PELICULA",
@@ -19793,7 +19827,7 @@
       {
         "name": "La salvación",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Salvation%202014.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/vtIv27kO6MPeKWUYrEj22fygTjm.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/lpy6fTZo8krKXF3gWy7RkmQME0O.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/iXQNyhk1rFtFd9Fo9gUYiw9hlv0.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/5kVZmQg2VgGrfuAbea3ChrCjIdb.png",
         "type": "PELICULA",
@@ -22191,7 +22225,7 @@
         "name": "Huracán: Categoría 5",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20hurricane%20heist%202018.mkv",
         "icono": "https://image.tmdb.org/t/p/original/76yQcIZR6NG191Ab38JqKR4JWQL.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/22Q1GGmw1vt1OiTTt2ue9q4k6MW.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/3ZQRLuXNTbewOHDfxF51fy74gh4.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/rPghFpPQueePdvBrjYNADdRSBQb.png",
         "type": "PELICULA",
         "descripcion": "Un grupo de hackers se infiltran en una instalación de una pequeña ciudad costera para robar 102 millones de dólares justo cuando un tornado de categoría 5, la tormenta del siglo, está a punto de estallar. Las únicas dos personas que quedan en el pueblo son un meteorólogo y una agente del tesoro, que deberán sobrevivir a la tormenta y evitar que los ladrones salgan impunes del robo del siglo.",
@@ -27111,23 +27145,6 @@
         "anio": "1990",
         "genero": "Western, Aventura",
         "duracion": "132 min"
-      }
-    ]
-  },
-  {
-    "name": "Western",
-    "samples": [
-      {
-        "name": "Jóvenes pistoleros",
-        "url": "http://144.217.70.79/VODS-M/1080P/Young%20Guns%201988.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/cirl4qaSvqow6lcvZvpRZFXKo1W.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/AoFo9HeJU7jiHAUNawpwhs3zQbd.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/xO9wdgqj70E0VJBNmQnXCfFai8C.png",
-        "type": "PELICULA",
-        "descripcion": "En una zona fronteriza con México, Tunstall contrata coo ayudantes para su granja a jóvenes, huidos o vagabundos, a quienes enseña y educa. Entre ellos hay uno con una gran puntería. Tunstall cuenta en el pueblo con competidores codiciosos que ponen trabas a sus negocios y matan por la espalda sin ningún temor a las consecuencias.",
-        "anio": "1988",
-        "genero": "Western, Acción, Aventura",
-        "duracion": "107 min"
       }
     ]
   },

@@ -3167,7 +3167,7 @@
       {
         "name": "El Vencedor (Over the Top)",
         "url": "http://144.217.70.79/VODS-M/1080P/Over%20the%20Top%201986.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/2VIJulJo9no81FRoMfU0iF3tplS.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/gjkXw0MOKgr5WEdFlWDNZFyst9v.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/36ioS38a5xjITP6qpZg1zDUL5K4.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/2l8ABy0392iYEcVQ4LDDw2xMLiG.png",
         "type": "PELICULA",
@@ -4556,19 +4556,19 @@
     ]
   },
   {
-    "name": "Animación",
+    "name": "Aventura",
     "samples": [
       {
         "name": "Pocahontas",
         "url": "http://144.217.70.79/VODS-M/1080P/Pocahontas%201995.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/wpwFGXyvNAWrM6LCHUb2VUgkopw.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uoRriEVC0iH19vnOLTXf75dkZDZ.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/cW4D4KPUwEhijFEOrB0DcXMcWEl.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "La historia viene gloriosamente a la vida en la historia épica de Disney sobre el amor y la aventura en el Nuevo Mundo. Pocahontas es una mujer nativa americana cuyo padre ha arreglado para que ella se case con el mejor guerrero de su pueblo. Pero una visión le dice que el cambio está llegando, y pronto ella se encuentra cara a cara con ella en la forma del Capitán John Smith.",
         "anio": "1995",
-        "genero": "Animación",
-        "duracion": "50 min"
+        "genero": "Aventura, Animación, Familia, Romance",
+        "duracion": "81 min"
       }
     ]
   },
@@ -13651,19 +13651,19 @@
     ]
   },
   {
-    "name": "Terror",
+    "name": "Fantasía",
     "samples": [
       {
-        "name": "La Oscuridad",
+        "name": "El Reino del Dragón",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Dark%202018.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/8ju0L6Wy5QrW6XJOGvaLjVCDwtZ.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/3bC3FyK6rmaebYzoT8qX7EoHgah.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/4FBBD9QoBaB3ozLfPgyC1K87ddx.png",
+        "icono": "https://image.tmdb.org/t/p/original/tP1RNlRlnNwy4KG8TFN37tKRUVr.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jhpsTzbXEu5bkCPmBqxv7vUTjIT.jpg",
+        "iconpng": "",
         "type": "PELICULA",
-        "descripcion": "Una muchacha sobrevive en un bosque tras haber sido asesinada tiempo atrás. Con un rostro deformado por el maltrato que sufrió, es consciente de que nunca podrá abandonar la zona en la que se encuentra, por lo que se alimenta de todo lo que se adentra en su \"hogar\". Un día, un asesino en serie que huye se tropieza con ella, convirtiéndose así en su última víctima. Sin embargo, la joven no cuenta con que, en el maletero de su vehículo, se esconde un chico que estaba a punto de sufrir las mismas penurias que ella.",
+        "descripcion": "",
         "anio": "2018",
-        "genero": "Terror, Drama, Fantasía",
-        "duracion": "95 min"
+        "genero": "Fantasía, Aventura, Ciencia ficción, Acción",
+        "duracion": "85 min"
       }
     ]
   },
@@ -22239,16 +22239,16 @@
     "name": "Familia",
     "samples": [
       {
-        "name": "El Libro de la Selva",
+        "name": "El libro de la selva",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20jungle%20book%202016.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/pQGB08Kxyt3TLN4L01E175BRcvu.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/8oYykF1Qhrb8fC2qZqD71EzRywg.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/rxczMszrZnGR4DQAenulHnwrmaT.png",
+        "icono": "https://image.tmdb.org/t/p/original/uBKffnwwHGIkQET18gVPsyeDdjC.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/zj8XS0l1cWStpKnuD1LFMB3VoV1.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/lyKPMBW2VmCi2pQBts8CbsjBveH.png",
         "type": "PELICULA",
-        "descripcion": "Mowgli, un niño criado en la selva por una manada de lobos, emprende un fascinante viaje de autodescubrimiento cuando se ve obligado a abandonar el único hogar que ha conocido en toda su vida.",
-        "anio": "2016",
-        "genero": "Familia, Aventura, Drama, Fantasía, Animación",
-        "duracion": "106 min"
+        "descripcion": "Bagheera, la pantera, y Baloo, el oso, tienen dificultades para convencer a un niño de que abandone la selva para ir a la civilización humana.",
+        "anio": "1967",
+        "genero": "Familia, Animación, Aventura",
+        "duracion": "78 min"
       }
     ]
   },

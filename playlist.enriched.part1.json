@@ -8437,7 +8437,7 @@
       {
         "name": "Casper",
         "url": "http://144.217.70.79/VODS-M/1080P/Casper%201995.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/94n8xYTfzPRq6ZikElvSn37NpYE.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/sQPckU0TfSeYIlUneHfIXwzQC2f.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/eNSxpyZO818EXRmgTVFrs4buWu7.png",
         "type": "PELICULA",
@@ -17328,7 +17328,7 @@
       {
         "name": "El experimento fantasma",
         "url": "http://144.217.70.79/VODS-M/1080P/Ghost%20Lab%202021.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/5eLNJYehI3VwIe5S7Yz3uxVWVOa.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/FlR6q3Y5eMUr3FlHrwXIPx7aUi.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/ok5OH3S28TWsk764AS1KPe8ICin.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/cNyy0UrR6qLzdPanKpXah6AkMoE.png",
         "type": "PELICULA",
@@ -19012,7 +19012,7 @@
         "name": "Harry Potter y el cáliz de fuego",
         "url": "http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%202005.mkv",
         "icono": "https://image.tmdb.org/t/p/original/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/deaw0ZqB4AS5sUJnQGfiySQy5vp.png",
         "type": "PELICULA",
         "descripcion": "La cuarta parte de la serie del niño mago comienza con la Copa Internacional de Quidditch. Cuenta también el inicio de la atracción por Cho Chang y otro año de magia, en el que una gran sorpresa obligará a Harry a enfrentarse a muchos desafíos temibles. También habrá un torneo de magia para tres escuelas, y el temido regreso de «Aquel-que-no-debe-ser-nombrado».",
@@ -21631,7 +21631,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Interstellar%202014.mkv",
         "icono": "https://image.tmdb.org/t/p/original/cQuuBjG78j4b2r1dFpAjnjbUplv.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/5959p0CeeEOC4Aridrqky2zqhLr.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/s83LgVMe3PbieFaHBp9XcRGrtj7.png",
         "type": "PELICULA",
         "descripcion": "Narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
         "anio": "2014",
@@ -24891,16 +24891,16 @@
     "name": "Drama",
     "samples": [
       {
-        "name": "De tal padre",
+        "name": "そして父になる",
         "url": "http://144.217.70.79/VODS-M/1080P/Like%20father%202018.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/4F9Cr7EmSapex05iE6yzDWxJY4U.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/pDQvWtaF4ujUooN4lojronauIFU.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/j80cZfMt6bmK2UsrM3P2KL2F50L.png",
+        "icono": "https://image.tmdb.org/t/p/original/1oF7tadi6Aczz4CrSpU6v8xfCOR.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpBl6nGmRaUKmvASc1S3hB9F71q.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/xpRuSfPsJaXxrTIzCAV6q1MhZhz.png",
         "type": "PELICULA",
-        "descripcion": "Luego de quedar plantada en el altar, una ejecutiva de publicidad adicta al trabajo acaba de luna de miel en el Caribe con su padre abandónico.",
-        "anio": "2018",
+        "descripcion": "Ryoata, un arquitecto obsesionado por el éxito profesional, vive felizmente con su esposa y su hijo de seis años; pero su mundo se viene abajo cuando los responsables del hospital donde nació su hijo le comunican que, debido a una confusión, el niño fue cambiado por otro.",
+        "anio": "2013",
         "genero": "Drama",
-        "duracion": "103 min"
+        "duracion": "120 min"
       }
     ]
   },

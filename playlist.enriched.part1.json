@@ -4329,7 +4329,7 @@
         "type": "PELICULA",
         "descripcion": "Quedan pocas horas para que el año toque a su fin y en la comisaría del distrito 13, sólo queda un puñado de policías encabezado por el sargento Jake Roenick (Ethan Hawke), un buen oficial que no consigue olvidar una operación fallida que tuvo lugar la primavera pasada. Pero es que, además, ese mismo día por la mañana, un policía de paisano había intentado arrestar al mafioso Marion Bishop (Laurence Fishburne), el cual consiguió matar al agente antes de ser capturado por la Unidad contra el Crimen Organizado encabezada por Marcus Duvall (Gabriel Byrne). Bishop es trasladado en autobús a la cárcel, pero la tormenta de nieve arrecia y el autobús, ante la imposibilidad de llegar a la cárcel de máxima seguridad, se dirige provisionalmente a la comisaría del distrito 13.",
         "anio": "2005",
-        "genero": "Suspense, Acción, Aventura, Crimen, Drama",
+        "genero": "Suspense, Acción, Aventura, Crimen",
         "duracion": "109 min"
       }
     ]
@@ -12858,7 +12858,7 @@
         "name": "Dragon Ball: Una Aventura Mística",
         "url": "http://144.217.70.79/VODS-M/1080P/Dragon%20Ball%20Mystical%20Adventure%201986.mkv",
         "icono": "https://image.tmdb.org/t/p/original/7f2vIwxEXryqavvgVAcqUe2CG0Q.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xvq3BaNgmAkdmdoz7isqX68XS40.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/k6HbOAMj7nxR5cmYjOXZHfXWAZm.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/1EAYkMTVAHNMG5Mj8RPgJIwPf4O.png",
         "type": "PELICULA",
         "descripcion": "Después que terminaran su entrenamiento con el Maestro Roshi, Goku y Krilin se dirigen a la ciudad Mifan para participar en el Torneo de las Artes Marciales, ala vez Ran Ran esposa del Emperador Chaoz se encuentra perdida, el Ministro Tsuru le aconseja recolectar las esferas del dragón para luego pedir como deseo encontrar a su esposa.",
@@ -24891,16 +24891,16 @@
     "name": "Drama",
     "samples": [
       {
-        "name": "そして父になる",
+        "name": "De tal padre",
         "url": "http://144.217.70.79/VODS-M/1080P/Like%20father%202018.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/1oF7tadi6Aczz4CrSpU6v8xfCOR.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpBl6nGmRaUKmvASc1S3hB9F71q.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/xpRuSfPsJaXxrTIzCAV6q1MhZhz.png",
+        "icono": "https://image.tmdb.org/t/p/original/4F9Cr7EmSapex05iE6yzDWxJY4U.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/pDQvWtaF4ujUooN4lojronauIFU.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/j80cZfMt6bmK2UsrM3P2KL2F50L.png",
         "type": "PELICULA",
-        "descripcion": "Ryoata, un arquitecto obsesionado por el éxito profesional, vive felizmente con su esposa y su hijo de seis años; pero su mundo se viene abajo cuando los responsables del hospital donde nació su hijo le comunican que, debido a una confusión, el niño fue cambiado por otro.",
-        "anio": "2013",
+        "descripcion": "Luego de quedar plantada en el altar, una ejecutiva de publicidad adicta al trabajo acaba de luna de miel en el Caribe con su padre abandónico.",
+        "anio": "2018",
         "genero": "Drama",
-        "duracion": "120 min"
+        "duracion": "103 min"
       }
     ]
   },
@@ -25670,7 +25670,7 @@
     ]
   },
   {
-    "name": "Familia",
+    "name": "Aventura",
     "samples": [
       {
         "name": "Madagascar 2: Escape de África",
@@ -25681,7 +25681,7 @@
         "type": "PELICULA",
         "descripcion": "El león Alex, la cebra Marty, la jirafa Melman y la hipopótamo Gloria permanecen en Madagascar a la espera de regresar a su zoológico. En su empeño por volver a casa, arreglan un viejo aeroplano, que les hará llegar hasta las inmensas llanuras africanas.",
         "anio": "2008",
-        "genero": "Familia, Aventura, Animación, Comedia",
+        "genero": "Aventura, Animación, Comedia, Familia, Drama",
         "duracion": "89 min"
       }
     ]

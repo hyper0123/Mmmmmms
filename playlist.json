@@ -22732,6 +22732,23 @@
         "name": "",
         "samples": [
             {
+                "name": "Joseph",
+                "url": "http://144.217.70.79/VODS-M/1080P/Joseph%201995.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "1995",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
                 "name": "Journey 2 The Mysterious Island",
                 "url": "http://144.217.70.79/VODS-M/1080P/Journey%202%20The%20Mysterious%20Island%202012.mkv",
                 "icono": "",
@@ -32592,6 +32609,23 @@
         "name": "",
         "samples": [
             {
+                "name": "Professor Marston and the Wonder Women",
+                "url": "http://144.217.70.79/VODS-M/1080P/Professor%20Marston%20and%20the%20Wonder%20Women%202017.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2017",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
                 "name": "Project Almanac",
                 "url": "http://144.217.70.79/VODS-M/1080P/Project%20Almanac%202014.mkv",
                 "icono": "",
@@ -36051,6 +36085,23 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2002",
+                "genero": "",
+                "duracion": ""
+            }
+        ]
+    },
+    {
+        "name": "",
+        "samples": [
+            {
+                "name": "Silent Hill 2 Revelations",
+                "url": "http://144.217.70.79/VODS-M/1080P/Silent%20Hill%202%20Revelations%202012.mkv",
+                "icono": "",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2012",
                 "genero": "",
                 "duracion": ""
             }

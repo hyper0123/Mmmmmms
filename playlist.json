@@ -2366,40 +2366,6 @@
         "name": "",
         "samples": [
             {
-                "name": "Alice Through The Looking Glass",
-                "url": "http://144.217.70.79/VODS-M/1080P/Alice%20Through%20The%20Looking%20Glass%202016.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2016",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "Alice in Wonderland",
-                "url": "http://144.217.70.79/VODS-M/1080P/Alice%20in%20Wonderland%202010.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2010",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
                 "name": "Alien covenant",
                 "url": "http://144.217.70.79/VODS-M/1080P/Alien%20covenant%202017.mkv",
                 "icono": "",
@@ -14359,23 +14325,6 @@
                 "type": "PELICULA",
                 "descripcion": "",
                 "anio": "2021",
-                "genero": "",
-                "duracion": ""
-            }
-        ]
-    },
-    {
-        "name": "",
-        "samples": [
-            {
-                "name": "Escape from Alcatraz",
-                "url": "http://144.217.70.79/VODS-M/1080P/Escape%20from%20Alcatraz%201979.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "1979",
                 "genero": "",
                 "duracion": ""
             }

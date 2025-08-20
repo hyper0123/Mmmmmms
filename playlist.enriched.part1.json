@@ -2363,40 +2363,6 @@
     ]
   },
   {
-    "name": "Aventura",
-    "samples": [
-      {
-        "name": "Alicia a través del espejo",
-        "url": "http://144.217.70.79/VODS-M/1080P/Alice%20Through%20The%20Looking%20Glass%202016.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/enTsjngbsWuf1JB6YoYOOd67GdE.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/A6d09KtZKdVGSg0gzsldjDwwvhD.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/fFMfSa0NKwYZ3bc4dqjaiqWVli3.png",
-        "type": "PELICULA",
-        "descripcion": "En una fiesta en casa de Lord Ascott, Alicia se encuentra con Ábsolem, que ahora es una mariposa monarca azul que ayuda a Alicia a regresar al fantástico mundo de Infratierra, donde encuentra a sus amigos: el Conejo Blanco, el Gato Sonriente, Lirón, la Liebre, los Tweedles y el Sombrerero Loco, pero éste, desafortunadamente, ya no es el mismo: ha perdido su “muchosidad”. Alicia tendrá entonces que ir a ver a Tiempo. Tiempo, una peculiar criatura mitad humano, mitad reloj, vive en un vacío infinito y posee la cronoesfera, una esfera metálica que permitirá a Alicia volver para salvar a la familia del Sombrerero.",
-        "anio": "2016",
-        "genero": "Aventura, Familia, Fantasía",
-        "duracion": "113 min"
-      }
-    ]
-  },
-  {
-    "name": "Familia",
-    "samples": [
-      {
-        "name": "Alicia en el país de las maravillas",
-        "url": "http://144.217.70.79/VODS-M/1080P/Alice%20in%20Wonderland%202010.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/lTL10rosTEhOZp8E3zoniXddyRC.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ocOWbTzHcJVTw9Tz173KPeskDOP.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/9jX8ZA01zEuwiQzzdANfl3A6J37.png",
-        "type": "PELICULA",
-        "descripcion": "Alice, una persona de 19 años sin pretensiones e individual, está comprometida con un burro de un noble inglés. En su fiesta de compromiso, se escapa de la multitud pSSSSSara considerar si seguir adelante con el matrimonio y se cae por un agujero en el jardín después de ver a un conejo inusual. Al llegar a un lugar extraño y surrealista llamado 'Underland', se encuentra en un mundo que se asemeja a las pesadillas que tuvo cuando era niña, lleno de animales parlanchines, reinas y caballeros malvados y frugíficos anoraks. Alice se da cuenta de que está allí por una razón: conquistar el horrible Jabberwocky y restaurar a la legítima reina de su trono.",
-        "anio": "2010",
-        "genero": "Familia, Fantasía, Aventura",
-        "duracion": "108 min"
-      }
-    ]
-  },
-  {
     "name": "Terror",
     "samples": [
       {
@@ -3632,7 +3598,7 @@
         "type": "PELICULA",
         "descripcion": "Los superhéroes Scott Lang y Hope van Dyne regresan para continuar sus aventuras como Ant-Man y Wasp. Con los padres de Hope, Hank Pym y Janet van Dyne, y con la hija de Scott, Cassie Lang, la familia explora el Reino Quántico, interactúa con extrañas criaturas y se embarca en una aventura que los hará ir más allá de lo que creían posible.",
         "anio": "2023",
-        "genero": "Acción, Aventura, Ciencia ficción, Terror",
+        "genero": "Acción, Aventura, Ciencia ficción",
         "duracion": "125 min"
       }
     ]
@@ -9884,7 +9850,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Con%20Air%201997.mkv",
         "icono": "https://image.tmdb.org/t/p/original/mZv1XUFAzhVvyTwrtjclzbtW4HJ.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/vsmlShNNHrYlERZaqMOsZ3YctoO.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/7yh1zNg4QmpwAeYZPwWh44yeazS.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/j7mG0o4mffsVH2sypd7yykQ9JPO.png",
         "type": "PELICULA",
         "descripcion": "Un grupo de presos peligrosos son trasladados a un nuevo centro penitenciario. En el avión viaja también Cameron Poe, que acaba de conseguir la libertad condicional y cuyo único deseo es reunirse de nuevo con su esposa e hija. Sin embargo, durante el trayecto, Poe se ve envuelto en un secuestro aéreo urdido meticulosamente por Cyrus Grissom. Mientras Poe intenta evitar que Cyrus y sus secuaces masacren a toda la tripulacion y que el avión se estrelle contra Las Vegas, Vince Larkin, un oficial de la policia judicial, tiene que convencer a sus superiores para que no hagan explotar al avión con todos sus pasajeros",
         "anio": "1997",
@@ -14365,23 +14331,6 @@
     ]
   },
   {
-    "name": "Drama",
-    "samples": [
-      {
-        "name": "Alcatraz: fuga imposible",
-        "url": "http://144.217.70.79/VODS-M/1080P/Escape%20from%20Alcatraz%201979.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/3UWuFh0zYNnFGSoQY8DGplSjiW8.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hdi07iPiYKVVzYUSKVU00r4j3ck.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/gvqwhlJP1yaBSa3SscHys06MviZ.png",
-        "type": "PELICULA",
-        "descripcion": "Bahía de San Francisco, 18 de enero de 1960. Frank Lee Morris es trasladado a Alcatraz, una prisión de máxima seguridad situada en una isla rocosa. A pesar de que nadie ha conseguido nunca evadirse de allí, Frank y otros reclusos empiezan a preparar minuciosamente un plan de fuga.",
-        "anio": "1979",
-        "genero": "Drama, Suspense",
-        "duracion": "113 min"
-      }
-    ]
-  },
-  {
     "name": "Acción",
     "samples": [
       {
@@ -14882,7 +14831,7 @@
         "url": "http://144.217.70.79/VODS-M/1080P/Face%20Off%201997.mkv",
         "icono": "https://image.tmdb.org/t/p/original/alizmPaRHq7sGHW5eoshoYzWjf9.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/uHzsz1k9LadTlSSvd2XRUzojBwQ.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/4wyqGJUkNoSvJxG676mqiNCurgS.png",
         "type": "PELICULA",
         "descripcion": "Para frustrar un complot terrorista, un agente del FBI se somete a una cirugía de transplante facial y asume la identidad de un cerebro criminal, que asesinó a su único hijo. El plan se torna agrio cuando el criminal se despierta prematuramente y busca venganza.",
         "anio": "1997",
@@ -22783,6 +22732,23 @@
     "name": "Aventura",
     "samples": [
       {
+        "name": "La Biblia: José, los sueños del faraón",
+        "url": "http://144.217.70.79/VODS-M/1080P/Joseph%201995.mkv",
+        "icono": "https://image.tmdb.org/t/p/original/oHgKDaGZrTYSq027geIWs1JHfH6.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/2cn22NVt8khIUnubnB5oAUAoImF.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/3a0Xsrg59lEoc1l06R5l9oG8ERR.png",
+        "type": "PELICULA",
+        "descripcion": "Adaptación televisiva de la historia bíblica de José, un muchacho que posee un don extraordinario que le permite adivinar el futuro a través de los sueños. Tras ser abandonado por sus hermanos y vendido como esclavo por unos beduinos, con el tiempo llega a ser un príncipe de Egipto.",
+        "anio": "1995",
+        "genero": "Aventura, Drama, Película de TV",
+        "duracion": "185 min"
+      }
+    ]
+  },
+  {
+    "name": "Aventura",
+    "samples": [
+      {
         "name": "Viaje 2: La Isla Misteriosa",
         "url": "http://144.217.70.79/VODS-M/1080P/Journey%202%20The%20Mysterious%20Island%202012.mkv",
         "icono": "https://image.tmdb.org/t/p/original/hAy2yUav8QPnDzfOGihNI527NjY.jpg",
@@ -24486,7 +24452,7 @@
         "name": "Legalmente Rubia 2: Más Rubia que Nunca",
         "url": "http://144.217.70.79/VODS-M/1080P/Legally%20Blonde%202%20Red%20White%20and%20Blonde%202003.mkv",
         "icono": "https://image.tmdb.org/t/p/original/8JcIhADz1hUqsifza7OdaKwzRRp.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/cVPnuuh9stB4b2So2kdMfscKiv.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jmf9dLoKVDDwEB2cb0OJ9fEGbHy.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/av1u38UwAMHZX4S0X31l4ejDje7.png",
         "type": "PELICULA",
         "descripcion": "Elle Woods (Reese Witherspoon) quiere que su perro Chihuahua, Bruiser, se reúna con su madre porque le gustaría que la madre de Bruiser vaya a su boda (la de Elle). Elle contrata a un detective para que encuentre a su madre, sólo para descubrir que la compañía que tiene a la madre de su perro es una cosmética que usa a la madre de Bruiser para probar los cosméticos. Ella descubre que su estudio jurídico representa a C'est Magnifique Corporation, y en sus propuestas anuales propone que el estudio detenga los ensayos con animales de C'est Magnifique. Ella dice que el estudio sobre animales es injusto, y como resultado la echan del estudio jurídico.",

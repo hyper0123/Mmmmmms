@@ -8471,7 +8471,7 @@
       {
         "name": "La huida",
         "url": "http://144.217.70.79/VODS-M/1080P/Shoot%20Em%20Up%202007.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/hZ4p0MvSUWnCCL0IUn47UXTVPCs.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/7TOnBDgDhTfD3CQJS6EQkCp9QoX.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/1bYY2WUsHyCl66gQAGoF40JIryW.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/c9KscaiZCriltvXOpbnWHyiJH2E.png",
         "type": "PELICULA",
@@ -8670,19 +8670,19 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Crimen",
     "samples": [
       {
         "name": "Siberia",
         "url": "http://144.217.70.79/VODS-M/1080P/Siberia%202020.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/vSCjeSAkdrAyi3XDIrNWpMsH5oP.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kK8ZsfmTfucRtCcEFeI2uhkXqMG.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/9rpTuk7JIhwNhMiTXzxzQlulkvN.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/rp6aXM2EWkaUdq6zbSlhUOY2869.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/dLXhz47DXrszQKjHPy9ddiAxOaK.png",
         "type": "PELICULA",
-        "descripcion": "Un hombre que desea estar solitario se adentra hacia un lugar frio, donde vive en una cueva para tener paz interior, pero en este lugar no le traerá lo que busca, entre alucinaciones y recuerdos tratara de llegar a su verdad.",
-        "anio": "2020",
-        "genero": "Drama, Fantasía, Terror",
-        "duracion": "91 min"
+        "descripcion": "Cuando el socio ruso de un tratante de diamantes norteamericano (Keanu Reaves) desaparece, éste viaja a Siberia en su búsqueda, donde conoce a Katya (Ana Ularu), la joven propietaria de un café.",
+        "anio": "2018",
+        "genero": "Crimen, Romance, Suspense",
+        "duracion": "105 min"
       }
     ]
   },
@@ -8734,6 +8734,23 @@
         "anio": "2002",
         "genero": "Drama, Suspense, Ciencia ficción, Misterio",
         "duracion": "106 min"
+      }
+    ]
+  },
+  {
+    "name": "Variado",
+    "samples": [
+      {
+        "name": "Silent Hill 2 Revelations",
+        "url": "http://144.217.70.79/VODS-M/1080P/Silent%20Hill%202%20Revelations%202012.mkv",
+        "icono": "",
+        "iconoHorizontal": "",
+        "iconpng": "",
+        "type": "PELICULA",
+        "descripcion": "",
+        "anio": "2012",
+        "genero": "",
+        "duracion": ""
       }
     ]
   },
@@ -9809,7 +9826,7 @@
     ]
   },
   {
-    "name": "Acción",
+    "name": "Ciencia ficción",
     "samples": [
       {
         "name": "Fracción de Segundo",
@@ -9820,7 +9837,7 @@
         "type": "PELICULA",
         "descripcion": "Año 2008: el calentamiento del planeta ha provocado graves inundaciones en todo el mundo, incluida la ciudad de Londres, que ha quedado sumergida bajo varios metros de agua. En este caos, la ley y el orden han desaparecido, y ha surgido un nuevo asesino, sobrenatural, implacable e imposible de detener. El atípico policía Harley Stone (Rutger Hauer) conoce desafortunadamente al criminal... y hará lo que sea para acabar con él. Pero cuando el asesino es una pérfida máquina de matar de más de tres metros de altura, ni en el futuro hay armas capaces de detener su sangriento dominio.",
         "anio": "1992",
-        "genero": "Acción, Crimen, Terror, Ciencia ficción",
+        "genero": "Ciencia ficción, Acción, Crimen, Suspense",
         "duracion": "90 min"
       }
     ]
@@ -12209,23 +12226,6 @@
     "name": "Western",
     "samples": [
       {
-        "name": "La Balada de Buster Scruggs",
-        "url": "http://144.217.70.79/VODS-M/1080P/The%20Ballad%20of%20Buster%20Scruggs%202018.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/yFuOyhrC6ipT1tJwIUM9PFs1o77.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/12RXkIWUXwOHXgAmlxJNIWRGrri.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/xI8D5JTzLxFICAUUUv9WE3cVw24.png",
-        "type": "PELICULA",
-        "descripcion": "Una película de antología compuesta por seis historias, cada una de ellas sobre un aspecto diferente de la vida en el Viejo Oeste.  Seis caminos que tejen las historias en el viejo Oeste al final de la Guerra Civil. Siguiendo los relatos de un cantor de filo, un aspirante a ladrón de bancos, dos artistas que viajan cansados, un buscador de oro solitario, una mujer que viaja a Occidente hacia un futuro incierto, y un equipo variopinto de extraños que realizan un viaje en carruaje.",
-        "anio": "2018",
-        "genero": "Western, Comedia, Drama, Música, Misterio, Romance",
-        "duracion": "132 min"
-      }
-    ]
-  },
-  {
-    "name": "Western",
-    "samples": [
-      {
         "name": "La balada de Lefty Brown",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Ballad%20of%20Lefty%20Brown%202017.mkv",
         "icono": "https://image.tmdb.org/t/p/original/a5IJMOUST8kTysFHaC05vnF5y4I.jpg",
@@ -13384,7 +13384,7 @@
       {
         "name": "El Conjuro",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Conjuring%202013.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
+        "icono": "https://image.tmdb.org/t/p/original/10ir0eISr3p1MF1mjZwGTx7u4vv.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/5qjvxFhRZtvm4mcV90X9QNYLZVj.png",
         "type": "PELICULA",
@@ -22249,23 +22249,6 @@
         "anio": "1967",
         "genero": "Familia, Animación, Aventura",
         "duracion": "78 min"
-      }
-    ]
-  },
-  {
-    "name": "Acción",
-    "samples": [
-      {
-        "name": "El último maestro del aire",
-        "url": "http://144.217.70.79/VODS-M/1080P/The%20last%20airbender%202010.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/ztvnkvNYtZReU9iQyY94PXw3nzs.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/gU5cR9LKtDD8YvzE7T7GvmzCEAA.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/tf4OOjhIqFrHbLNZ0Xtg7bBlAze.png",
-        "type": "PELICULA",
-        "descripcion": "El último sucesor de los maestros del aire debe aprender a dominar los cuatro elementos. Solo así podrá enfrentarse a la Nación de Fuego... y restaurar la paz en su mundo.",
-        "anio": "2010",
-        "genero": "Acción, Aventura, Fantasía",
-        "duracion": "103 min"
       }
     ]
   },

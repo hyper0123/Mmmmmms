@@ -1643,7 +1643,7 @@
         "type": "PELICULA",
         "descripcion": "Un cazador de tesoros se encuentra en una espiral de violencia después de tropezar con una bolsa de dinero en medio del desierto texano. Perseguido por un despiadado asesino, se desencadena una serie de eventos mortales que ponen a prueba su astucia y su supervivencia en un juego donde cada decisión tiene consecuencias letales.",
         "anio": "2007",
-        "genero": "Crimen, Drama, Suspense",
+        "genero": "Crimen, Suspense, Western",
         "duracion": "122 min"
       }
     ]
@@ -2593,7 +2593,7 @@
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/bcT8CaBIj086WVD7K529h78eujb.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/dwViqewRlt07sjtLvQhIWMWTZVw.png",
         "type": "PELICULA",
-        "descripcion": "Ambientado en un mundo de fantasía suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe aún algo de magia en el mundo que les permita pasar un último día con su padre, que falleció cuando ellos eran aún muy pequeños como para poder recordarlo.",
+        "descripcion": "Ian y Barley Lightfoot, dos hermanos elfos adolescentes, se embarcan en una búsqueda extraordinaria para describir si todavía queda un poco de magia ahí afuera.",
         "anio": "2020",
         "genero": "Familia, Comedia, Aventura, Animación, Fantasía",
         "duracion": "102 min"
@@ -6704,7 +6704,7 @@
         "name": "Almas perdidas",
         "url": "http://144.217.70.79/VODS-M/1080P/River%20of%20No%20Return%201954.mkv",
         "icono": "https://image.tmdb.org/t/p/original/k6BRHMurq2E86nOs1G4TpVYhznz.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5xMXGBu26RniRX7wwRrijshLDD6.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/k3GZyXgMnphYfJFBSrfx60HDmUC.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/hMRbvE6U82KJFUoTRxm3aC65AtU.png",
         "type": "PELICULA",
         "descripcion": "Matt Calder (Robert Mitchum) llega a un campamento minero para hacerse cargo de su hijo de nueve años, Mark, y agradecer a Kay (Marilyn Monroe), la cantante del saloon, que le haya cuidado. Padre e hijo se dirigen a la granja que ha comprado junto a un caudaloso río pero su tranquilidad es interrumpida por la llegada de Kay, acompañada de Weston, un jugador profesional que huye con los caballos dejándoles indefensos ante el ataque de los indios. Su única salida es huir en la balsa que, a duras penas, resiste el envite de las aguas bravas. En la huida y teniendo que superar numerosos peligrosos que se van encontrando a su paso, Matt y Kay se irán enamorando poco a poco.",
@@ -11314,7 +11314,7 @@
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/nuijC0rSLcVfkfxEJVdqMDrnSba.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/gGbDMT6b4J6Ha8KzO6pVXa8PHfY.png",
         "type": "PELICULA",
-        "descripcion": "Shredder y su compinche El Clan del Pie dominan las calles de Nueva York. Sin embargo, cuatro tortugas mutantes (Leonardo, Michelangelo, Donatello y Raphael) saldrán de las alcantarillas para salvar la ciudad, junto con la reportera Abril O'Neil y su compañero Vern Fenwick.",
+        "descripcion": "Shredder y el Clan del Pie dominan las calles de Nueva York. Pero, cuatro tortugas mutantes (Leonardo, Michelangelo, Donatello y Raphael) saldrán de las alcantarillas para salvar la ciudad, junto con la reportera Abril O'Neil y su compañero Vern Fenwick.",
         "anio": "2014",
         "genero": "Ciencia ficción, Acción, Aventura, Comedia",
         "duracion": "102 min"
@@ -21545,7 +21545,7 @@
         "name": "La Ballena",
         "url": "http://144.217.70.79/VODS-M/1080P/The%20Whale%202022.mkv",
         "icono": "https://image.tmdb.org/t/p/original/l6Jbj5dnljC3qJ4Lkpzgu9tK13M.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/gSkO9BqdiDR2ltRrsub7AVL75Tq.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/72dLGgN4ZvgxWRR2fhjine4yMmY.png",
         "type": "PELICULA",
         "descripcion": "Un profesor de inglés solitario que sufre de obesidad severa intenta volver a conectarse con su hija adolescente separada para tener una última oportunidad de redención.",
@@ -24684,19 +24684,19 @@
     ]
   },
   {
-    "name": "Drama",
+    "name": "Acción",
     "samples": [
       {
-        "name": "Lisabi: The Uprising",
+        "name": "Invasión, insurrección",
         "url": "http://144.217.70.79/VODS-M/1080P/Uprising%202024.mkv",
-        "icono": "https://image.tmdb.org/t/p/original/1q3Ze0FVuV82pSrAWEGlC4PWu2h.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/xf461ETw77oZoKtMoK8NrPAacDb.jpg",
-        "iconpng": "",
+        "icono": "https://image.tmdb.org/t/p/original/u7BbfoOND2qtKUslMbPhgHVuVFK.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/qcHOh5PoygMtPbhpeBC0VUNNtAp.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/8MbaNq9BEF5n5xGPIwoetyluBvZ.png",
         "type": "PELICULA",
-        "descripcion": "",
+        "descripcion": "Durante la dinastía Joseon, dos amigos que compartieron su infancia —uno era el amo y el otro el sirviente— vuelven a encontrarse después de la guerra, pero en facciones opuestas.",
         "anio": "2024",
-        "genero": "Drama",
-        "duracion": "107 min"
+        "genero": "Acción, Drama, Historia",
+        "duracion": "126 min"
       }
     ]
   },
